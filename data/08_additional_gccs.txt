@@ -1,0 +1,175 @@
+# Additional GCCs and companies with cybersecurity teams in India
+Wells Fargo EGS|GCC - BFSI|-|-|-|-|-|-
+Deutsche Börse (Clearstream)|GCC - BFSI|Frankfurt, Germany|B|€5.8B (net revenue)|CY2024|Reported|Information security
+Euroclear|GCC - BFSI|Brussels, Belgium|B|€1.9B (business income)|CY2024|Reported|Cyber security operations
+ING (ING Hubs)|GCC - BFSI|Amsterdam, Netherlands|B,M|€22.6B (total income)|CY2024|Reported|Cyber security
+ABN AMRO|GCC - BFSI|Amsterdam, Netherlands|B|€8.8B|CY2024|Reported|Cyber security
+Rabobank|GCC - BFSI|Utrecht, Netherlands|M|€14.3B|CY2024|Reported|Information security
+Mizuho Financial Group|GCC - BFSI|Tokyo, Japan|M|~$25B (gross profits)|FY25 (Mar)|Estimate|Information security
+Westpac|GCC - BFSI|Sydney, Australia|B|A$21.5B|FY24 (Sep)|Reported|Cyber security
+MetLife|GCC - BFSI|New York, USA|N,B|$70.9B|CY2024|Reported|Cyber security operations
+Prudential plc|GCC - BFSI|London / Hong Kong|M|~$11B|CY2024|Estimate|Information security
+AXA (AXA XL India)|GCC - BFSI|Paris, France|B,G|€110B (gross revenues)|CY2024|Reported|Cyber security
+Munich Re|GCC - BFSI|Munich, Germany|B|€60.8B (insurance revenue)|CY2024|Reported|Cyber security
+AIG|GCC - BFSI|New York, USA|B,M|$27.3B|CY2024|Reported|Cyber security
+Liberty Mutual|GCC - BFSI|Boston, USA|H|$50.0B|CY2024|Reported|Cyber security operations
+Lincoln Financial|GCC - BFSI|Radnor, USA|H|$18.4B|CY2024|Reported|Cyber security
+Truist Financial|GCC - BFSI|Charlotte, USA|H|~$20B|CY2024|Estimate|Cyber security operations
+U.S. Bancorp|GCC - BFSI|Minneapolis, USA|B|$27.3B|CY2024|Reported|Cyber security
+Charles Schwab|GCC - BFSI|Westlake, USA|H|$19.6B|CY2024|Reported|Cyber security
+T. Rowe Price|GCC - BFSI|Baltimore, USA|H|$7.1B|CY2024|Reported|Information security
+Vanguard|GCC - BFSI|Malvern, USA|H|~$7B|CY2024|Estimate|Cyber security (Hyderabad centre)
+CME Group|GCC - BFSI|Chicago, USA|B|$6.1B|CY2024|Reported|Information security
+Global Payments|GCC - BFSI|Atlanta, USA|P,B|$10.1B|CY2024|Reported|Cyber security operations
+Equifax|GCC - BFSI|Atlanta, USA|M,T|$5.7B|CY2024|Reported|Cyber fusion centre
+Capital Group|GCC - BFSI|Los Angeles, USA|H|~$8B|CY2024|Estimate|Information security
+Bread Financial|GCC - BFSI|Columbus, USA|B|$4.8B|CY2024|Reported|Information security
+Worldline|GCC - BFSI|Paris, France|M,P|€4.6B|CY2024|Reported|Payments security, SOC
+Ingenico|GCC - BFSI|Paris, France|B|~€1.2B|CY2024|Estimate|Payments device security
+Fidelity National Financial|GCC - BFSI|Jacksonville, USA|B|$13.7B|CY2024|Reported|Information security
+Wipro-HSBC? |-|-|-|-|-|-|-
+Siemens Energy|GCC - Energy & Industrial|Munich, Germany|B,P|€34.5B|FY24 (Sep)|Reported|OT cybersecurity, CERT
+Linde|GCC - Energy & Industrial|Woking, UK|B,K|$33.0B|CY2024|Reported|Cyber security
+Air Liquide|GCC - Energy & Industrial|Paris, France|P|€27.1B|CY2024|Reported|Cyber security
+TotalEnergies|GCC - Energy & Industrial|Paris, France|P,M|$195.6B|CY2024|Reported|Cyber security
+Wärtsilä|GCC - Energy & Industrial|Helsinki, Finland|M|€6.4B|CY2024|Reported|OT/marine cyber security
+Alstom|GCC - Energy & Industrial|Saint-Ouen, France|B,H|€18.5B|FY25 (Mar)|Reported|Rail cybersecurity
+Hitachi Energy|GCC - Energy & Industrial|Zurich, Switzerland|B,C|$16.0B|FY25|Estimate|OT/grid cybersecurity, PSIRT
+Stellantis|GCC - Energy & Industrial|Amsterdam, Netherlands|H,P|€156.9B|CY2024|Reported|Vehicle cyber security
+Ford Motor (Ford Business Solutions)|GCC - Energy & Industrial|Dearborn, USA|C|$185.0B|CY2024|Reported|Cyber security operations
+Volkswagen Group (incl. Skoda, VW IT)|GCC - Energy & Industrial|Wolfsburg, Germany|P|€324.7B|CY2024|Reported|Cyber security operations
+Renault Nissan Technology & Business Centre|GCC - Energy & Industrial|Paris / Yokohama|C|€56.2B (Renault)|CY2024|Reported|Cyber security
+Valeo|GCC - Energy & Industrial|Paris, France|C|€21.5B|CY2024|Reported|Automotive cyber security
+Magna International|GCC - Energy & Industrial|Aurora, Canada|B,P|$42.8B|CY2024|Reported|Information security
+Lear Corporation|GCC - Energy & Industrial|Southfield, USA|P|$23.3B|CY2024|Reported|Information security
+Garrett Motion|GCC - Energy & Industrial|Rolle, Switzerland|B|$3.5B|CY2024|Reported|Automotive cyber security
+Otis Worldwide|GCC - Energy & Industrial|Farmington, USA|B|$14.3B|CY2024|Reported|Product security
+Trane Technologies|GCC - Energy & Industrial|Swords, Ireland|B|$19.8B|CY2024|Reported|Information security
+Parker Hannifin|GCC - Energy & Industrial|Cleveland, USA|C,P|$19.9B|FY25 (Jun)|Reported|Information security
+Lockheed Martin|GCC - Energy & Industrial|Bethesda, USA|H|$71.0B|CY2024|Reported|Cyber security
+Safran|GCC - Energy & Industrial|Paris, France|H,B|€27.3B|CY2024|Reported|Cyber security
+Applied Intuition|GCC - Energy & Industrial|Mountain View, USA|B|~$400M|CY2024|Estimate|Product security
+Ciena|GCC - Technology|Hanover, USA|G,B|$4.0B|FY24 (Oct)|Reported|Product security
+CommScope|GCC - Technology|Claremont, USA|B,G|$4.2B (continuing ops)|CY2024|Reported|Product security
+Keysight Technologies|GCC - Technology|Santa Rosa, USA|G,B|$4.98B|FY24 (Oct)|Reported|Network security test (Ixia), threat research
+Seagate Technology|GCC - Technology|Dublin, Ireland|P|$6.55B|FY24 (Jun)|Reported|Information security
+Renesas Electronics|GCC - Technology|Tokyo, Japan|B,H|JPY 1.35T|CY2024|Reported|Product security
+STMicroelectronics|GCC - Technology|Geneva, Switzerland|N|$13.3B|CY2024|Reported|Product security
+KLA Corporation|GCC - Technology|Milpitas, USA|C,B|$9.8B|FY24 (Jun)|Reported|Information security
+Analog Devices|GCC - Technology|Wilmington, USA|B|$9.4B|FY24 (Oct)|Reported|Product security
+Microchip Technology|GCC - Technology|Chandler, USA|B,C|$7.6B|FY24 (Mar)|Reported|Product security
+Arm Holdings|GCC - Technology|Cambridge, UK|B|$4.0B|FY25 (Mar)|Reported|Security architecture
+Sony India Software Centre|GCC - Technology|Tokyo, Japan|B|~$85B (JPY 13.0T)|FY25 (Mar)|Reported|Product security
+Philips Innovation Campus|GCC - Technology|-|-|-|-|-|-
+Expedia Group|GCC - Technology|Seattle, USA|G,B|$13.7B|CY2024|Reported|Security operations
+Booking Holdings (Agoda)|GCC - Technology|Norwalk, USA|B,G|$23.7B|CY2024|Reported|Security engineering
+eBay|GCC - Technology|San Jose, USA|B|$10.3B|CY2024|Reported|Security operations
+Wayfair|GCC - Technology|Boston, USA|B|$11.9B|CY2024|Reported|Security engineering
+Zoom Communications|GCC - Technology|San Jose, USA|B,C|$4.67B|FY25 (Jan)|Reported|Security operations
+Dropbox|GCC - Technology|San Francisco, USA|B,R|$2.55B|CY2024|Reported|Security engineering
+Box|GCC - Technology|Redwood City, USA|P|$1.04B|FY24 (Jan)|Reported|Security operations
+MongoDB|GCC - Technology|New York, USA|G,B|$2.01B|FY25 (Jan)|Reported|Security engineering
+Confluent|GCC - Technology|Mountain View, USA|B|$963M|CY2024|Reported|Security engineering
+Zendesk|GCC - Technology|San Francisco, USA|P,B|~$2B|CY2024|Estimate|Security operations
+HubSpot|GCC - Technology|Cambridge, USA|B|$2.63B|CY2024|Reported|Security engineering
+Coinbase|GCC - Technology|Remote-first, USA|R,B|$6.56B|CY2024|Reported|Security operations, threat intel
+Gojek/GoTo? |-|-|-|-|-|-|-
+Bloomberg LP|GCC - Technology|New York, USA|M|~$13B|CY2024|Estimate|Information security
+Gartner|GCC - Technology|Stamford, USA|G|$6.27B|CY2024|Reported|Information security
+RELX (LexisNexis, Elsevier)|GCC - Technology|London, UK|C,G|£9.4B|CY2024|Reported|Information security
+Nielsen (NielsenIQ)|GCC - Technology|Chicago, USA|M,C,P|~$4B|CY2024|Estimate|Information security
+Ubisoft India|GCC - Technology|Saint-Mandé, France|P|€2.3B|FY24 (Mar)|Reported|Security engineering
+Sabre|GCC - Technology|Southlake, USA|B|$3.0B|CY2024|Reported|Cyber security operations
+Amadeus|GCC - Technology|Madrid, Spain|B|€6.1B|CY2024|Reported|Security operations
+Accolite (Bounteous x Accolite)|IT Services / Consulting|Chicago, USA|H,B,G|~$500M|CY2024|Estimate|Cybersecurity services
+Ascendion|IT Services / Consulting|Basking Ridge, USA|B,H,C,P|~$500M|CY2024|Estimate|Cybersecurity services
+Altimetrik|IT Services / Consulting|Southfield, USA|B,P,C,H|~$500M|CY2024|Estimate|Security engineering
+Nagarro|IT Services / Consulting|Munich, Germany|G,P,B|€1.0B|CY2024|Reported|Cybersecurity services
+Xoriant|IT Services / Consulting|Sunnyvale, USA|P,M,B|~$300M|CY2024|Estimate|Security engineering
+Apexon|IT Services / Consulting|Santa Clara, USA|P,A,B|~$300M|CY2024|Estimate|Cybersecurity services
+Quess Corp (Quess IT staffing)|IT Services / Consulting|Bengaluru, India|B,H,P|Rs ~19,000 Cr|FY25 (Mar)|Reported|Cyber staffing (SOC analysts placement)
+TeamLease Digital|IT Services / Consulting|Bengaluru, India|B,H,P,M|Rs ~11,000 Cr (TeamLease)|FY25 (Mar)|Reported|Cyber staffing
+Hinduja Global Solutions|IT Services / Consulting|Mumbai, India|M,B|Rs ~4,600 Cr|FY25 (Mar)|Reported|Information security
+Datamatics Global Services|IT Services / Consulting|Mumbai, India|M,P,B|Rs ~1,700 Cr|FY25 (Mar)|Reported|Cybersecurity services
+Intellect Design Arena|IT Services / Consulting|Chennai, India|C,M,B|Rs ~2,500 Cr|FY25 (Mar)|Reported|Product security
+Newgen Software|IT Services / Consulting|New Delhi, India|N,M,B|Rs ~1,500 Cr|FY25 (Mar)|Reported|Information security
+Nucleus Software|IT Services / Consulting|Noida, India|N,M|Rs ~850 Cr|FY25 (Mar)|Reported|Information security
+Mindsprint|IT Services / Consulting|Singapore / Bengaluru|B,C|~$200M|FY24|Estimate|Cybersecurity services
+Movate (formerly CSS Corp)|IT Services / Consulting|Plano, USA / Chennai|C,B|~$300M|FY24|Estimate|Security operations services
+Sutherland Global|IT Services / Consulting|Rochester, USA|C,H,B|~$2.5B|CY2024|Estimate|Cyber security operations
+Teleperformance (incl. Majorel)|IT Services / Consulting|Paris, France|M,G,H,B|€10.3B|CY2024|Reported|Trust & safety, information security
+TaskUs|IT Services / Consulting|New Braunfels, USA|M,N,R|$995M|CY2024|Reported|Trust & safety, fraud/security ops
+Firstsource Solutions|IT Services / Consulting|Mumbai, India|M,B,C|Rs ~7,900 Cr|FY25 (Mar)|Reported|Information security
+iEnergizer? |-|-|-|-|-|-|-
+Tata Elxsi? |-|-|-|-|-|-|-
+Netcore Cloud|GCC - Technology|Mumbai, India|M,B|Rs ~1,000 Cr|FY24 (Mar)|Estimate|Security engineering
+Druva India? |-|-|-|-|-|-|-
+Icertis|GCC - Technology|Bellevue, USA / Pune|P|~$250M ARR|FY24|Estimate|Security operations
+Highradius|GCC - Technology|Houston, USA / Hyderabad|H|~$200M|FY24|Estimate|Security engineering
+Darwinbox|GCC - Technology|Hyderabad, India|H|Rs ~500 Cr|FY25 (Mar)|Estimate|Security engineering
+MoEngage|GCC - Technology|Bengaluru / San Francisco|B|~$100M ARR|FY25|Estimate|Security engineering
+Whatfix|GCC - Technology|San Jose, USA / Bengaluru|B|~$100M ARR|FY25|Estimate|Security engineering
+Innovaccer|GCC - Technology|San Francisco, USA / Noida|N,B|~$250M|FY25|Estimate|Healthcare data security
+Mindtickle|GCC - Technology|San Francisco, USA / Pune|P|~$100M|FY24|Estimate|Security engineering
+Eightfold AI|GCC - Technology|Santa Clara, USA / Bengaluru|B|~$150M|FY24|Estimate|Security engineering
+Zeta (Better World Technology)|Indian Enterprise - Fintech|Bengaluru, India|B,H|~$250M|FY25|Estimate|Payments security, SOC
+Uniphore|GCC - Technology|Palo Alto, USA / Chennai|C,B|~$100M|FY24|Estimate|Security engineering
+Capillary Technologies|GCC - Technology|Bengaluru, India|B|Rs ~600 Cr|FY25 (Mar)|Reported|Security engineering
+Hasura|GCC - Technology|San Francisco, USA / Bengaluru|B,R|~$30M|FY24|Estimate|Security engineering
+Tekion|GCC - Technology|Pleasanton, USA / Bengaluru|B,C|~$300M|FY24|Estimate|Security operations
+Chargebee|GCC - Technology|San Francisco, USA / Chennai|C,B|~$150M ARR|FY24|Estimate|Security engineering
+Zoho Corporation (ManageEngine)|Cybersecurity Product Vendor|Chennai, India|C,B,P,H|Rs ~10,000 Cr|FY24 (Mar)|Estimate|Log360 SIEM, PAM360, SOC product engineering
+K7 Computing|Indian Cyber Product / Startup|Chennai, India|C,B,R|Rs ~150 Cr|FY24 (Mar)|Estimate|Endpoint security, threat labs
+Kratikal Tech|Indian Cyber Product / Startup|Noida, India|N,R|Rs ~50 Cr|FY24 (Mar)|Estimate|Threatcop, VAPT, SOC services
+Innefu Labs|Indian Cyber Product / Startup|New Delhi, India|D,R|Rs ~50 Cr|FY24 (Mar)|Estimate|AI-driven intelligence, OSINT
+Haltdos|Indian Cyber Product / Startup|Noida, India|N,R|Rs ~20 Cr|FY24 (Mar)|Estimate|DDoS mitigation, WAF
+Vehere|Indian Cyber Product / Startup|Kolkata, India / San Francisco|K,B,R|Rs ~100 Cr|FY24 (Mar)|Estimate|Network detection & response
+Protectt.ai|Indian Cyber Product / Startup|Gurugram, India|G,M,R|Rs ~30 Cr|FY24 (Mar)|Estimate|Mobile app protection, fraud
+Mfilterit|Indian Cyber Product / Startup|Gurugram, India|G,M|Rs ~50 Cr|FY24 (Mar)|Estimate|Digital fraud & brand protection
+Cyberwarfare Labs? |-|-|-|-|-|-|-
+Threatsys Technologies|MSSP / MDR / Cyber Services|Bhubaneswar, India|O,R|Rs ~10 Cr|FY24 (Mar)|Estimate|SOC, VAPT
+eSec Forte Technologies|MSSP / MDR / Cyber Services|Gurugram, India|G,M,B|Rs ~60 Cr|FY24 (Mar)|Estimate|SOC, DFIR, VAPT
+Ishan Technologies|MSSP / MDR / Cyber Services|Ahmedabad, India|A,M,P|Rs ~400 Cr|FY24 (Mar)|Estimate|Managed security, SOC
+Orient Technologies|MSSP / MDR / Cyber Services|Mumbai, India|M,P|Rs ~800 Cr|FY25 (Mar)|Reported|Managed security services
+Dynacons Systems & Solutions|MSSP / MDR / Cyber Services|Mumbai, India|M|Rs ~1,250 Cr|FY25 (Mar)|Reported|IT infra & security services
+Galaxy Office Automation|MSSP / MDR / Cyber Services|Mumbai, India|M,P,B|Rs ~600 Cr|FY24 (Mar)|Estimate|Security integration, SOC
+Embee Software|MSSP / MDR / Cyber Services|Kolkata, India|K,M,B|Rs ~700 Cr|FY24 (Mar)|Estimate|Microsoft security services, SOC
+Crossbow Labs|MSSP / MDR / Cyber Services|Bengaluru, India|B|Rs ~20 Cr|FY24 (Mar)|Estimate|PCI compliance, SOC, VAPT
+Cyber Ninjas? |-|-|-|-|-|-|-
+Entersoft Security|MSSP / MDR / Cyber Services|Hyderabad, India / Sydney|H,R|Rs ~20 Cr|FY24 (Mar)|Estimate|AppSec, blockchain security
+Hackersera|MSSP / MDR / Cyber Services|Bengaluru, India|B,R|Rs ~5 Cr|FY24 (Mar)|Estimate|VAPT, SOC
+Briskinfosec|MSSP / MDR / Cyber Services|Chennai, India|C,R|Rs ~15 Cr|FY24 (Mar)|Estimate|VAPT, SOC
+Wattlecorp Cybersecurity Labs|MSSP / MDR / Cyber Services|Kozhikode, India|O,B,R|Rs ~10 Cr|FY24 (Mar)|Estimate|VAPT, SOC
+Tsaaro Consulting|MSSP / MDR / Cyber Services|Bengaluru, India|B,P|Rs ~10 Cr|FY24 (Mar)|Estimate|Privacy & data protection, GRC
+Intrucept|MSSP / MDR / Cyber Services|Bengaluru, India|B,R|Rs ~10 Cr|FY24 (Mar)|Estimate|SOC, VAPT, GRC
+Cyberops Infosec|MSSP / MDR / Cyber Services|Jaipur, India|O,R|Rs ~10 Cr|FY24 (Mar)|Estimate|SOC, VAPT
+CyberSapiens United|MSSP / MDR / Cyber Services|Bengaluru, India|B,R|Rs ~5 Cr|FY24 (Mar)|Estimate|VAPT, SOC
+Peneto Labs|MSSP / MDR / Cyber Services|Chennai, India|C,R|Rs ~5 Cr|FY24 (Mar)|Estimate|VAPT, managed security
+Cyber Sentinel? |-|-|-|-|-|-|-
+Bitsight|Cybersecurity Product Vendor|Boston, USA|R|~$300M|CY2024|Estimate|Security ratings, TI (Cybersixgill)
+SecurityScorecard|Cybersecurity Product Vendor|New York, USA|R,B|~$150M|CY2024|Estimate|Security ratings, STRIKE threat intel
+Kaseya (incl. Datto)|Cybersecurity Product Vendor|Miami, USA|B|~$2B|CY2024|Estimate|MDR, RocketCyber SOC
+ConnectWise|Cybersecurity Product Vendor|Tampa, USA|P,B|~$1.5B|CY2024|Estimate|SOC services for MSPs
+N-able|Cybersecurity Product Vendor|Burlington, USA|R|$466M|CY2024|Reported|MDR (Adlumin)
+SolarWinds|Cybersecurity Product Vendor|Austin, USA|B,P|$797M|CY2024|Reported|Security event monitoring, PSIRT
+NinjaOne|Cybersecurity Product Vendor|Austin, USA|R|~$250M ARR|CY2024|Estimate|Endpoint management/security
+Kandji|Cybersecurity Product Vendor|San Diego, USA|B|~$100M|CY2024|Estimate|Endpoint security
+CloudKnox? |-|-|-|-|-|-|-
+Uptycs|Cybersecurity Product Vendor|Waltham, USA|B,R|~$50M|CY2024|Estimate|XDR, CNAPP, threat research (large Bengaluru R&D)
+Salt Security|Cybersecurity Product Vendor|Palo Alto, USA|B,R|~$50M|CY2024|Estimate|API security
+Traceable AI (Harness)|Cybersecurity Product Vendor|San Francisco, USA|B|~$50M|CY2024|Estimate|API threat detection
+Harness|Cybersecurity Product Vendor|San Francisco, USA|B|~$250M ARR|CY2024|Estimate|DevSecOps, STO
+Cequence Security|Cybersecurity Product Vendor|Sunnyvale, USA|B,R|~$50M|CY2024|Estimate|API & bot security
+Data Theorem? |-|-|-|-|-|-|-
+Nutanix? |-|-|-|-|-|-|-
+Opswat|Cybersecurity Product Vendor|Tampa, USA|R|~$150M|CY2024|Estimate|OT/CIP security
+Cyberhaven|Cybersecurity Product Vendor|San Jose, USA|R|~$100M|CY2024|Estimate|Data detection & response
+Cohere? |-|-|-|-|-|-|-
+Splashtop|Cybersecurity Product Vendor|Cupertino, USA|R|~$100M|CY2024|Estimate|Secure remote access
+Hexnode (Mitsogo)|Indian Cyber Product / Startup|Kochi, India|O,R|Rs ~100 Cr|FY24 (Mar)|Estimate|UEM, endpoint security
+Ezeia? |-|-|-|-|-|-|-
+Mosambee? |-|-|-|-|-|-|-
+Signzy|Indian Cyber Product / Startup|Bengaluru, India|B,M|Rs ~100 Cr|FY24 (Mar)|Estimate|Digital identity & fraud risk
+IDfy|Indian Cyber Product / Startup|Mumbai, India|M,B|Rs ~150 Cr|FY24 (Mar)|Estimate|Identity verification, fraud & risk
+HyperVerge|Indian Cyber Product / Startup|Bengaluru, India / Palo Alto|B|Rs ~150 Cr|FY24 (Mar)|Estimate|Identity verification, deepfake/fraud detection
+Bobble? |-|-|-|-|-|-|-

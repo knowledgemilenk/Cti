@@ -1,0 +1,92 @@
+# GCCs / India engineering centres - Technology, Software, Internet, Semiconductors, Telecom, Media
+Amazon (incl. AWS)|GCC - Technology|Seattle, USA|H,B,P,M,C|$638.0B|CY2024|Reported|AWS Security, SOC, IR, detection engineering, TI
+Google (Alphabet, incl. Google Cloud Security)|GCC - Technology|Mountain View, USA|H,B,G,P,M|$350.0B|CY2024|Reported|Detection & response, Google SecOps/Chronicle, TAG, Trust & Safety
+Meta Platforms|GCC - Technology|Menlo Park, USA|H,B,M,G|$164.5B|CY2024|Reported|Security engineering, threat investigations
+Apple|GCC - Technology|Cupertino, USA|H,B|$391.0B|FY24 (Sep)|Reported|Information security, SOC
+Oracle|GCC - Technology|Austin, USA|B,H,M,P|$57.4B|FY25 (May)|Reported|OCI security ops, GIS, CSIRT
+SAP Labs India|GCC - Technology|Walldorf, Germany|B,P,G|€34.2B|CY2024|Reported|Cyber defence & design centre, SOC
+Salesforce|GCC - Technology|San Francisco, USA|H,B|$37.9B|FY25 (Jan)|Reported|Detection & response, CSIRT
+Adobe|GCC - Technology|San Jose, USA|N,B|$21.5B|FY24 (Nov)|Reported|Security operations, product security
+Intuit|GCC - Technology|Mountain View, USA|B|$18.8B|FY25 (Jul)|Reported|Cyber security & fraud prevention
+Autodesk|GCC - Technology|San Francisco, USA|B,P|$6.13B|FY25 (Jan)|Reported|Security operations, IR
+Atlassian|GCC - Technology|Sydney, Australia|B,R|$5.2B|FY25 (Jun)|Reported|Detection & response (remote-first)
+Workday|GCC - Technology|Pleasanton, USA|P|$8.45B|FY25 (Jan)|Reported|Security operations
+ServiceNow|GCC - Technology|Santa Clara, USA|H,B|$10.98B|CY2024|Reported|SecOps product engineering, CSIRT, corporate SOC
+Uber|GCC - Technology|San Francisco, USA|H,B|$44.0B|CY2024|Reported|Security operations, detection engineering
+Intel|GCC - Technology|Santa Clara, USA|B,H|$53.1B|CY2024|Reported|Product security, PSIRT, SOC
+AMD|GCC - Technology|Santa Clara, USA|H,B|$25.8B|CY2024|Reported|Product & corporate security
+NVIDIA|GCC - Technology|Santa Clara, USA|P,B,H|$130.5B|FY25 (Jan)|Reported|PSIRT, security operations
+Qualcomm|GCC - Technology|San Diego, USA|H,B,C|$39.0B|FY24 (Sep)|Reported|Product security, SOC
+Micron Technology|GCC - Technology|Boise, USA|H|$25.1B|FY24 (Aug)|Reported|Cyber security operations
+Applied Materials|GCC - Technology|Santa Clara, USA|B,C|$27.2B|FY24 (Oct)|Reported|Information security
+Lam Research|GCC - Technology|Fremont, USA|B|$18.4B|FY25 (Jun)|Reported|Information security
+Texas Instruments|GCC - Technology|Dallas, USA|B|$15.6B|CY2024|Reported|Information security
+Western Digital|GCC - Technology|San Jose, USA|B|~$9.5B|FY25 (Jun)|Reported|Information security
+NetApp|GCC - Technology|San Jose, USA|B|$6.57B|FY25 (Apr)|Reported|Security operations, ransomware protection
+Nutanix|GCC - Technology|San Jose, USA|B,P|$2.15B|FY24 (Jul)|Reported|Security engineering
+Dell Technologies|GCC - Technology|Round Rock, USA|B,H|$95.6B|FY25 (Jan)|Reported|CSIRT, cyber security ops
+HP Inc (Wolf Security)|GCC - Technology|Palo Alto, USA|B|$53.6B|FY24 (Oct)|Reported|Threat research, SOC
+Hewlett Packard Enterprise|GCC - Technology|Houston, USA|B|$30.1B|FY24 (Oct)|Reported|Cyber security, SOC
+Lenovo|GCC - Technology|Beijing / Morrisville, USA|B|$69.1B|FY25 (Mar)|Reported|Product security, PSIRT
+Samsung R&D Institute India|GCC - Technology|Suwon, South Korea|B,N|KRW 300.9T|CY2024|Reported|Knox security research, PSIRT
+LG Soft India|GCC - Technology|Seoul, South Korea|B|KRW 87.7T|CY2024|Reported|Product security
+Synopsys|GCC - Technology|Sunnyvale, USA|B,H,N|$6.13B|FY24 (Oct)|Reported|Corporate CSIRT, security engineering
+Cadence Design Systems|GCC - Technology|San Jose, USA|B,N|$4.64B|CY2024|Reported|Information security
+Infineon Technologies|GCC - Technology|Neubiberg, Germany|B|€15.0B|FY24 (Sep)|Reported|Security operations, embedded security
+NXP Semiconductors|GCC - Technology|Eindhoven, Netherlands|B,N,H|$12.6B|CY2024|Reported|Product security, PSIRT
+Marvell Technology|GCC - Technology|Wilmington, USA|B,P,H|$5.77B|FY25 (Jan)|Reported|Information security
+Informatica|GCC - Technology|Redwood City, USA|B,H|$1.64B|CY2024|Reported|Security operations
+Teradata|GCC - Technology|San Diego, USA|H,M|$1.75B|CY2024|Reported|Information security
+Cloudera|GCC - Technology|Santa Clara, USA|B|~$1.0B|CY2024|Estimate|Security engineering
+Cloud Software Group (Citrix/Tibco)|GCC - Technology|Fort Lauderdale, USA|B,P|~$4.0B|CY2024|Estimate|Product security, SOC
+DocuSign|GCC - Technology|San Francisco, USA|B|$2.98B|FY25 (Jan)|Reported|Security operations, trust
+Twilio|GCC - Technology|San Francisco, USA|B|$4.46B|CY2024|Reported|Security operations, IR
+Rippling|GCC - Technology|San Francisco, USA|B|~$500M ARR|CY2024|Estimate|Security engineering, detection
+Postman|GCC - Technology|San Francisco, USA / Bengaluru|B|~$300M|CY2024|Estimate|Security operations
+BrowserStack|GCC - Technology|Mumbai, India / Dublin|M,R|~$300M|CY2024|Estimate|Security engineering
+InMobi|GCC - Technology|Bengaluru, India|B|~$1.0B|FY24|Estimate|InfoSec, fraud detection
+Freshworks|GCC - Technology|San Mateo, USA / Chennai|C,B,H|$720M|CY2024|Reported|Security operations, CSIRT
+PTC|GCC - Technology|Boston, USA|P|$2.30B|FY24 (Sep)|Reported|Information security
+Dassault Systèmes|GCC - Technology|Vélizy, France|P|€6.2B|CY2024|Reported|Information security
+Ansys (Synopsys)|GCC - Technology|Canonsburg, USA|P|$2.54B|CY2024|Reported|Information security
+Hexagon|GCC - Technology|Stockholm, Sweden|H|€5.4B|CY2024|Reported|Security operations
+Avaya|GCC - Technology|Morristown, USA|P|~$2.0B|FY24|Estimate|Product security, SOC
+Amdocs|GCC - Technology|Chesterfield, USA|P,G|$5.0B|FY24 (Sep)|Reported|Cyber security operations
+Extreme Networks|GCC - Technology|Morrisville, USA|B,C|$1.12B|FY24 (Jun)|Reported|PSIRT, security engineering
+Ribbon Communications|GCC - Technology|Plano, USA|B|$833M|CY2024|Reported|Product security
+Motorola Solutions|GCC - Technology|Chicago, USA|B,H|$10.8B|CY2024|Reported|Cybersecurity services (ActiveEye MDR)
+Zebra Technologies|GCC - Technology|Lincolnshire, USA|B,P|$4.98B|CY2024|Reported|Product security
+Electronic Arts|GCC - Technology|Redwood City, USA|H|$7.46B|FY25 (Mar)|Reported|Security operations
+Thomson Reuters|GCC - Technology|Toronto, Canada|B,H|$7.26B|CY2024|Reported|Cyber security operations
+Wolters Kluwer|GCC - Technology|Alphen aan den Rijn, Netherlands|P|€5.9B|CY2024|Reported|Information security
+Warner Bros. Discovery|GCC - Technology|New York, USA|H|$39.3B|CY2024|Reported|Cyber security operations
+Ericsson|GCC - Technology|Stockholm, Sweden|B,G,C,N|SEK 247.9B|CY2024|Reported|Product security, SOC for telcos
+Nokia|GCC - Technology|Espoo, Finland|B,C,G|€19.2B|CY2024|Reported|Telco security ops, NetGuard
+Vodafone Intelligent Solutions (_VOIS)|GCC - Technology|London, UK|P,B|€37.4B (Vodafone)|FY25 (Mar)|Reported|Cyber security operations centre (Pune)
+Telstra|GCC - Technology|Melbourne, Australia|H,B|A$23.6B|FY24 (Jun)|Reported|Cyber security, SOC
+Deutsche Telekom (T-Systems ICT India)|GCC - Technology|Bonn, Germany|P,B|€115.8B|CY2024|Reported|Cyber defence, SOC
+Harman International|GCC - Technology|Stamford, USA|B,P|~$11B|CY2024|Estimate|Automotive cyber security, vehicle SOC
+Microsoft (incl. India Development Center, Microsoft Security)|GCC - Technology|Redmond, USA|H,B,N|$281.7B|FY25 (Jun)|Reported|MSTIC threat intel, MSRC, CDOC, Defender Experts MDR, Sentinel engineering
+LinkedIn (Microsoft)|GCC - Technology|Sunnyvale, USA|B|$17.1B|FY25 (Jun)|Reported|Security operations, trust & safety
+Walmart Global Tech India|GCC - Retail & Consumer|Bentonville, USA|B,C|$681.0B|FY25 (Jan)|Reported|Cyber fusion centre, SOC, TI, IR
+Target in India|GCC - Retail & Consumer|Minneapolis, USA|B|$106.6B|FY24 (Feb)|Reported|Cyber fusion centre, SOC, IR
+Lowe's India|GCC - Retail & Consumer|Mooresville, USA|B|$83.7B|FY24 (Jan)|Reported|Cyber security operations, SOC
+Tesco Business Solutions / Tesco Technology|GCC - Retail & Consumer|Welwyn Garden City, UK|B|£63.6B (ex-VAT)|FY25 (Feb)|Reported|Security operations centre, TI
+Sainsbury's Tech India|GCC - Retail & Consumer|London, UK|B|£32.7B|FY25 (Mar)|Reported|Cyber security operations
+Marks & Spencer|GCC - Retail & Consumer|London, UK|B|£13.0B|FY24 (Mar)|Reported|Cyber security
+Kohl's Technology Centre|GCC - Retail & Consumer|Menomonee Falls, USA|B|$16.2B|FY24 (Feb)|Reported|Cyber security operations
+Lululemon|GCC - Retail & Consumer|Vancouver, Canada|B|$10.6B|FY24 (Feb)|Reported|Information security
+Levi Strauss & Co.|GCC - Retail & Consumer|San Francisco, USA|B|$6.36B|FY24 (Nov)|Reported|Information security
+McDonald's (Global Office India)|GCC - Retail & Consumer|Chicago, USA|H|$25.9B|CY2024|Reported|Cyber security operations
+PepsiCo|GCC - Retail & Consumer|Purchase, USA|H|$91.9B|CY2024|Reported|Cyber security operations, SOC
+Procter & Gamble|GCC - Retail & Consumer|Cincinnati, USA|M|$84.0B|FY24 (Jun)|Reported|Information security
+Mondelez International|GCC - Retail & Consumer|Chicago, USA|M|$36.4B|CY2024|Reported|Cyber security operations
+Diageo|GCC - Retail & Consumer|London, UK|B|$20.2B|FY25 (Jun)|Reported|Cyber security
+AB InBev (GCC India)|GCC - Retail & Consumer|Leuven, Belgium|B|$59.8B|CY2024|Reported|Cyber security operations
+Unilever (incl. Hindustan Unilever)|GCC - Retail & Consumer|London, UK|M,B|€60.8B|CY2024|Reported|Cyber security operations
+Cargill|GCC - Retail & Consumer|Minneapolis, USA|B|$160B|FY24 (May)|Reported|Cyber security, SOC
+Archer Daniels Midland (ADM)|GCC - Retail & Consumer|Chicago, USA|B|$85.5B|CY2024|Reported|Cyber security
+Marriott International|GCC - Retail & Consumer|Bethesda, USA|H|$25.1B|CY2024|Reported|Cyber security operations
+American Airlines|GCC - Retail & Consumer|Fort Worth, USA|H|$54.2B|CY2024|Reported|Cyber security operations
+FedEx (FedEx ACC India)|GCC - Retail & Consumer|Memphis, USA|H|$87.7B|FY24 (May)|Reported|Cyber security operations
+A.P. Moller - Maersk|GCC - Retail & Consumer|Copenhagen, Denmark|B,P,M|$55.5B|CY2024|Reported|Cyber security operations, SOC

@@ -1,0 +1,700 @@
+S.No,Company,Category,Global HQ,India locations (all),Bengaluru,Pune,Mumbai,Hyderabad,Remote/Hybrid,Annual revenue,Revenue period,Revenue basis,Blue-team functions / teams in India
+1,1Password,Cybersecurity Product Vendor,"Toronto, Canada",Remote/Hybrid,,,,,Yes,~$300M,CY2024,Estimate,Detection & response
+2,Abnormal Security,Cybersecurity Product Vendor,"San Francisco, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$200M ARR,CY2024,Estimate,Email threat detection
+3,AccuKnox,Cybersecurity Product Vendor,"Cupertino, USA / Bengaluru","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$5M,FY24,Estimate,"CNAPP, runtime security"
+4,Acronis,Cybersecurity Product Vendor,"Schaffhausen, Switzerland",Bengaluru,Yes,,,,,~$500M,CY2024,Estimate,Cyber protect operations centre
+5,Akamai Technologies,Cybersecurity Product Vendor,"Cambridge, USA","Bengaluru, Mumbai/Navi Mumbai, Hyderabad",Yes,,Yes,Yes,,$3.99B,CY2024,Reported,"SOC Command Center (Bengaluru), threat research"
+6,Anomali,Cybersecurity Product Vendor,"Redwood City, USA",Bengaluru,Yes,,,,,~$60M,CY2024,Estimate,"Threat intel platform, SIEM"
+7,Appknox,Cybersecurity Product Vendor,"Bengaluru, India / Singapore",Bengaluru,Yes,,,,,~$5M,FY24,Estimate,Mobile AppSec
+8,Aqua Security,Cybersecurity Product Vendor,"Ramat Gan, Israel","Bengaluru, Hyderabad, Remote/Hybrid",Yes,,,Yes,Yes,~$100M,CY2024,Estimate,Cloud native security research
+9,Arctic Wolf,Cybersecurity Product Vendor,"Eden Prairie, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$800M ARR,CY2024,Estimate,"Concierge SOC, MDR, IR"
+10,Arista Networks,Cybersecurity Product Vendor,"Santa Clara, USA","Bengaluru, Pune",Yes,Yes,,,,$7.0B,CY2024,Reported,"NDR (Awake), security ops"
+11,Armis (ServiceNow),Cybersecurity Product Vendor,"San Francisco, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$300M ARR,CY2024,Estimate,"Asset intelligence, early warning TI"
+12,Barracuda Networks,Cybersecurity Product Vendor,"Campbell, USA",Bengaluru,Yes,,,,,~$500M,CY2024,Estimate,"XDR MSSP SOC, email TI"
+13,BeyondTrust,Cybersecurity Product Vendor,"Atlanta, USA",Bengaluru,Yes,,,,,~$400M,CY2024,Estimate,"PAM, Phantom Labs research"
+14,Bitdefender,Cybersecurity Product Vendor,"Bucharest, Romania","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$500M,CY2024,Estimate,"MDR, threat research"
+15,Bitsight,Cybersecurity Product Vendor,"Boston, USA",Remote/Hybrid,,,,,Yes,~$300M,CY2024,Estimate,"Security ratings, TI (Cybersixgill)"
+16,Blackpoint Cyber,Cybersecurity Product Vendor,"Ellicott City, USA",Remote/Hybrid,,,,,Yes,~$50M,CY2024,Estimate,MDR SOC
+17,Broadcom (Symantec Enterprise),Cybersecurity Product Vendor,"Palo Alto, USA","Bengaluru, Pune, Chennai, Hyderabad",Yes,Yes,,Yes,,$51.6B,FY24 (Oct),Reported,"Symantec threat hunter team, endpoint security"
+18,Cato Networks,Cybersecurity Product Vendor,"Tel Aviv, Israel","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,~$250M ARR,CY2024,Estimate,"SASE SOC, MDR"
+19,Cequence Security,Cybersecurity Product Vendor,"Sunnyvale, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$50M,CY2024,Estimate,API & bot security
+20,Check Point Software,Cybersecurity Product Vendor,"Tel Aviv, Israel","Bengaluru, Mumbai/Navi Mumbai, Gurugram",Yes,,Yes,,,$2.57B,CY2024,Reported,"Incident response, MDR, ThreatCloud TI"
+21,Checkmarx,Cybersecurity Product Vendor,"Atlanta, USA / Tel Aviv","Pune, Bengaluru",Yes,Yes,,,,~$250M,CY2024,Estimate,AppSec research
+22,"Cisco Systems (incl. Splunk, Talos)",Cybersecurity Product Vendor,"San Jose, USA","Bengaluru, Pune, Gurugram, Mumbai/Navi Mumbai",Yes,Yes,Yes,,,$56.7B,FY25 (Jul),Reported,"Talos TI, Splunk SIEM/SOAR engineering, CSIRT, XDR"
+23,Claroty,Cybersecurity Product Vendor,"New York, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$200M,CY2024,Estimate,"OT security, Team82 research"
+24,Cloudflare,Cybersecurity Product Vendor,"San Francisco, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,$1.67B,CY2024,Reported,"Security operations, detection engineering"
+25,CloudSEK,Cybersecurity Product Vendor,"Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~74 Cr,FY25 (Mar),Reported (Inc42/MCA),"Digital risk & threat intel (XVigil), BeVigil"
+26,Cohesity (incl. Veritas),Cybersecurity Product Vendor,"San Jose, USA","Bengaluru, Pune",Yes,Yes,,,,~$1.5B,FY25,Estimate,"Cyber resilience, CERT"
+27,Commvault,Cybersecurity Product Vendor,"Tinton Falls, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$996M,FY25 (Mar),Reported,"Cyber resilience, threat detection"
+28,ConnectWise,Cybersecurity Product Vendor,"Tampa, USA","Pune, Bengaluru",Yes,Yes,,,,~$1.5B,CY2024,Estimate,SOC services for MSPs
+29,Critical Start,Cybersecurity Product Vendor,"Plano, USA",Remote/Hybrid,,,,,Yes,~$100M,CY2024,Estimate,MDR
+30,CrowdStrike,Cybersecurity Product Vendor,"Austin, USA","Pune, Bengaluru, Remote/Hybrid",Yes,Yes,,,Yes,$3.95B,FY25 (Jan),Reported,"Falcon OverWatch threat hunting, MDR, IR, TI"
+31,CyberArk,Cybersecurity Product Vendor,"Newton, USA / Petah Tikva, Israel","Bengaluru, Hyderabad, Mumbai/Navi Mumbai",Yes,,Yes,Yes,,$1.00B,CY2024,Reported,"PAM/identity security ops, Labs research"
+32,Cybereason,Cybersecurity Product Vendor,"Boston, USA","Remote/Hybrid, Bengaluru",Yes,,,,Yes,~$150M,CY2024,Estimate,"MDR, IR, EDR"
+33,Cyberhaven,Cybersecurity Product Vendor,"San Jose, USA",Remote/Hybrid,,,,,Yes,~$100M,CY2024,Estimate,Data detection & response
+34,Cyble,Cybersecurity Product Vendor,"Atlanta, USA / Bengaluru","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$25M,FY24,Estimate,"Threat intel, dark web monitoring"
+35,Cyware,Cybersecurity Product Vendor,"New York, USA","Bengaluru, Mumbai/Navi Mumbai, Remote/Hybrid",Yes,,Yes,,Yes,~$40M,CY2024,Estimate,"Threat intel platform, SOAR (large Bengaluru R&D)"
+36,Darktrace,Cybersecurity Product Vendor,"Cambridge, UK","Mumbai/Navi Mumbai, Bengaluru, Remote/Hybrid",Yes,,Yes,,Yes,~$700M,FY24 (Jun),Reported,"SOC analysts, cyber AI analyst, IR"
+37,Datadog,Cybersecurity Product Vendor,"New York, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,$2.68B,CY2024,Reported,"Cloud SIEM, security research"
+38,Deepwatch,Cybersecurity Product Vendor,"Tampa, USA","Remote/Hybrid, Bengaluru",Yes,,,,Yes,~$100M,CY2024,Estimate,MDR SOC
+39,Delinea,Cybersecurity Product Vendor,"Redwood City, USA",Bengaluru,Yes,,,,,~$350M,CY2024,Estimate,"PAM, identity threat detection"
+40,DigiCert,Cybersecurity Product Vendor,"Lehi, USA",Bengaluru,Yes,,,,,~$700M,CY2024,Estimate,"PKI, trust ops"
+41,Dragos,Cybersecurity Product Vendor,"Hanover, USA",Remote/Hybrid,,,,,Yes,~$100M,CY2024,Estimate,"OT threat intel, IR"
+42,Druva,Cybersecurity Product Vendor,"Sunnyvale, USA / Pune",Pune,,Yes,,,,~$250M,CY2024,Estimate,"Data resilience, security ops"
+43,Elastic,Cybersecurity Product Vendor,"San Francisco, USA / Amsterdam","Bengaluru, Remote/Hybrid",Yes,,,,Yes,$1.48B,FY25 (Apr),Reported,"Elastic Security SIEM, threat research"
+44,Entrust,Cybersecurity Product Vendor,"Minneapolis, USA","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,~$900M,CY2024,Estimate,"PKI, identity"
+45,eSentire,Cybersecurity Product Vendor,"Waterloo, Canada","Remote/Hybrid, Bengaluru",Yes,,,,Yes,~$200M,CY2024,Estimate,"MDR, TRU threat research"
+46,ESET,Cybersecurity Product Vendor,"Bratislava, Slovakia","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,~€800M,CY2024,Estimate,"Threat research, MDR"
+47,Exabeam (incl. LogRhythm),Cybersecurity Product Vendor,"Foster City, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$400M,CY2024,Estimate,"SIEM/UEBA engineering, content/detections"
+48,Expel,Cybersecurity Product Vendor,"Herndon, USA",Remote/Hybrid,,,,,Yes,~$150M,CY2024,Estimate,MDR SOC analysts
+49,ExtraHop,Cybersecurity Product Vendor,"Seattle, USA",Bengaluru,Yes,,,,,~$200M,CY2024,Estimate,NDR
+50,F5,Cybersecurity Product Vendor,"Seattle, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$2.82B,FY24 (Sep),Reported,"SIRT, app security, Distributed Cloud SOC"
+51,Forcepoint,Cybersecurity Product Vendor,"Austin, USA","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,~$700M,CY2024,Estimate,"DLP, data security ops"
+52,Forescout,Cybersecurity Product Vendor,"San Jose, USA",Bengaluru,Yes,,,,,~$350M,CY2024,Estimate,"Vedere Labs, NAC"
+53,Fortinet,Cybersecurity Product Vendor,"Sunnyvale, USA","Bengaluru, Mumbai/Navi Mumbai, Gurugram, Chennai",Yes,,Yes,,,$5.96B,CY2024,Reported,"FortiGuard Labs TI, SOC-as-a-service, TAC"
+54,Gen Digital (Norton/Avast),Cybersecurity Product Vendor,"Tempe, USA","Pune, Chennai, Bengaluru",Yes,Yes,,,,$3.94B,FY25 (Mar),Reported,"Threat labs, malware analysis, fraud ops"
+55,Gigamon,Cybersecurity Product Vendor,"Santa Clara, USA","Chennai, Bengaluru",Yes,,,,,~$400M,CY2024,Estimate,Network visibility
+56,Harness,Cybersecurity Product Vendor,"San Francisco, USA",Bengaluru,Yes,,,,,~$250M ARR,CY2024,Estimate,"DevSecOps, STO"
+57,Huntress,Cybersecurity Product Vendor,"Ellicott City, USA",Remote/Hybrid,,,,,Yes,~$200M ARR,CY2024,Estimate,"SOC analysts, MDR"
+58,Illumio,Cybersecurity Product Vendor,"Sunnyvale, USA",Bengaluru,Yes,,,,,~$300M,CY2024,Estimate,"Segmentation, breach containment"
+59,Imprivata,Cybersecurity Product Vendor,"Lexington, USA",Bengaluru,Yes,,,,,~$250M,CY2024,Estimate,Healthcare IAM
+60,Infoblox,Cybersecurity Product Vendor,"Santa Clara, USA",Bengaluru,Yes,,,,,~$700M,CY2024,Estimate,DNS threat intel
+61,Ivanti,Cybersecurity Product Vendor,"South Jordan, USA",Bengaluru,Yes,,,,,~$900M,CY2024,Estimate,"VM, endpoint security, PSIRT"
+62,Jamf,Cybersecurity Product Vendor,"Minneapolis, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,$627M,CY2024,Reported,"Jamf Threat Labs, endpoint security"
+63,Juniper Networks (HPE),Cybersecurity Product Vendor,"Sunnyvale, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$5.07B,CY2024,Reported,"SIRT, threat labs"
+64,Kandji,Cybersecurity Product Vendor,"San Diego, USA",Bengaluru,Yes,,,,,~$100M,CY2024,Estimate,Endpoint security
+65,Kaseya (incl. Datto),Cybersecurity Product Vendor,"Miami, USA",Bengaluru,Yes,,,,,~$2B,CY2024,Estimate,"MDR, RocketCyber SOC"
+66,Kaspersky,Cybersecurity Product Vendor,"Moscow, Russia","Mumbai/Navi Mumbai, Delhi",,,Yes,,,~$700M,CY2024,Estimate,"GReAT TI, MDR"
+67,Keyfactor,Cybersecurity Product Vendor,"Cleveland, USA",Remote/Hybrid,,,,,Yes,~$200M,CY2024,Estimate,PKI
+68,Kiteworks,Cybersecurity Product Vendor,"San Mateo, USA",Bengaluru,Yes,,,,,~$100M,CY2024,Estimate,Data security
+69,LastPass,Cybersecurity Product Vendor,"Boston, USA",Remote/Hybrid,,,,,Yes,~$350M,CY2024,Estimate,Security ops
+70,Lookout,Cybersecurity Product Vendor,"Boston, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$150M,CY2024,Estimate,"Mobile threat intel, SSE"
+71,Mandiant (Google Cloud Security),Cybersecurity Product Vendor,"Reston, USA","Bengaluru, Hyderabad, Remote/Hybrid",Yes,,,Yes,Yes,Part of Google Cloud ($43.2B),CY2024,Reported,"IR, TI, Mandiant consulting"
+72,McAfee,Cybersecurity Product Vendor,"San Jose, USA",Bengaluru,Yes,,,,,~$2.0B,CY2024,Estimate,"Threat research, malware analysis"
+73,Menlo Security,Cybersecurity Product Vendor,"Mountain View, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$100M,CY2024,Estimate,Browser security
+74,Mimecast,Cybersecurity Product Vendor,"London, UK",Bengaluru,Yes,,,,,~$700M,CY2024,Estimate,"Email security ops, threat intel"
+75,N-able,Cybersecurity Product Vendor,"Burlington, USA",Remote/Hybrid,,,,,Yes,$466M,CY2024,Reported,MDR (Adlumin)
+76,NetScout (incl. Arbor),Cybersecurity Product Vendor,"Westford, USA",Bengaluru,Yes,,,,,$823M,FY25 (Mar),Reported,"DDoS ops, ATLAS threat intel"
+77,Netskope,Cybersecurity Product Vendor,"Santa Clara, USA","Bengaluru, Pune",Yes,Yes,,,,~$600M ARR,CY2024,Estimate,"Netskope Threat Labs, SSE ops"
+78,Netwrix,Cybersecurity Product Vendor,"Frisco, USA",Remote/Hybrid,,,,,Yes,~$200M,CY2024,Estimate,"Data security, ITDR"
+79,NinjaOne,Cybersecurity Product Vendor,"Austin, USA",Remote/Hybrid,,,,,Yes,~$250M ARR,CY2024,Estimate,Endpoint management/security
+80,Nozomi Networks (Mitsubishi Electric),Cybersecurity Product Vendor,"San Francisco, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$100M,CY2024,Estimate,OT/IoT threat detection
+81,Okta,Cybersecurity Product Vendor,"San Francisco, USA",Bengaluru,Yes,,,,,$2.61B,FY25 (Jan),Reported,"Detection & response, IAM security, CSIRT"
+82,OpenText (Cybersecurity),Cybersecurity Product Vendor,"Waterloo, Canada","Bengaluru, Hyderabad",Yes,,,Yes,,$5.77B,FY24 (Jun),Reported,"ArcSight SIEM, forensics (EnCase), MxDR"
+83,Opswat,Cybersecurity Product Vendor,"Tampa, USA",Remote/Hybrid,,,,,Yes,~$150M,CY2024,Estimate,OT/CIP security
+84,Orca Security,Cybersecurity Product Vendor,"Tel Aviv, Israel","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$150M,CY2024,Estimate,Cloud security research
+85,Palo Alto Networks,Cybersecurity Product Vendor,"Santa Clara, USA","Bengaluru, Mumbai/Navi Mumbai, Gurugram, Hyderabad",Yes,,Yes,Yes,,$9.22B,FY25 (Jul),Reported,"SOC engineering, Unit 42 IR/TI, XSIAM, Cortex XDR support"
+86,Ping Identity (incl. ForgeRock),Cybersecurity Product Vendor,"Denver, USA",Bengaluru,Yes,,,,,~$600M,CY2024,Estimate,"IAM, identity threat protection"
+87,Proofpoint,Cybersecurity Product Vendor,"Sunnyvale, USA","Bengaluru, Pune",Yes,Yes,,,,~$2.0B,CY2024,Estimate,"Email threat research, CSIRT"
+88,Qualys,Cybersecurity Product Vendor,"Foster City, USA",Pune,,Yes,,,,$608M,CY2024,Reported,"VM/VMDR, threat research unit, SOC"
+89,Quest Software,Cybersecurity Product Vendor,"Aliso Viejo, USA","Bengaluru, Hyderabad",Yes,,,Yes,,~$900M,CY2024,Estimate,"AD security, ITDR"
+90,Radware,Cybersecurity Product Vendor,"Tel Aviv, Israel","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,$275M,CY2024,Reported,"DDoS SOC, ERT"
+91,Rapid7,Cybersecurity Product Vendor,"Boston, USA","Pune, Remote/Hybrid",,Yes,,,Yes,$844M,CY2024,Reported,"MDR SOC analysts (Pune SOC), IR, VM"
+92,Recorded Future (Mastercard),Cybersecurity Product Vendor,"Boston, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$350M,CY2024,Estimate,Threat intelligence analysts (Insikt)
+93,ReliaQuest,Cybersecurity Product Vendor,"Tampa, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$500M,CY2024,Estimate,"GreyMatter SecOps, detection engineering"
+94,Rubrik,Cybersecurity Product Vendor,"Palo Alto, USA",Bengaluru,Yes,,,,,$887M,FY25 (Jan),Reported,"Zero Labs, ransomware recovery, IR"
+95,Safe Security,Cybersecurity Product Vendor,"Palo Alto, USA / Delhi","Delhi, Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$30M,FY24,Estimate,Cyber risk quantification
+96,SailPoint,Cybersecurity Product Vendor,"Austin, USA","Pune, Bengaluru",Yes,Yes,,,,~$860M,FY25 (Jan),Reported,Identity security operations
+97,Salt Security,Cybersecurity Product Vendor,"Palo Alto, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$50M,CY2024,Estimate,API security
+98,Saviynt,Cybersecurity Product Vendor,"El Segundo, USA","Bengaluru, Pune, Hyderabad",Yes,Yes,,Yes,,~$200M,CY2024,Estimate,"Identity governance, SOC integration"
+99,Seclore,Cybersecurity Product Vendor,"Mumbai, India / Milpitas, USA","Mumbai/Navi Mumbai, Pune, Bengaluru",Yes,Yes,Yes,,,~$50M (Rs ~400 Cr),FY24,Estimate,"Data-centric security, DRM"
+100,Sectigo,Cybersecurity Product Vendor,"Roseland, USA","Chennai, Remote/Hybrid",,,,,Yes,~$200M,CY2024,Estimate,PKI
+101,Securden,Cybersecurity Product Vendor,"Newark, USA / Chennai","Chennai, Remote/Hybrid",,,,,Yes,~$15M,CY2024,Estimate,PAM
+102,SecurityScorecard,Cybersecurity Product Vendor,"New York, USA","Remote/Hybrid, Bengaluru",Yes,,,,Yes,~$150M,CY2024,Estimate,"Security ratings, STRIKE threat intel"
+103,Securonix,Cybersecurity Product Vendor,"Plano, USA","Pune, Bengaluru",Yes,Yes,,,,~$150M,CY2024,Estimate,"Next-gen SIEM, UEBA, threat research"
+104,SentinelOne,Cybersecurity Product Vendor,"Mountain View, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,$821M,FY25 (Jan),Reported,"Vigilance MDR, WatchTower threat hunting, IR"
+105,Skyhigh Security,Cybersecurity Product Vendor,"San Jose, USA",Bengaluru,Yes,,,,,~$300M,CY2024,Estimate,"SSE/CASB, DLP operations"
+106,Snyk,Cybersecurity Product Vendor,"Boston, USA / London","Hyderabad, Bengaluru, Remote/Hybrid",Yes,,,Yes,Yes,~$300M ARR,CY2024,Estimate,"AppSec, vulnerability research"
+107,SolarWinds,Cybersecurity Product Vendor,"Austin, USA","Bengaluru, Pune",Yes,Yes,,,,$797M,CY2024,Reported,"Security event monitoring, PSIRT"
+108,Sonicwall,Cybersecurity Product Vendor,"Milpitas, USA",Bengaluru,Yes,,,,,~$300M,CY2024,Estimate,"Capture Labs TI, MDR"
+109,Sophos (incl. Secureworks),Cybersecurity Product Vendor,"Abingdon, UK","Bengaluru, Ahmedabad, Remote/Hybrid",Yes,,,,Yes,~$1.4B,FY25,Estimate,"MDR SOC, X-Ops TI, IR (Taegis)"
+110,Splashtop,Cybersecurity Product Vendor,"Cupertino, USA",Remote/Hybrid,,,,,Yes,~$100M,CY2024,Estimate,Secure remote access
+111,Sumo Logic,Cybersecurity Product Vendor,"Redwood City, USA","Bengaluru, Noida",Yes,,,,,~$300M,CY2024,Estimate,Cloud SIEM
+112,Swimlane,Cybersecurity Product Vendor,"Louisville, USA","Remote/Hybrid, Bengaluru",Yes,,,,Yes,~$50M,CY2024,Estimate,SOAR automation
+113,Synopsys/Black Duck Software,Cybersecurity Product Vendor,"Burlington, USA","Bengaluru, Hyderabad",Yes,,,Yes,,~$500M,CY2024,Estimate,"AppSec, SCA, pen testing"
+114,Sysdig,Cybersecurity Product Vendor,"San Francisco, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$200M,CY2024,Estimate,"Cloud detection & response, TRT"
+115,Tanium,Cybersecurity Product Vendor,"Kirkland, USA","Bengaluru, Pune",Yes,Yes,,,,~$700M,CY2024,Estimate,"Endpoint management/security, IR"
+116,Tenable,Cybersecurity Product Vendor,"Columbia, USA","Mumbai/Navi Mumbai, Bengaluru, Remote/Hybrid",Yes,,Yes,,Yes,$900M,CY2024,Reported,"Vulnerability research, exposure management"
+117,Thales (incl. Imperva),Cybersecurity Product Vendor,"Paris, France","Bengaluru, Noida, Gurugram",Yes,,,,,€20.6B,CY2024,Reported,"Cyber defence centre, CERT, data security"
+118,ThreatConnect,Cybersecurity Product Vendor,"Arlington, USA",Remote/Hybrid,,,,,Yes,~$50M,CY2024,Estimate,TI platform
+119,Tines,Cybersecurity Product Vendor,"Dublin, Ireland",Remote/Hybrid,,,,,Yes,~$50M,CY2024,Estimate,Security automation
+120,Traceable AI (Harness),Cybersecurity Product Vendor,"San Francisco, USA",Bengaluru,Yes,,,,,~$50M,CY2024,Estimate,API threat detection
+121,Trellix,Cybersecurity Product Vendor,"Milpitas/Plano, USA",Bengaluru,Yes,,,,,~$1.0B,CY2024,Estimate,"XDR, Advanced Research Center TI, SOC tooling"
+122,Trend Micro,Cybersecurity Product Vendor,"Tokyo, Japan","Bengaluru, Mumbai/Navi Mumbai, Gurugram",Yes,,Yes,,,~$1.8B (JPY 272B),CY2024,Reported,"Vision One XDR, MDR, TI research"
+123,Uptycs,Cybersecurity Product Vendor,"Waltham, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$50M,CY2024,Estimate,"XDR, CNAPP, threat research (large Bengaluru R&D)"
+124,Varonis,Cybersecurity Product Vendor,"New York, USA","Remote/Hybrid, Bengaluru",Yes,,,,Yes,$551M,CY2024,Reported,"MDDR, IR team, data security"
+125,Vectra AI,Cybersecurity Product Vendor,"San Jose, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$200M,CY2024,Estimate,"NDR, MDR"
+126,Veeam Software,Cybersecurity Product Vendor,"Seattle, USA",Bengaluru,Yes,,,,,~$1.7B ARR,CY2024,Estimate,"Ransomware recovery, IR"
+127,Veracode,Cybersecurity Product Vendor,"Burlington, USA",Bengaluru,Yes,,,,,~$150M,CY2024,Estimate,AppSec
+128,Versa Networks,Cybersecurity Product Vendor,"San Jose, USA","Bengaluru, Chennai",Yes,,,,,~$200M,CY2024,Estimate,SASE security ops
+129,WatchGuard Technologies,Cybersecurity Product Vendor,"Seattle, USA",Bengaluru,Yes,,,,,~$350M,CY2024,Estimate,"MDR, threat lab"
+130,Wiz,Cybersecurity Product Vendor,"New York, USA (Google)","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$750M ARR,CY2024,Estimate,"Cloud security, threat research"
+131,ZeroFox,Cybersecurity Product Vendor,"Baltimore, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$230M,FY24,Reported,"External threat intel, takedowns"
+132,Zimperium,Cybersecurity Product Vendor,"Dallas, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$80M,CY2024,Estimate,Mobile threat defense
+133,Zoho Corporation (ManageEngine),Cybersecurity Product Vendor,"Chennai, India","Chennai, Bengaluru, Pune, Hyderabad",Yes,Yes,,Yes,,"Rs ~10,000 Cr",FY24 (Mar),Estimate,"Log360 SIEM, PAM360, SOC product engineering"
+134,Zscaler,Cybersecurity Product Vendor,"San Jose, USA","Bengaluru, Mumbai/Navi Mumbai, Remote/Hybrid",Yes,,Yes,,Yes,$2.67B,FY25 (Jul),Reported,"ThreatLabz TI, cloud security ops, CSIRT"
+135,ABN AMRO,GCC - BFSI,"Amsterdam, Netherlands",Bengaluru,Yes,,,,,€8.8B,CY2024,Reported,Cyber security
+136,AIG,GCC - BFSI,"New York, USA","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,$27.3B,CY2024,Reported,Cyber security
+137,Allianz Technology,GCC - BFSI,"Munich, Germany",Pune,,Yes,,,,€179.8B (total business volume),CY2024,Reported,"Allianz CERT, SOC"
+138,American Express,GCC - BFSI,"New York, USA","Gurugram, Bengaluru",Yes,,,,,$65.9B,CY2024,Reported,"Cyber threat intel, SOC"
+139,Ameriprise Financial,GCC - BFSI,"Minneapolis, USA","Hyderabad, Noida, Gurugram",,,,Yes,,$17.3B,CY2024,Reported,Cyber security operations
+140,ANZ,GCC - BFSI,"Melbourne, Australia",Bengaluru,Yes,,,,,A$20.6B,FY24 (Sep),Reported,"Cyber security operations, TI"
+141,AXA (AXA XL India),GCC - BFSI,"Paris, France","Bengaluru, Gurugram",Yes,,,,,€110B (gross revenues),CY2024,Reported,Cyber security
+142,Bank of America (Continuum India),GCC - BFSI,"Charlotte, USA","Mumbai/Navi Mumbai, Hyderabad, Gurugram, Chennai",,,Yes,Yes,,$101.9B,CY2024,Reported,"Global Information Security, SOC, cyber threat defence"
+143,Barclays,GCC - BFSI,"London, UK","Pune, Chennai, Noida",,Yes,,,,£26.8B,CY2024,Reported,"Joint Operations Centre (Pune), CSIRT, TI"
+144,BlackRock,GCC - BFSI,"New York, USA","Mumbai/Navi Mumbai, Gurugram",,,Yes,,,$20.4B,CY2024,Reported,"Cyber security, SOC"
+145,BNP Paribas (ISPL),GCC - BFSI,"Paris, France","Mumbai/Navi Mumbai, Chennai, Bengaluru",Yes,,Yes,,,€48.8B,CY2024,Reported,"CERT, SOC, IT risk"
+146,BNY,GCC - BFSI,"New York, USA","Pune, Chennai",,Yes,,,,$18.6B,CY2024,Reported,"Information security, cyber fusion centre"
+147,Bread Financial,GCC - BFSI,"Columbus, USA",Bengaluru,Yes,,,,,$4.8B,CY2024,Reported,Information security
+148,Broadridge Financial,GCC - BFSI,"Lake Success, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$6.5B,FY24 (Jun),Reported,Information security
+149,Capital Group,GCC - BFSI,"Los Angeles, USA",Hyderabad,,,,Yes,,~$8B,CY2024,Estimate,Information security
+150,Charles Schwab,GCC - BFSI,"Westlake, USA",Hyderabad,,,,Yes,,$19.6B,CY2024,Reported,Cyber security
+151,Chubb,GCC - BFSI,"Zurich, Switzerland","Hyderabad, Bengaluru",Yes,,,Yes,,$56.0B,CY2024,Reported,"Cyber security, SOC"
+152,Citigroup,GCC - BFSI,"New York, USA","Pune, Mumbai/Navi Mumbai, Chennai, Bengaluru",Yes,Yes,Yes,,,$81.1B,CY2024,Reported,"CSIS/Cyber Security Fusion Centre (Pune), TI, IR"
+153,CME Group,GCC - BFSI,"Chicago, USA",Bengaluru,Yes,,,,,$6.1B,CY2024,Reported,Information security
+154,Commonwealth Bank of Australia,GCC - BFSI,"Sydney, Australia",Bengaluru,Yes,,,,,A$27.2B,FY24 (Jun),Reported,Cyber security engineering
+155,DBS Bank (DBS Tech India),GCC - BFSI,Singapore,"Hyderabad, Mumbai/Navi Mumbai",,,Yes,Yes,,S$22.3B,CY2024,Reported,"Cyber security ops, SOC"
+156,Deutsche Bank (DBOI),GCC - BFSI,"Frankfurt, Germany","Pune, Bengaluru, Mumbai/Navi Mumbai",Yes,Yes,Yes,,,€30.1B,CY2024,Reported,"CSO / Cyber Intelligence & Response Centre, SOC"
+157,Deutsche Börse (Clearstream),GCC - BFSI,"Frankfurt, Germany",Bengaluru,Yes,,,,,€5.8B (net revenue),CY2024,Reported,Information security
+158,Equifax,GCC - BFSI,"Atlanta, USA","Mumbai/Navi Mumbai, Thiruvananthapuram",,,Yes,,,$5.7B,CY2024,Reported,Cyber fusion centre
+159,Euroclear,GCC - BFSI,"Brussels, Belgium",Bengaluru,Yes,,,,,€1.9B (business income),CY2024,Reported,Cyber security operations
+160,Experian,GCC - BFSI,"Dublin, Ireland","Hyderabad, Mumbai/Navi Mumbai",,,Yes,Yes,,$7.5B,FY25 (Mar),Reported,"Cyber fusion centre, fraud"
+161,Fidelity Investments,GCC - BFSI,"Boston, USA","Bengaluru, Chennai",Yes,,,,,~$32.7B,CY2024,Estimate,"Cyber defence, threat intel"
+162,Fidelity National Financial,GCC - BFSI,"Jacksonville, USA",Bengaluru,Yes,,,,,$13.7B,CY2024,Reported,Information security
+163,FIS,GCC - BFSI,"Jacksonville, USA","Pune, Bengaluru, Chennai",Yes,Yes,,,,$10.1B,CY2024,Reported,"Cyber fusion centre, SOC"
+164,Fiserv,GCC - BFSI,"Milwaukee, USA","Pune, Noida, Bengaluru, Chennai",Yes,Yes,,,,$20.5B,CY2024,Reported,"Cyber security operations, SOC"
+165,Franklin Templeton,GCC - BFSI,"San Mateo, USA","Hyderabad, Mumbai/Navi Mumbai",,,Yes,Yes,,$8.5B,FY24 (Sep),Reported,Information security ops
+166,Global Payments,GCC - BFSI,"Atlanta, USA","Pune, Bengaluru",Yes,Yes,,,,$10.1B,CY2024,Reported,Cyber security operations
+167,Goldman Sachs,GCC - BFSI,"New York, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$53.5B,CY2024,Reported,"Technology risk, SOC, detection engineering, TI"
+168,HSBC,GCC - BFSI,"London, UK","Hyderabad, Pune, Bengaluru, Kolkata",Yes,Yes,,Yes,,$65.9B,CY2024,Reported,"Global Cyber Security Operations, SOC, TI, IR"
+169,ING (ING Hubs),GCC - BFSI,"Amsterdam, Netherlands","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,€22.6B (total income),CY2024,Reported,Cyber security
+170,Ingenico,GCC - BFSI,"Paris, France",Bengaluru,Yes,,,,,~€1.2B,CY2024,Estimate,Payments device security
+171,Intercontinental Exchange (ICE),GCC - BFSI,"Atlanta, USA","Hyderabad, Pune",,Yes,,Yes,,$9.3B,CY2024,Reported,Information security
+172,Invesco,GCC - BFSI,"Atlanta, USA",Hyderabad,,,,Yes,,$6.07B,CY2024,Reported,Information security
+173,JPMorgan Chase,GCC - BFSI,"New York, USA","Mumbai/Navi Mumbai, Bengaluru, Hyderabad",Yes,,Yes,Yes,,$180.6B,CY2024,Reported,"Cybersecurity & Technology Controls, SOC, TI, IR, threat hunting"
+174,Liberty Mutual,GCC - BFSI,"Boston, USA",Hyderabad,,,,Yes,,$50.0B,CY2024,Reported,Cyber security operations
+175,Lincoln Financial,GCC - BFSI,"Radnor, USA",Hyderabad,,,,Yes,,$18.4B,CY2024,Reported,Cyber security
+176,Lloyds Banking Group,GCC - BFSI,"London, UK",Hyderabad,,,,Yes,,£17.6B,CY2024,Reported,"Cyber security engineering, SOC (Hyderabad tech centre)"
+177,London Stock Exchange Group (LSEG),GCC - BFSI,"London, UK","Bengaluru, Hyderabad",Yes,,,Yes,,£8.6B,CY2024,Reported,Cyber security ops
+178,Macquarie Group,GCC - BFSI,"Sydney, Australia","Gurugram, Mumbai/Navi Mumbai",,,Yes,,,A$16.9B (net op income),FY25 (Mar),Reported,"Technology risk, cyber security"
+179,Marsh McLennan,GCC - BFSI,"New York, USA","Mumbai/Navi Mumbai, Pune, Gurugram",,Yes,Yes,,,$24.5B,CY2024,Reported,Cyber security ops
+180,Mastercard,GCC - BFSI,"Purchase, USA","Pune, Gurugram, Vadodara",,Yes,,,,$28.2B,CY2024,Reported,"Cyber security ops, fraud intel"
+181,MetLife,GCC - BFSI,"New York, USA","Noida, Bengaluru",Yes,,,,,$70.9B,CY2024,Reported,Cyber security operations
+182,Mizuho Financial Group,GCC - BFSI,"Tokyo, Japan",Mumbai/Navi Mumbai,,,Yes,,,~$25B (gross profits),FY25 (Mar),Estimate,Information security
+183,Moody's,GCC - BFSI,"New York, USA","Bengaluru, Gurugram",Yes,,,,,$7.1B,CY2024,Reported,Information security
+184,Morgan Stanley,GCC - BFSI,"New York, USA","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,$61.8B,CY2024,Reported,"Cyber fusion centre, SOC, IR"
+185,Morningstar,GCC - BFSI,"Chicago, USA",Mumbai/Navi Mumbai,,,Yes,,,$2.28B,CY2024,Reported,Information security
+186,MSCI,GCC - BFSI,"New York, USA","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,$2.86B,CY2024,Reported,Information security
+187,MUFG Enterprise Solutions India,GCC - BFSI,"Tokyo, Japan","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,~$32B (MUFG gross profit),FY25 (Mar),Estimate,"Cyber security ops, SOC"
+188,Munich Re,GCC - BFSI,"Munich, Germany",Bengaluru,Yes,,,,,€60.8B (insurance revenue),CY2024,Reported,Cyber security
+189,Nasdaq,GCC - BFSI,"New York, USA","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,$7.4B (gross),CY2024,Reported,"Cyber security, surveillance"
+190,National Australia Bank (NAB Innovation Centre India),GCC - BFSI,"Melbourne, Australia",Bengaluru,Yes,,,,,A$20.8B,FY24 (Sep),Reported,"Cyber security, SOC"
+191,NatWest Group,GCC - BFSI,"Edinburgh, UK","Bengaluru, Chennai, Gurugram",Yes,,,,,£14.7B,CY2024,Reported,"Cyber security operations, IAM"
+192,Nomura,GCC - BFSI,"Tokyo, Japan",Mumbai/Navi Mumbai,,,Yes,,,~$12B (JPY 1.89T net rev),FY25 (Mar),Reported,"Information security, SOC (Powai)"
+193,Northern Trust,GCC - BFSI,"Chicago, USA","Bengaluru, Pune",Yes,Yes,,,,~$8.3B,CY2024,Reported,"Information security, SOC"
+194,PayPal,GCC - BFSI,"San Jose, USA","Chennai, Bengaluru, Hyderabad",Yes,,,Yes,,$31.8B,CY2024,Reported,"Security operations, fraud & risk"
+195,Principal Global Services,GCC - BFSI,"Des Moines, USA",Pune,,Yes,,,,$16.1B,CY2024,Reported,"Information security, SOC"
+196,Prudential plc,GCC - BFSI,London / Hong Kong,Mumbai/Navi Mumbai,,,Yes,,,~$11B,CY2024,Estimate,Information security
+197,Rabobank,GCC - BFSI,"Utrecht, Netherlands",Mumbai/Navi Mumbai,,,Yes,,,€14.3B,CY2024,Reported,Information security
+198,S&P Global,GCC - BFSI,"New York, USA","Hyderabad, Ahmedabad, Gurugram",,,,Yes,,$14.2B,CY2024,Reported,Cyber security operations
+199,Société Générale (GSC),GCC - BFSI,"Paris, France","Bengaluru, Chennai",Yes,,,,,€26.8B,CY2024,Reported,"CERT, SOC, cyber security ops"
+200,SS&C Technologies,GCC - BFSI,"Windsor, USA","Hyderabad, Mumbai/Navi Mumbai",,,Yes,Yes,,$5.9B,CY2024,Reported,"Information security, SOC"
+201,Standard Chartered,GCC - BFSI,"London, UK","Bengaluru, Chennai, Mumbai/Navi Mumbai",Yes,,Yes,,,$19.7B,CY2024,Reported,"Cyber Defence Centre, TI, IR"
+202,State Street,GCC - BFSI,"Boston, USA","Bengaluru, Hyderabad, Pune",Yes,Yes,,Yes,,$13.0B,CY2024,Reported,"Global Cyber Security, SOC"
+203,Swiss Re,GCC - BFSI,"Zurich, Switzerland",Bengaluru,Yes,,,,,~$49B,CY2024,Reported,Cyber security ops
+204,Synchrony Financial,GCC - BFSI,"Stamford, USA",Hyderabad,,,,Yes,,~$22B (interest & other income),CY2024,Estimate,Cyber security ops
+205,T. Rowe Price,GCC - BFSI,"Baltimore, USA",Hyderabad,,,,Yes,,$7.1B,CY2024,Reported,Information security
+206,The Hartford,GCC - BFSI,"Hartford, USA",Hyderabad,,,,Yes,,$26.5B,CY2024,Reported,Cyber security ops
+207,TransUnion,GCC - BFSI,"Chicago, USA","Pune, Chennai, Hyderabad",,Yes,,Yes,,$4.18B,CY2024,Reported,Global security operations
+208,Travelers,GCC - BFSI,"New York, USA",Bengaluru,Yes,,,,,$46.4B,CY2024,Reported,"Information security, SOC"
+209,Truist Financial,GCC - BFSI,"Charlotte, USA",Hyderabad,,,,Yes,,~$20B,CY2024,Estimate,Cyber security operations
+210,U.S. Bancorp,GCC - BFSI,"Minneapolis, USA",Bengaluru,Yes,,,,,$27.3B,CY2024,Reported,Cyber security
+211,UBS,GCC - BFSI,"Zurich, Switzerland","Pune, Mumbai/Navi Mumbai, Hyderabad",,Yes,Yes,Yes,,~$48B,CY2024,Reported,"Cyber defence, SOC, IAM"
+212,Vanguard,GCC - BFSI,"Malvern, USA",Hyderabad,,,,Yes,,~$7B,CY2024,Estimate,Cyber security (Hyderabad centre)
+213,Visa,GCC - BFSI,"San Francisco, USA",Bengaluru,Yes,,,,,$35.9B,FY24 (Sep),Reported,"Cyber fusion centre, payments fraud, TI"
+214,Wells Fargo,GCC - BFSI,"San Francisco, USA","Hyderabad, Bengaluru, Chennai",Yes,,,Yes,,$82.3B,CY2024,Reported,"Cyber defence, SOC, IAM, TI"
+215,Westpac,GCC - BFSI,"Sydney, Australia",Bengaluru,Yes,,,,,A$21.5B,FY24 (Sep),Reported,Cyber security
+216,Worldline,GCC - BFSI,"Paris, France","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,€4.6B,CY2024,Reported,"Payments security, SOC"
+217,Zurich Insurance (Zurich India tech hub),GCC - BFSI,"Zurich, Switzerland",Hyderabad,,,,Yes,,~$70B (gross written premiums & policy fees),CY2024,Estimate,Cyber security ops
+218,3M,GCC - Energy & Industrial,"St. Paul, USA",Bengaluru,Yes,,,,,$24.6B,CY2024,Reported,Information security
+219,ABB,GCC - Energy & Industrial,"Zurich, Switzerland",Bengaluru,Yes,,,,,$32.9B,CY2024,Reported,"OT security, PSIRT"
+220,Air Liquide,GCC - Energy & Industrial,"Paris, France",Pune,,Yes,,,,€27.1B,CY2024,Reported,Cyber security
+221,Airbus India,GCC - Energy & Industrial,"Leiden, Netherlands",Bengaluru,Yes,,,,,€69.2B,CY2024,Reported,Cyber security operations
+222,Alstom,GCC - Energy & Industrial,"Saint-Ouen, France","Bengaluru, Hyderabad",Yes,,,Yes,,€18.5B,FY25 (Mar),Reported,Rail cybersecurity
+223,Applied Intuition,GCC - Energy & Industrial,"Mountain View, USA",Bengaluru,Yes,,,,,~$400M,CY2024,Estimate,Product security
+224,Aptiv,GCC - Energy & Industrial,"Dublin, Ireland",Bengaluru,Yes,,,,,$19.7B,CY2024,Reported,Automotive cyber security
+225,Baker Hughes,GCC - Energy & Industrial,"Houston, USA","Bengaluru, Pune",Yes,Yes,,,,$27.8B,CY2024,Reported,"Cyber security, OT"
+226,BASF,GCC - Energy & Industrial,"Ludwigshafen, Germany",Mumbai/Navi Mumbai,,,Yes,,,€65.3B,CY2024,Reported,"Cyber defence, OT security"
+227,BMW TechWorks India,GCC - Energy & Industrial,"Munich, Germany","Pune, Bengaluru, Chennai",Yes,Yes,,,,€142.4B,CY2024,Reported,Automotive cyber security
+228,Boeing India Engineering & Technology Center,GCC - Energy & Industrial,"Arlington, USA","Bengaluru, Chennai",Yes,,,,,$66.5B,CY2024,Reported,Cyber security engineering
+229,Bosch Global Software Technologies,GCC - Energy & Industrial,"Gerlingen, Germany","Bengaluru, Hyderabad, Pune",Yes,Yes,,Yes,,€90.3B (Bosch Group),CY2024,Reported,"Cyber Defence Centre, PSIRT, OT security"
+230,BP (Pune business & technology centre),GCC - Energy & Industrial,"London, UK",Pune,,Yes,,,,$189.2B,CY2024,Reported,"Cyber security operations, OT security"
+231,Carrier Global,GCC - Energy & Industrial,"Palm Beach Gardens, USA",Hyderabad,,,,Yes,,$22.5B,CY2024,Reported,Product security
+232,Caterpillar,GCC - Energy & Industrial,"Irving, USA","Chennai, Bengaluru, Pune",Yes,Yes,,,,$64.8B,CY2024,Reported,Cyber security operations
+233,Chevron (ENGINE Bengaluru),GCC - Energy & Industrial,"Houston, USA",Bengaluru,Yes,,,,,$193.4B,CY2024,Reported,"Cyber security, OT security"
+234,Continental,GCC - Energy & Industrial,"Hanover, Germany",Bengaluru,Yes,,,,,€39.7B,CY2024,Reported,Automotive cyber security
+235,Corteva Agriscience,GCC - Energy & Industrial,"Indianapolis, USA",Hyderabad,,,,Yes,,$16.9B,CY2024,Reported,Cyber security operations
+236,Cummins,GCC - Energy & Industrial,"Columbus, USA",Pune,,Yes,,,,$34.1B,CY2024,Reported,Cyber security operations
+237,Daimler Truck Innovation Center India,GCC - Energy & Industrial,"Leinfelden-Echterdingen, Germany","Bengaluru, Chennai",Yes,,,,,€54.1B,CY2024,Reported,Vehicle cyber security
+238,DuPont,GCC - Energy & Industrial,"Wilmington, USA",Hyderabad,,,,Yes,,$12.4B,CY2024,Reported,Information security
+239,Eaton,GCC - Energy & Industrial,"Dublin, Ireland",Pune,,Yes,,,,$24.9B,CY2024,Reported,"Cybersecurity Center of Excellence, PSIRT"
+240,Emerson,GCC - Energy & Industrial,"St. Louis, USA",Pune,,Yes,,,,$17.5B,FY24 (Sep),Reported,"OT cybersecurity, PSIRT"
+241,ExxonMobil,GCC - Energy & Industrial,"Spring, USA",Bengaluru,Yes,,,,,$339.2B,CY2024,Reported,Cyber security operations
+242,Garrett Motion,GCC - Energy & Industrial,"Rolle, Switzerland",Bengaluru,Yes,,,,,$3.5B,CY2024,Reported,Automotive cyber security
+243,GE Aerospace (JFWTC),GCC - Energy & Industrial,"Cincinnati, USA",Bengaluru,Yes,,,,,$38.7B,CY2024,Reported,Cyber security operations
+244,GE Vernova,GCC - Energy & Industrial,"Cambridge, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$34.9B,CY2024,Reported,"OT cybersecurity, grid security"
+245,General Motors Technical Center India,GCC - Energy & Industrial,"Detroit, USA",Bengaluru,Yes,,,,,$187.4B,CY2024,Reported,"Cyber security, vehicle SOC"
+246,Halliburton,GCC - Energy & Industrial,"Houston, USA",Pune,,Yes,,,,$22.9B,CY2024,Reported,Information security
+247,Hitachi (incl. Hitachi Vantara/Energy),GCC - Energy & Industrial,"Tokyo, Japan","Hyderabad, Bengaluru, Pune",Yes,Yes,,Yes,,~$64B (JPY 9.78T),FY25 (Mar),Reported,"OT security, SOC"
+248,Hitachi Energy,GCC - Energy & Industrial,"Zurich, Switzerland","Bengaluru, Chennai",Yes,,,,,$16.0B,FY25,Estimate,"OT/grid cybersecurity, PSIRT"
+249,Honeywell,GCC - Energy & Industrial,"Charlotte, USA","Bengaluru, Pune, Hyderabad",Yes,Yes,,Yes,,$38.5B,CY2024,Reported,"OT cybersecurity (Cyber Insights), SOC"
+250,John Deere (Deere & Co.),GCC - Energy & Industrial,"Moline, USA",Pune,,Yes,,,,$51.7B,FY24 (Oct),Reported,Product & corporate cyber security
+251,Johnson Controls,GCC - Energy & Industrial,"Cork, Ireland",Pune,,Yes,,,,$22.9B,FY24 (Sep),Reported,"Product security, OT"
+252,Lear Corporation,GCC - Energy & Industrial,"Southfield, USA",Pune,,Yes,,,,$23.3B,CY2024,Reported,Information security
+253,Linde,GCC - Energy & Industrial,"Woking, UK","Bengaluru, Kolkata",Yes,,,,,$33.0B,CY2024,Reported,Cyber security
+254,Lockheed Martin,GCC - Energy & Industrial,"Bethesda, USA",Hyderabad,,,,Yes,,$71.0B,CY2024,Reported,Cyber security
+255,Magna International,GCC - Energy & Industrial,"Aurora, Canada","Bengaluru, Pune",Yes,Yes,,,,$42.8B,CY2024,Reported,Information security
+256,Mercedes-Benz R&D India,GCC - Energy & Industrial,"Stuttgart, Germany",Bengaluru,Yes,,,,,€145.6B,CY2024,Reported,"Vehicle SOC, cyber security"
+257,Otis Worldwide,GCC - Energy & Industrial,"Farmington, USA",Bengaluru,Yes,,,,,$14.3B,CY2024,Reported,Product security
+258,Parker Hannifin,GCC - Energy & Industrial,"Cleveland, USA","Chennai, Pune",,Yes,,,,$19.9B,FY25 (Jun),Reported,Information security
+259,Rockwell Automation,GCC - Energy & Industrial,"Milwaukee, USA","Pune, Bengaluru, Noida",Yes,Yes,,,,$8.26B,FY24 (Sep),Reported,OT/ICS managed security services
+260,Rolls-Royce,GCC - Energy & Industrial,"London, UK",Bengaluru,Yes,,,,,£17.8B,CY2024,Reported,Cyber security
+261,"RTX (Collins Aerospace, Pratt & Whitney)",GCC - Energy & Industrial,"Arlington, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$80.7B,CY2024,Reported,Cyber security engineering
+262,Safran,GCC - Energy & Industrial,"Paris, France","Hyderabad, Bengaluru",Yes,,,Yes,,€27.3B,CY2024,Reported,Cyber security
+263,Schneider Electric,GCC - Energy & Industrial,"Rueil-Malmaison, France","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,€38.2B,CY2024,Reported,"CPCERT, OT security, SOC"
+264,Shell (Shell India Markets),GCC - Energy & Industrial,"London, UK","Bengaluru, Chennai",Yes,,,,,$284.3B,CY2024,Reported,"Cyber defence centre, OT security"
+265,Siemens,GCC - Energy & Industrial,"Munich, Germany","Bengaluru, Pune, Mumbai/Navi Mumbai",Yes,Yes,Yes,,,€75.9B,FY24 (Sep),Reported,"ProductCERT, CDC, OT/ICS security"
+266,Siemens Energy,GCC - Energy & Industrial,"Munich, Germany","Bengaluru, Pune",Yes,Yes,,,,€34.5B,FY24 (Sep),Reported,"OT cybersecurity, CERT"
+267,SLB (Schlumberger),GCC - Energy & Industrial,"Houston, USA",Pune,,Yes,,,,$36.3B,CY2024,Reported,"Cyber security, product security"
+268,Stellantis,GCC - Energy & Industrial,"Amsterdam, Netherlands","Hyderabad, Pune",,Yes,,Yes,,€156.9B,CY2024,Reported,Vehicle cyber security
+269,TotalEnergies,GCC - Energy & Industrial,"Paris, France","Pune, Mumbai/Navi Mumbai",,Yes,Yes,,,$195.6B,CY2024,Reported,Cyber security
+270,Trane Technologies,GCC - Energy & Industrial,"Swords, Ireland",Bengaluru,Yes,,,,,$19.8B,CY2024,Reported,Information security
+271,Visteon,GCC - Energy & Industrial,"Van Buren, USA","Pune, Bengaluru, Chennai",Yes,Yes,,,,$3.87B,CY2024,Reported,Product cyber security
+272,"Volkswagen Group (incl. Skoda, VW IT)",GCC - Energy & Industrial,"Wolfsburg, Germany",Pune,,Yes,,,,€324.7B,CY2024,Reported,Cyber security operations
+273,Volvo Group,GCC - Energy & Industrial,"Gothenburg, Sweden",Bengaluru,Yes,,,,,SEK 527B,CY2024,Reported,Cyber security ops
+274,Wärtsilä,GCC - Energy & Industrial,"Helsinki, Finland",Mumbai/Navi Mumbai,,,Yes,,,€6.4B,CY2024,Reported,OT/marine cyber security
+275,ZF Group,GCC - Energy & Industrial,"Friedrichshafen, Germany","Hyderabad, Chennai",,,,Yes,,€41.4B,CY2024,Reported,Automotive cyber security
+276,Abbott,GCC - Healthcare & Pharma,"Abbott Park, USA",Mumbai/Navi Mumbai,,,Yes,,,$42.0B,CY2024,Reported,"Cyber security, product security"
+277,Amgen (Amgen India),GCC - Healthcare & Pharma,"Thousand Oaks, USA",Hyderabad,,,,Yes,,$33.4B,CY2024,Reported,Cyber security operations
+278,AstraZeneca,GCC - Healthcare & Pharma,"Cambridge, UK","Chennai, Bengaluru",Yes,,,,,$54.1B,CY2024,Reported,Cyber security operations
+279,Bayer,GCC - Healthcare & Pharma,"Leverkusen, Germany","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,€46.6B,CY2024,Reported,Cyber defence centre
+280,Bristol Myers Squibb,GCC - Healthcare & Pharma,"Princeton, USA",Hyderabad,,,,Yes,,$48.3B,CY2024,Reported,Cyber security
+281,Cardinal Health,GCC - Healthcare & Pharma,"Dublin (Ohio), USA",Bengaluru,Yes,,,,,$226.8B,FY24 (Jun),Reported,Information security
+282,Cencora,GCC - Healthcare & Pharma,"Conshohocken, USA",Pune,,Yes,,,,$294.0B,FY24 (Sep),Reported,Cyber security operations
+283,Danaher,GCC - Healthcare & Pharma,"Washington DC, USA",Bengaluru,Yes,,,,,$23.9B,CY2024,Reported,Cyber security
+284,Elevance Health (Carelon Global Solutions),GCC - Healthcare & Pharma,"Indianapolis, USA","Bengaluru, Hyderabad, Gurugram",Yes,,,Yes,,$177.0B,CY2024,Reported,"Cyber security operations, SOC"
+285,Eli Lilly,GCC - Healthcare & Pharma,"Indianapolis, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$45.0B,CY2024,Reported,Cyber security operations
+286,GE HealthCare,GCC - Healthcare & Pharma,"Chicago, USA",Bengaluru,Yes,,,,,$19.7B,CY2024,Reported,"Product cyber security, SOC"
+287,GSK,GCC - Healthcare & Pharma,"London, UK",Bengaluru,Yes,,,,,£31.4B,CY2024,Reported,Cyber security operations
+288,IQVIA,GCC - Healthcare & Pharma,"Durham, USA","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,$15.4B,CY2024,Reported,Information security
+289,Johnson & Johnson,GCC - Healthcare & Pharma,"New Brunswick, USA","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,$88.8B,CY2024,Reported,Cyber security operations
+290,Labcorp,GCC - Healthcare & Pharma,"Burlington, USA","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,$13.0B,CY2024,Reported,Information security
+291,McKesson,GCC - Healthcare & Pharma,"Irving, USA",Bengaluru,Yes,,,,,$359.1B,FY25 (Mar),Reported,"Cyber security operations, SOC"
+292,Medtronic Engineering & Innovation Center,GCC - Healthcare & Pharma,"Dublin, Ireland",Hyderabad,,,,Yes,,$33.5B,FY25 (Apr),Reported,"Product security, cyber security"
+293,Merck & Co (MSD),GCC - Healthcare & Pharma,"Rahway, USA",Hyderabad,,,,Yes,,$64.2B,CY2024,Reported,Cyber security operations
+294,Novartis (Hyderabad),GCC - Healthcare & Pharma,"Basel, Switzerland",Hyderabad,,,,Yes,,$50.3B,CY2024,Reported,"Cyber defence centre, SOC, TI"
+295,Novo Nordisk Global Business Services,GCC - Healthcare & Pharma,"Bagsværd, Denmark",Bengaluru,Yes,,,,,DKK 290.4B,CY2024,Reported,Cyber security operations
+296,Pfizer,GCC - Healthcare & Pharma,"New York, USA","Mumbai/Navi Mumbai, Chennai",,,Yes,,,$63.6B,CY2024,Reported,Cyber security
+297,Philips,GCC - Healthcare & Pharma,"Amsterdam, Netherlands","Bengaluru, Pune",Yes,Yes,,,,€18.0B,CY2024,Reported,"Product security, medical device security"
+298,Sanofi,GCC - Healthcare & Pharma,"Paris, France",Hyderabad,,,,Yes,,€41.1B,CY2024,Reported,Cyber security operations
+299,Siemens Healthineers,GCC - Healthcare & Pharma,"Erlangen, Germany",Bengaluru,Yes,,,,,€22.4B,FY24 (Sep),Reported,"Product security, cyber security ops"
+300,Takeda (Innovation Capability Center),GCC - Healthcare & Pharma,"Tokyo, Japan",Bengaluru,Yes,,,,,~$30B (JPY 4.58T),FY25 (Mar),Reported,Cyber security
+301,The Cigna Group (Evernorth),GCC - Healthcare & Pharma,"Bloomfield, USA",Hyderabad,,,,Yes,,$247.1B,CY2024,Reported,Cyber security operations
+302,Thermo Fisher Scientific,GCC - Healthcare & Pharma,"Waltham, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$42.9B,CY2024,Reported,Cyber security operations
+303,UnitedHealth Group (Optum),GCC - Healthcare & Pharma,"Minnetonka, USA","Hyderabad, Bengaluru, Gurugram, Noida",Yes,,,Yes,,$400.3B,CY2024,Reported,"Cyber defence, SOC, TI, IR"
+304,A.P. Moller - Maersk,GCC - Retail & Consumer,"Copenhagen, Denmark","Bengaluru, Pune, Mumbai/Navi Mumbai",Yes,Yes,Yes,,,$55.5B,CY2024,Reported,"Cyber security operations, SOC"
+305,AB InBev (GCC India),GCC - Retail & Consumer,"Leuven, Belgium",Bengaluru,Yes,,,,,$59.8B,CY2024,Reported,Cyber security operations
+306,American Airlines,GCC - Retail & Consumer,"Fort Worth, USA",Hyderabad,,,,Yes,,$54.2B,CY2024,Reported,Cyber security operations
+307,Archer Daniels Midland (ADM),GCC - Retail & Consumer,"Chicago, USA",Bengaluru,Yes,,,,,$85.5B,CY2024,Reported,Cyber security
+308,Cargill,GCC - Retail & Consumer,"Minneapolis, USA",Bengaluru,Yes,,,,,$160B,FY24 (May),Reported,"Cyber security, SOC"
+309,Diageo,GCC - Retail & Consumer,"London, UK",Bengaluru,Yes,,,,,$20.2B,FY25 (Jun),Reported,Cyber security
+310,FedEx (FedEx ACC India),GCC - Retail & Consumer,"Memphis, USA",Hyderabad,,,,Yes,,$87.7B,FY24 (May),Reported,Cyber security operations
+311,Kohl's Technology Centre,GCC - Retail & Consumer,"Menomonee Falls, USA",Bengaluru,Yes,,,,,$16.2B,FY24 (Feb),Reported,Cyber security operations
+312,Levi Strauss & Co.,GCC - Retail & Consumer,"San Francisco, USA",Bengaluru,Yes,,,,,$6.36B,FY24 (Nov),Reported,Information security
+313,Lowe's India,GCC - Retail & Consumer,"Mooresville, USA",Bengaluru,Yes,,,,,$83.7B,FY24 (Jan),Reported,"Cyber security operations, SOC"
+314,Lululemon,GCC - Retail & Consumer,"Vancouver, Canada",Bengaluru,Yes,,,,,$10.6B,FY24 (Feb),Reported,Information security
+315,Marks & Spencer,GCC - Retail & Consumer,"London, UK",Bengaluru,Yes,,,,,£13.0B,FY24 (Mar),Reported,Cyber security
+316,Marriott International,GCC - Retail & Consumer,"Bethesda, USA",Hyderabad,,,,Yes,,$25.1B,CY2024,Reported,Cyber security operations
+317,McDonald's (Global Office India),GCC - Retail & Consumer,"Chicago, USA",Hyderabad,,,,Yes,,$25.9B,CY2024,Reported,Cyber security operations
+318,Mondelez International,GCC - Retail & Consumer,"Chicago, USA",Mumbai/Navi Mumbai,,,Yes,,,$36.4B,CY2024,Reported,Cyber security operations
+319,PepsiCo,GCC - Retail & Consumer,"Purchase, USA",Hyderabad,,,,Yes,,$91.9B,CY2024,Reported,"Cyber security operations, SOC"
+320,Procter & Gamble,GCC - Retail & Consumer,"Cincinnati, USA",Mumbai/Navi Mumbai,,,Yes,,,$84.0B,FY24 (Jun),Reported,Information security
+321,Sainsbury's Tech India,GCC - Retail & Consumer,"London, UK",Bengaluru,Yes,,,,,£32.7B,FY25 (Mar),Reported,Cyber security operations
+322,Target in India,GCC - Retail & Consumer,"Minneapolis, USA",Bengaluru,Yes,,,,,$106.6B,FY24 (Feb),Reported,"Cyber fusion centre, SOC, IR"
+323,Tesco Business Solutions / Tesco Technology,GCC - Retail & Consumer,"Welwyn Garden City, UK",Bengaluru,Yes,,,,,£63.6B (ex-VAT),FY25 (Feb),Reported,"Security operations centre, TI"
+324,Unilever (incl. Hindustan Unilever),GCC - Retail & Consumer,"London, UK","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,€60.8B,CY2024,Reported,Cyber security operations
+325,Walmart Global Tech India,GCC - Retail & Consumer,"Bentonville, USA","Bengaluru, Chennai",Yes,,,,,$681.0B,FY25 (Jan),Reported,"Cyber fusion centre, SOC, TI, IR"
+326,Adobe,GCC - Technology,"San Jose, USA","Noida, Bengaluru",Yes,,,,,$21.5B,FY24 (Nov),Reported,"Security operations, product security"
+327,Amadeus,GCC - Technology,"Madrid, Spain",Bengaluru,Yes,,,,,€6.1B,CY2024,Reported,Security operations
+328,Amazon (incl. AWS),GCC - Technology,"Seattle, USA","Hyderabad, Bengaluru, Pune, Mumbai/Navi Mumbai, Chennai",Yes,Yes,Yes,Yes,,$638.0B,CY2024,Reported,"AWS Security, SOC, IR, detection engineering, TI"
+329,AMD,GCC - Technology,"Santa Clara, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$25.8B,CY2024,Reported,Product & corporate security
+330,Amdocs,GCC - Technology,"Chesterfield, USA","Pune, Gurugram",,Yes,,,,$5.0B,FY24 (Sep),Reported,Cyber security operations
+331,Analog Devices,GCC - Technology,"Wilmington, USA",Bengaluru,Yes,,,,,$9.4B,FY24 (Oct),Reported,Product security
+332,Ansys (Synopsys),GCC - Technology,"Canonsburg, USA",Pune,,Yes,,,,$2.54B,CY2024,Reported,Information security
+333,Apple,GCC - Technology,"Cupertino, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$391.0B,FY24 (Sep),Reported,"Information security, SOC"
+334,Applied Materials,GCC - Technology,"Santa Clara, USA","Bengaluru, Chennai",Yes,,,,,$27.2B,FY24 (Oct),Reported,Information security
+335,Arm Holdings,GCC - Technology,"Cambridge, UK",Bengaluru,Yes,,,,,$4.0B,FY25 (Mar),Reported,Security architecture
+336,Atlassian,GCC - Technology,"Sydney, Australia","Bengaluru, Remote/Hybrid",Yes,,,,Yes,$5.2B,FY25 (Jun),Reported,Detection & response (remote-first)
+337,Autodesk,GCC - Technology,"San Francisco, USA","Bengaluru, Pune",Yes,Yes,,,,$6.13B,FY25 (Jan),Reported,"Security operations, IR"
+338,Avaya,GCC - Technology,"Morristown, USA",Pune,,Yes,,,,~$2.0B,FY24,Estimate,"Product security, SOC"
+339,Bloomberg LP,GCC - Technology,"New York, USA",Mumbai/Navi Mumbai,,,Yes,,,~$13B,CY2024,Estimate,Information security
+340,Booking Holdings (Agoda),GCC - Technology,"Norwalk, USA","Bengaluru, Gurugram",Yes,,,,,$23.7B,CY2024,Reported,Security engineering
+341,Box,GCC - Technology,"Redwood City, USA",Pune,,Yes,,,,$1.04B,FY24 (Jan),Reported,Security operations
+342,BrowserStack,GCC - Technology,"Mumbai, India / Dublin","Mumbai/Navi Mumbai, Remote/Hybrid",,,Yes,,Yes,~$300M,CY2024,Estimate,Security engineering
+343,Cadence Design Systems,GCC - Technology,"San Jose, USA","Bengaluru, Noida",Yes,,,,,$4.64B,CY2024,Reported,Information security
+344,Capillary Technologies,GCC - Technology,"Bengaluru, India",Bengaluru,Yes,,,,,Rs ~600 Cr,FY25 (Mar),Reported,Security engineering
+345,Chargebee,GCC - Technology,"San Francisco, USA / Chennai","Chennai, Bengaluru",Yes,,,,,~$150M ARR,FY24,Estimate,Security engineering
+346,Ciena,GCC - Technology,"Hanover, USA","Gurugram, Bengaluru",Yes,,,,,$4.0B,FY24 (Oct),Reported,Product security
+347,Cloud Software Group (Citrix/Tibco),GCC - Technology,"Fort Lauderdale, USA","Bengaluru, Pune",Yes,Yes,,,,~$4.0B,CY2024,Estimate,"Product security, SOC"
+348,Cloudera,GCC - Technology,"Santa Clara, USA",Bengaluru,Yes,,,,,~$1.0B,CY2024,Estimate,Security engineering
+349,Coinbase,GCC - Technology,"Remote-first, USA","Remote/Hybrid, Bengaluru",Yes,,,,Yes,$6.56B,CY2024,Reported,"Security operations, threat intel"
+350,CommScope,GCC - Technology,"Claremont, USA","Bengaluru, Gurugram",Yes,,,,,$4.2B (continuing ops),CY2024,Reported,Product security
+351,Confluent,GCC - Technology,"Mountain View, USA",Bengaluru,Yes,,,,,$963M,CY2024,Reported,Security engineering
+352,Darwinbox,GCC - Technology,"Hyderabad, India",Hyderabad,,,,Yes,,Rs ~500 Cr,FY25 (Mar),Estimate,Security engineering
+353,Dassault Systèmes,GCC - Technology,"Vélizy, France",Pune,,Yes,,,,€6.2B,CY2024,Reported,Information security
+354,Dell Technologies,GCC - Technology,"Round Rock, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$95.6B,FY25 (Jan),Reported,"CSIRT, cyber security ops"
+355,Deutsche Telekom (T-Systems ICT India),GCC - Technology,"Bonn, Germany","Pune, Bengaluru",Yes,Yes,,,,€115.8B,CY2024,Reported,"Cyber defence, SOC"
+356,DocuSign,GCC - Technology,"San Francisco, USA",Bengaluru,Yes,,,,,$2.98B,FY25 (Jan),Reported,"Security operations, trust"
+357,Dropbox,GCC - Technology,"San Francisco, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,$2.55B,CY2024,Reported,Security engineering
+358,eBay,GCC - Technology,"San Jose, USA",Bengaluru,Yes,,,,,$10.3B,CY2024,Reported,Security operations
+359,Eightfold AI,GCC - Technology,"Santa Clara, USA / Bengaluru",Bengaluru,Yes,,,,,~$150M,FY24,Estimate,Security engineering
+360,Electronic Arts,GCC - Technology,"Redwood City, USA",Hyderabad,,,,Yes,,$7.46B,FY25 (Mar),Reported,Security operations
+361,Ericsson,GCC - Technology,"Stockholm, Sweden","Bengaluru, Gurugram, Chennai, Noida",Yes,,,,,SEK 247.9B,CY2024,Reported,"Product security, SOC for telcos"
+362,Expedia Group,GCC - Technology,"Seattle, USA","Gurugram, Bengaluru",Yes,,,,,$13.7B,CY2024,Reported,Security operations
+363,Extreme Networks,GCC - Technology,"Morrisville, USA","Bengaluru, Chennai",Yes,,,,,$1.12B,FY24 (Jun),Reported,"PSIRT, security engineering"
+364,Freshworks,GCC - Technology,"San Mateo, USA / Chennai","Chennai, Bengaluru, Hyderabad",Yes,,,Yes,,$720M,CY2024,Reported,"Security operations, CSIRT"
+365,"Google (Alphabet, incl. Google Cloud Security)",GCC - Technology,"Mountain View, USA","Hyderabad, Bengaluru, Gurugram, Pune, Mumbai/Navi Mumbai",Yes,Yes,Yes,Yes,,$350.0B,CY2024,Reported,"Detection & response, Google SecOps/Chronicle, TAG, Trust & Safety"
+366,Harman International,GCC - Technology,"Stamford, USA","Bengaluru, Pune",Yes,Yes,,,,~$11B,CY2024,Estimate,"Automotive cyber security, vehicle SOC"
+367,Hasura,GCC - Technology,"San Francisco, USA / Bengaluru","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$30M,FY24,Estimate,Security engineering
+368,Hewlett Packard Enterprise,GCC - Technology,"Houston, USA",Bengaluru,Yes,,,,,$30.1B,FY24 (Oct),Reported,"Cyber security, SOC"
+369,Hexagon,GCC - Technology,"Stockholm, Sweden",Hyderabad,,,,Yes,,€5.4B,CY2024,Reported,Security operations
+370,Highradius,GCC - Technology,"Houston, USA / Hyderabad",Hyderabad,,,,Yes,,~$200M,FY24,Estimate,Security engineering
+371,HP Inc (Wolf Security),GCC - Technology,"Palo Alto, USA",Bengaluru,Yes,,,,,$53.6B,FY24 (Oct),Reported,"Threat research, SOC"
+372,HubSpot,GCC - Technology,"Cambridge, USA",Bengaluru,Yes,,,,,$2.63B,CY2024,Reported,Security engineering
+373,Icertis,GCC - Technology,"Bellevue, USA / Pune",Pune,,Yes,,,,~$250M ARR,FY24,Estimate,Security operations
+374,Infineon Technologies,GCC - Technology,"Neubiberg, Germany",Bengaluru,Yes,,,,,€15.0B,FY24 (Sep),Reported,"Security operations, embedded security"
+375,Informatica,GCC - Technology,"Redwood City, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$1.64B,CY2024,Reported,Security operations
+376,InMobi,GCC - Technology,"Bengaluru, India",Bengaluru,Yes,,,,,~$1.0B,FY24,Estimate,"InfoSec, fraud detection"
+377,Innovaccer,GCC - Technology,"San Francisco, USA / Noida","Noida, Bengaluru",Yes,,,,,~$250M,FY25,Estimate,Healthcare data security
+378,Intel,GCC - Technology,"Santa Clara, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$53.1B,CY2024,Reported,"Product security, PSIRT, SOC"
+379,Intuit,GCC - Technology,"Mountain View, USA",Bengaluru,Yes,,,,,$18.8B,FY25 (Jul),Reported,Cyber security & fraud prevention
+380,Keysight Technologies,GCC - Technology,"Santa Rosa, USA","Gurugram, Bengaluru",Yes,,,,,$4.98B,FY24 (Oct),Reported,"Network security test (Ixia), threat research"
+381,KLA Corporation,GCC - Technology,"Milpitas, USA","Chennai, Bengaluru",Yes,,,,,$9.8B,FY24 (Jun),Reported,Information security
+382,Lam Research,GCC - Technology,"Fremont, USA",Bengaluru,Yes,,,,,$18.4B,FY25 (Jun),Reported,Information security
+383,Lenovo,GCC - Technology,"Beijing / Morrisville, USA",Bengaluru,Yes,,,,,$69.1B,FY25 (Mar),Reported,"Product security, PSIRT"
+384,LG Soft India,GCC - Technology,"Seoul, South Korea",Bengaluru,Yes,,,,,KRW 87.7T,CY2024,Reported,Product security
+385,LinkedIn (Microsoft),GCC - Technology,"Sunnyvale, USA",Bengaluru,Yes,,,,,$17.1B,FY25 (Jun),Reported,"Security operations, trust & safety"
+386,Marvell Technology,GCC - Technology,"Wilmington, USA","Bengaluru, Pune, Hyderabad",Yes,Yes,,Yes,,$5.77B,FY25 (Jan),Reported,Information security
+387,Meta Platforms,GCC - Technology,"Menlo Park, USA","Hyderabad, Bengaluru, Mumbai/Navi Mumbai, Gurugram",Yes,,Yes,Yes,,$164.5B,CY2024,Reported,"Security engineering, threat investigations"
+388,Microchip Technology,GCC - Technology,"Chandler, USA","Bengaluru, Chennai",Yes,,,,,$7.6B,FY24 (Mar),Reported,Product security
+389,Micron Technology,GCC - Technology,"Boise, USA",Hyderabad,,,,Yes,,$25.1B,FY24 (Aug),Reported,Cyber security operations
+390,"Microsoft (incl. India Development Center, Microsoft Security)",GCC - Technology,"Redmond, USA","Hyderabad, Bengaluru, Noida",Yes,,,Yes,,$281.7B,FY25 (Jun),Reported,"MSTIC threat intel, MSRC, CDOC, Defender Experts MDR, Sentinel engineering"
+391,Mindtickle,GCC - Technology,"San Francisco, USA / Pune",Pune,,Yes,,,,~$100M,FY24,Estimate,Security engineering
+392,MoEngage,GCC - Technology,Bengaluru / San Francisco,Bengaluru,Yes,,,,,~$100M ARR,FY25,Estimate,Security engineering
+393,MongoDB,GCC - Technology,"New York, USA","Gurugram, Bengaluru",Yes,,,,,$2.01B,FY25 (Jan),Reported,Security engineering
+394,Motorola Solutions,GCC - Technology,"Chicago, USA","Bengaluru, Hyderabad",Yes,,,Yes,,$10.8B,CY2024,Reported,Cybersecurity services (ActiveEye MDR)
+395,NetApp,GCC - Technology,"San Jose, USA",Bengaluru,Yes,,,,,$6.57B,FY25 (Apr),Reported,"Security operations, ransomware protection"
+396,Netcore Cloud,GCC - Technology,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~1,000 Cr",FY24 (Mar),Estimate,Security engineering
+397,Nielsen (NielsenIQ),GCC - Technology,"Chicago, USA","Mumbai/Navi Mumbai, Chennai, Pune",,Yes,Yes,,,~$4B,CY2024,Estimate,Information security
+398,Nokia,GCC - Technology,"Espoo, Finland","Bengaluru, Chennai, Gurugram",Yes,,,,,€19.2B,CY2024,Reported,"Telco security ops, NetGuard"
+399,Nutanix,GCC - Technology,"San Jose, USA","Bengaluru, Pune",Yes,Yes,,,,$2.15B,FY24 (Jul),Reported,Security engineering
+400,NVIDIA,GCC - Technology,"Santa Clara, USA","Pune, Bengaluru, Hyderabad",Yes,Yes,,Yes,,$130.5B,FY25 (Jan),Reported,"PSIRT, security operations"
+401,NXP Semiconductors,GCC - Technology,"Eindhoven, Netherlands","Bengaluru, Noida, Hyderabad",Yes,,,Yes,,$12.6B,CY2024,Reported,"Product security, PSIRT"
+402,Oracle,GCC - Technology,"Austin, USA","Bengaluru, Hyderabad, Mumbai/Navi Mumbai, Pune",Yes,Yes,Yes,Yes,,$57.4B,FY25 (May),Reported,"OCI security ops, GIS, CSIRT"
+403,Postman,GCC - Technology,"San Francisco, USA / Bengaluru",Bengaluru,Yes,,,,,~$300M,CY2024,Estimate,Security operations
+404,PTC,GCC - Technology,"Boston, USA",Pune,,Yes,,,,$2.30B,FY24 (Sep),Reported,Information security
+405,Qualcomm,GCC - Technology,"San Diego, USA","Hyderabad, Bengaluru, Chennai",Yes,,,Yes,,$39.0B,FY24 (Sep),Reported,"Product security, SOC"
+406,Renesas Electronics,GCC - Technology,"Tokyo, Japan","Bengaluru, Hyderabad",Yes,,,Yes,,JPY 1.35T,CY2024,Reported,Product security
+407,Ribbon Communications,GCC - Technology,"Plano, USA",Bengaluru,Yes,,,,,$833M,CY2024,Reported,Product security
+408,Rippling,GCC - Technology,"San Francisco, USA",Bengaluru,Yes,,,,,~$500M ARR,CY2024,Estimate,"Security engineering, detection"
+409,Sabre,GCC - Technology,"Southlake, USA",Bengaluru,Yes,,,,,$3.0B,CY2024,Reported,Cyber security operations
+410,Salesforce,GCC - Technology,"San Francisco, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$37.9B,FY25 (Jan),Reported,"Detection & response, CSIRT"
+411,Samsung R&D Institute India,GCC - Technology,"Suwon, South Korea","Bengaluru, Noida",Yes,,,,,KRW 300.9T,CY2024,Reported,"Knox security research, PSIRT"
+412,SAP Labs India,GCC - Technology,"Walldorf, Germany","Bengaluru, Pune, Gurugram",Yes,Yes,,,,€34.2B,CY2024,Reported,"Cyber defence & design centre, SOC"
+413,Seagate Technology,GCC - Technology,"Dublin, Ireland",Pune,,Yes,,,,$6.55B,FY24 (Jun),Reported,Information security
+414,ServiceNow,GCC - Technology,"Santa Clara, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$10.98B,CY2024,Reported,"SecOps product engineering, CSIRT, corporate SOC"
+415,Sony India Software Centre,GCC - Technology,"Tokyo, Japan",Bengaluru,Yes,,,,,~$85B (JPY 13.0T),FY25 (Mar),Reported,Product security
+416,Synopsys,GCC - Technology,"Sunnyvale, USA","Bengaluru, Hyderabad, Noida",Yes,,,Yes,,$6.13B,FY24 (Oct),Reported,"Corporate CSIRT, security engineering"
+417,Tekion,GCC - Technology,"Pleasanton, USA / Bengaluru","Bengaluru, Chennai",Yes,,,,,~$300M,FY24,Estimate,Security operations
+418,Telstra,GCC - Technology,"Melbourne, Australia","Hyderabad, Bengaluru",Yes,,,Yes,,A$23.6B,FY24 (Jun),Reported,"Cyber security, SOC"
+419,Teradata,GCC - Technology,"San Diego, USA","Hyderabad, Mumbai/Navi Mumbai",,,Yes,Yes,,$1.75B,CY2024,Reported,Information security
+420,Texas Instruments,GCC - Technology,"Dallas, USA",Bengaluru,Yes,,,,,$15.6B,CY2024,Reported,Information security
+421,Thomson Reuters,GCC - Technology,"Toronto, Canada","Bengaluru, Hyderabad",Yes,,,Yes,,$7.26B,CY2024,Reported,Cyber security operations
+422,Twilio,GCC - Technology,"San Francisco, USA",Bengaluru,Yes,,,,,$4.46B,CY2024,Reported,"Security operations, IR"
+423,Uber,GCC - Technology,"San Francisco, USA","Hyderabad, Bengaluru",Yes,,,Yes,,$44.0B,CY2024,Reported,"Security operations, detection engineering"
+424,Ubisoft India,GCC - Technology,"Saint-Mandé, France",Pune,,Yes,,,,€2.3B,FY24 (Mar),Reported,Security engineering
+425,Uniphore,GCC - Technology,"Palo Alto, USA / Chennai","Chennai, Bengaluru",Yes,,,,,~$100M,FY24,Estimate,Security engineering
+426,Vodafone Intelligent Solutions (_VOIS),GCC - Technology,"London, UK","Pune, Bengaluru",Yes,Yes,,,,€37.4B (Vodafone),FY25 (Mar),Reported,Cyber security operations centre (Pune)
+427,Warner Bros. Discovery,GCC - Technology,"New York, USA",Hyderabad,,,,Yes,,$39.3B,CY2024,Reported,Cyber security operations
+428,Wayfair,GCC - Technology,"Boston, USA",Bengaluru,Yes,,,,,$11.9B,CY2024,Reported,Security engineering
+429,Western Digital,GCC - Technology,"San Jose, USA",Bengaluru,Yes,,,,,~$9.5B,FY25 (Jun),Reported,Information security
+430,Whatfix,GCC - Technology,"San Jose, USA / Bengaluru",Bengaluru,Yes,,,,,~$100M ARR,FY25,Estimate,Security engineering
+431,Wolters Kluwer,GCC - Technology,"Alphen aan den Rijn, Netherlands",Pune,,Yes,,,,€5.9B,CY2024,Reported,Information security
+432,Workday,GCC - Technology,"Pleasanton, USA",Pune,,Yes,,,,$8.45B,FY25 (Jan),Reported,Security operations
+433,Zebra Technologies,GCC - Technology,"Lincolnshire, USA","Bengaluru, Pune",Yes,Yes,,,,$4.98B,CY2024,Reported,Product security
+434,Zendesk,GCC - Technology,"San Francisco, USA","Pune, Bengaluru",Yes,Yes,,,,~$2B,CY2024,Estimate,Security operations
+435,Zoom Communications,GCC - Technology,"San Jose, USA","Bengaluru, Chennai",Yes,,,,,$4.67B,FY25 (Jan),Reported,Security operations
+436,Accenture (Accenture Security),IT Services / Consulting,"Dublin, Ireland","Bengaluru, Mumbai/Navi Mumbai, Pune, Hyderabad, Chennai, Gurugram",Yes,Yes,Yes,Yes,,$69.7B,FY25 (Aug),Reported,"Cyber Fusion Centres, MXDR, IR, TI"
+437,Accolite (Bounteous x Accolite),IT Services / Consulting,"Chicago, USA","Hyderabad, Bengaluru, Gurugram",Yes,,,Yes,,~$500M,CY2024,Estimate,Cybersecurity services
+438,Altimetrik,IT Services / Consulting,"Southfield, USA","Bengaluru, Pune, Chennai, Hyderabad",Yes,Yes,,Yes,,~$500M,CY2024,Estimate,Security engineering
+439,Apexon,IT Services / Consulting,"Santa Clara, USA","Pune, Ahmedabad, Bengaluru",Yes,Yes,,,,~$300M,CY2024,Estimate,Cybersecurity services
+440,Ascendion,IT Services / Consulting,"Basking Ridge, USA","Bengaluru, Hyderabad, Chennai, Pune",Yes,Yes,,Yes,,~$500M,CY2024,Estimate,Cybersecurity services
+441,Birlasoft,IT Services / Consulting,"Pune / Noida, India","Pune, Noida, Bengaluru",Yes,Yes,,,,$640M,FY25 (Mar),Reported,Cyber security services
+442,Capgemini,IT Services / Consulting,"Paris, France","Mumbai/Navi Mumbai, Pune, Bengaluru, Hyderabad, Chennai, Noida",Yes,Yes,Yes,Yes,,€22.1B,CY2024,Reported,"Cyber Defense Centres (Mumbai/Bengaluru), SOC"
+443,CitiusTech,IT Services / Consulting,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Bengaluru, Hyderabad",Yes,Yes,Yes,Yes,,~$400M,FY24,Estimate,Healthcare cybersecurity
+444,Coforge,IT Services / Consulting,"Noida, India","Noida, Bengaluru, Pune, Hyderabad, Mumbai/Navi Mumbai",Yes,Yes,Yes,Yes,,$1.2B,FY25 (Mar),Reported,"Cyber security services, SOC"
+445,Cognizant,IT Services / Consulting,"Teaneck, USA","Chennai, Bengaluru, Pune, Hyderabad, Kolkata, Mumbai/Navi Mumbai",Yes,Yes,Yes,Yes,,$19.7B,CY2024,Reported,"Cyber Defense Centres, MDR"
+446,Concentrix,IT Services / Consulting,"Newark, USA","Bengaluru, Hyderabad, Gurugram",Yes,,,Yes,,$9.6B,FY24 (Nov),Reported,"Enterprise security ops, trust & safety"
+447,Cyient,IT Services / Consulting,"Hyderabad, India","Hyderabad, Bengaluru",Yes,,,Yes,,$870M,FY25 (Mar),Reported,"OT/product security, infosec"
+448,Datamatics Global Services,IT Services / Consulting,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Bengaluru",Yes,Yes,Yes,,,"Rs ~1,700 Cr",FY25 (Mar),Reported,Cybersecurity services
+449,Deloitte,IT Services / Consulting,"London, UK","Hyderabad, Bengaluru, Mumbai/Navi Mumbai, Pune, Gurugram",Yes,Yes,Yes,Yes,,$67.2B,FY24 (May),Reported,"Cyber Intelligence Centres, MDR, IR, TI"
+450,EPAM Systems,IT Services / Consulting,"Newtown, USA","Bengaluru, Hyderabad, Pune, Chennai",Yes,Yes,,Yes,,$4.73B,CY2024,Reported,Cyber security services
+451,EXL Service,IT Services / Consulting,"New York, USA / Noida","Noida, Pune, Bengaluru",Yes,Yes,,,,$1.84B,CY2024,Reported,InfoSec operations
+452,EY (Ernst & Young),IT Services / Consulting,"London, UK","Bengaluru, Mumbai/Navi Mumbai, Hyderabad, Pune, Kolkata",Yes,Yes,Yes,Yes,,$51.2B,FY24 (Jun),Reported,"Cyber Security Operations Centre, MDR"
+453,Firstsource Solutions,IT Services / Consulting,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Chennai",Yes,,Yes,,,"Rs ~7,900 Cr",FY25 (Mar),Reported,Information security
+454,Fujitsu,IT Services / Consulting,"Tokyo, Japan","Pune, Bengaluru, Noida, Chennai",Yes,Yes,,,,~$24B (JPY 3.55T),FY25 (Mar),Reported,"Global SOC, cyber services"
+455,Genpact,IT Services / Consulting,"New York, USA / Gurugram","Gurugram, Bengaluru, Hyderabad, Kolkata",Yes,,,Yes,,$4.77B,CY2024,Reported,"Cybersecurity services, internal SOC"
+456,GlobalLogic (Hitachi),IT Services / Consulting,"San Jose, USA","Bengaluru, Noida, Hyderabad",Yes,,,Yes,,~$2.0B,FY25,Estimate,Product & cyber security engineering
+457,Globant,IT Services / Consulting,Luxembourg,"Pune, Bengaluru, Hyderabad, Chennai",Yes,Yes,,Yes,,$2.42B,CY2024,Reported,Cybersecurity studio
+458,Happiest Minds Technologies,IT Services / Consulting,"Bengaluru, India","Bengaluru, Pune, Hyderabad, Noida",Yes,Yes,,Yes,,$240M,FY25 (Mar),Reported,"SOC/MSS, IAM, GRC"
+459,HCLTech,IT Services / Consulting,"Noida, India","Noida, Bengaluru, Chennai, Hyderabad, Pune, Mumbai/Navi Mumbai",Yes,Yes,Yes,Yes,,$13.8B,FY25 (Mar),Reported,"Cyber Security Fusion Centres, MDR, SOC"
+460,Hexaware Technologies,IT Services / Consulting,"Navi Mumbai, India","Mumbai/Navi Mumbai, Pune, Chennai, Bengaluru",Yes,Yes,Yes,,,$1.4B,CY2024,Reported,"Cyber security services, SOC"
+461,Hinduja Global Solutions,IT Services / Consulting,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~4,600 Cr",FY25 (Mar),Reported,Information security
+462,"IBM (Consulting, Security & X-Force)",IT Services / Consulting,"Armonk, USA","Bengaluru, Pune, Hyderabad, Kolkata, Mumbai/Navi Mumbai",Yes,Yes,Yes,Yes,,$62.8B (IBM),CY2024,Reported,"X-Force IR, Managed SOC"
+463,Infogain,IT Services / Consulting,"Los Gatos, USA","Noida, Pune, Bengaluru",Yes,Yes,,,,~$500M,CY2024,Estimate,Cybersecurity services
+464,Infosys,IT Services / Consulting,"Bengaluru, India","Bengaluru, Pune, Hyderabad, Chennai, Mumbai/Navi Mumbai",Yes,Yes,Yes,Yes,,$19.3B,FY25 (Mar),Reported,"Cyber Defense Centres (Bengaluru, Pune), MDR, IAM"
+465,Intellect Design Arena,IT Services / Consulting,"Chennai, India","Chennai, Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~2,500 Cr",FY25 (Mar),Reported,Product security
+466,KPIT Technologies,IT Services / Consulting,"Pune, India","Pune, Bengaluru",Yes,Yes,,,,$680M,FY25 (Mar),Reported,"Automotive cybersecurity, vehicle SOC"
+467,KPMG,IT Services / Consulting,"Amstelveen, Netherlands","Bengaluru, Mumbai/Navi Mumbai, Pune, Hyderabad, Gurugram",Yes,Yes,Yes,Yes,,$38.4B,FY24 (Sep),Reported,"Cyber response, SOC, TI"
+468,L&T Technology Services,IT Services / Consulting,"Vadodara, India","Bengaluru, Pune, Mumbai/Navi Mumbai, Chennai",Yes,Yes,Yes,,,$1.2B,FY25 (Mar),Reported,"OT/ICS & product security, SOC"
+469,LTIMindtree,IT Services / Consulting,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Bengaluru, Hyderabad, Chennai",Yes,Yes,Yes,Yes,,$4.49B,FY25 (Mar),Reported,"Cyber Defense Resiliency Centre, SOC"
+470,Mastek,IT Services / Consulting,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Ahmedabad, Noida",,Yes,Yes,,,$400M,FY25 (Mar),Reported,Cyber security services
+471,Mindsprint,IT Services / Consulting,Singapore / Bengaluru,"Bengaluru, Chennai",Yes,,,,,~$200M,FY24,Estimate,Cybersecurity services
+472,Movate (formerly CSS Corp),IT Services / Consulting,"Plano, USA / Chennai","Chennai, Bengaluru",Yes,,,,,~$300M,FY24,Estimate,Security operations services
+473,Mphasis,IT Services / Consulting,"Bengaluru, India","Bengaluru, Pune, Chennai, Mumbai/Navi Mumbai",Yes,Yes,Yes,,,$1.7B,FY25 (Mar),Reported,"Cyber defence, SOC, IAM"
+474,Nagarro,IT Services / Consulting,"Munich, Germany","Gurugram, Pune, Bengaluru",Yes,Yes,,,,€1.0B,CY2024,Reported,Cybersecurity services
+475,NEC Corporation India,IT Services / Consulting,"Tokyo, Japan","Bengaluru, Chennai, Noida",Yes,,,,,~$22B (JPY 3.42T),FY25 (Mar),Reported,"Cyber security services, biometrics"
+476,Newgen Software,IT Services / Consulting,"New Delhi, India","Noida, Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~1,500 Cr",FY25 (Mar),Reported,Information security
+477,Nucleus Software,IT Services / Consulting,"Noida, India","Noida, Mumbai/Navi Mumbai",,,Yes,,,Rs ~850 Cr,FY25 (Mar),Reported,Information security
+478,Persistent Systems,IT Services / Consulting,"Pune, India","Pune, Bengaluru, Hyderabad, Noida",Yes,Yes,,Yes,,$1.41B,FY25 (Mar),Reported,"Security operations, cloud security, IAM"
+479,PwC,IT Services / Consulting,"London, UK","Bengaluru, Kolkata, Mumbai/Navi Mumbai, Hyderabad, Gurugram",Yes,,Yes,Yes,,$55.4B,FY24 (Jun),Reported,"Cyber defence, threat intel, IR"
+480,Quess Corp (Quess IT staffing),IT Services / Consulting,"Bengaluru, India","Bengaluru, Hyderabad, Pune",Yes,Yes,,Yes,,"Rs ~19,000 Cr",FY25 (Mar),Reported,Cyber staffing (SOC analysts placement)
+481,Red Hat (IBM),IT Services / Consulting,"Raleigh, USA","Pune, Bengaluru",Yes,Yes,,,,~$6.5B,CY2024,Estimate,"Product security, incident response (Pune)"
+482,Sonata Software,IT Services / Consulting,"Bengaluru, India","Bengaluru, Hyderabad, Pune",Yes,Yes,,Yes,,"Rs ~10,700 Cr",FY25 (Mar),Reported,Managed security services
+483,Sutherland Global,IT Services / Consulting,"Rochester, USA","Chennai, Hyderabad, Bengaluru",Yes,,,Yes,,~$2.5B,CY2024,Estimate,Cyber security operations
+484,Synechron,IT Services / Consulting,"New York, USA / Pune","Pune, Bengaluru, Hyderabad, Chennai",Yes,Yes,,Yes,,~$1.0B,CY2024,Estimate,Cybersecurity for BFSI
+485,TaskUs,IT Services / Consulting,"New Braunfels, USA","Mumbai/Navi Mumbai, Noida, Remote/Hybrid",,,Yes,,Yes,$995M,CY2024,Reported,"Trust & safety, fraud/security ops"
+486,Tata Consultancy Services (TCS),IT Services / Consulting,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Bengaluru, Hyderabad, Chennai, Kolkata, Noida, Gurugram",Yes,Yes,Yes,Yes,,$30.2B,FY25 (Mar),Reported,"Cyber Defense Suite, global SOC, MDR, IAM, TI"
+487,Tata Elxsi,IT Services / Consulting,"Bengaluru, India","Bengaluru, Pune, Chennai",Yes,Yes,,,,$420M,FY25 (Mar),Reported,Automotive & medical device security
+488,Tata Technologies,IT Services / Consulting,"Pune, India","Pune, Bengaluru, Chennai",Yes,Yes,,,,"Rs 5,170 Cr",FY25 (Mar),Reported,Automotive product security
+489,TeamLease Digital,IT Services / Consulting,"Bengaluru, India","Bengaluru, Hyderabad, Pune, Mumbai/Navi Mumbai",Yes,Yes,Yes,Yes,,"Rs ~11,000 Cr (TeamLease)",FY25 (Mar),Reported,Cyber staffing
+490,Tech Mahindra,IT Services / Consulting,"Pune, India","Pune, Hyderabad, Bengaluru, Mumbai/Navi Mumbai, Noida, Chennai",Yes,Yes,Yes,Yes,,$6.26B,FY25 (Mar),Reported,"Cyber Security Operations Centre, MSS"
+491,Teleperformance (incl. Majorel),IT Services / Consulting,"Paris, France","Mumbai/Navi Mumbai, Gurugram, Hyderabad, Bengaluru",Yes,,Yes,Yes,,€10.3B,CY2024,Reported,"Trust & safety, information security"
+492,ThoughtWorks,IT Services / Consulting,"Chicago, USA","Pune, Bengaluru, Chennai, Gurugram, Hyderabad",Yes,Yes,,Yes,,~$1.0B,CY2024,Estimate,"InfoSec, security engineering"
+493,UST,IT Services / Consulting,"Aliso Viejo, USA","Bengaluru, Hyderabad, Pune, Chennai",Yes,Yes,,Yes,,~$2.2B,CY2024,Estimate,"CyberProof SOC, MDR"
+494,Virtusa,IT Services / Consulting,"Southborough, USA","Hyderabad, Chennai, Bengaluru",Yes,,,Yes,,~$1.5B,CY2024,Estimate,"Cybersecurity services, SOC"
+495,Wipro (CyberTransform),IT Services / Consulting,"Bengaluru, India","Bengaluru, Pune, Hyderabad, Chennai, Kolkata, Noida",Yes,Yes,,Yes,,$10.5B,FY25 (Mar),Reported,"Cyber Defense Centres, MDR, threat intel"
+496,WNS,IT Services / Consulting,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Bengaluru, Gurugram",Yes,Yes,Yes,,,$1.3B,FY25 (Mar),Reported,"Information security, SOC"
+497,Xoriant,IT Services / Consulting,"Sunnyvale, USA","Pune, Mumbai/Navi Mumbai, Bengaluru",Yes,Yes,Yes,,,~$300M,CY2024,Estimate,Security engineering
+498,Zensar Technologies,IT Services / Consulting,"Pune, India","Pune, Hyderabad, Bengaluru",Yes,Yes,,Yes,,$620M,FY25 (Mar),Reported,"Cyber security services, SOC"
+499,Accops Systems,Indian Cyber Product / Startup,"Pune, India","Pune, Mumbai/Navi Mumbai",,Yes,Yes,,,Rs ~100 Cr,FY24,Estimate,"ZTNA, VDI, MFA"
+500,Akto,Indian Cyber Product / Startup,"San Francisco, USA / Bengaluru","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$5M,FY24,Estimate,API security testing & monitoring
+501,ARCON,Indian Cyber Product / Startup,"Mumbai, India","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,Rs ~150 Cr,FY24,Estimate,"PAM, identity threat analytics"
+502,Block Armour,Indian Cyber Product / Startup,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,Rs ~10 Cr,FY24,Estimate,"Zero-trust, OT security"
+503,Bureau (bureau.id),Indian Cyber Product / Startup,"San Francisco, USA / Bengaluru",Bengaluru,Yes,,,,,~$10M,FY24,Estimate,Fraud & identity risk detection
+504,CYFIRMA,Indian Cyber Product / Startup,"Singapore / Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$10M,FY24,Estimate,"External threat landscape management, TI"
+505,Cymmetri,Indian Cyber Product / Startup,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,Rs ~10 Cr,FY24,Estimate,"Identity governance, access analytics"
+506,eScan (MicroWorld Technologies),Indian Cyber Product / Startup,"Mumbai, India","Mumbai/Navi Mumbai, Remote/Hybrid",,,Yes,,Yes,Rs ~100 Cr,FY24,Estimate,"Endpoint security, malware research"
+507,Haltdos,Indian Cyber Product / Startup,"Noida, India","Noida, Remote/Hybrid",,,,,Yes,Rs ~20 Cr,FY24 (Mar),Estimate,"DDoS mitigation, WAF"
+508,Hexnode (Mitsogo),Indian Cyber Product / Startup,"Kochi, India","Other, Remote/Hybrid",,,,,Yes,Rs ~100 Cr,FY24 (Mar),Estimate,"UEM, endpoint security"
+509,HyperVerge,Indian Cyber Product / Startup,"Bengaluru, India / Palo Alto",Bengaluru,Yes,,,,,Rs ~150 Cr,FY24 (Mar),Estimate,"Identity verification, deepfake/fraud detection"
+510,IDfy,Indian Cyber Product / Startup,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,Rs ~150 Cr,FY24 (Mar),Estimate,"Identity verification, fraud & risk"
+511,Indusface,Indian Cyber Product / Startup,"Vadodara / Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~100 Cr,FY24,Estimate,"WAAP, managed WAF SOC"
+512,Innefu Labs,Indian Cyber Product / Startup,"New Delhi, India","Delhi, Remote/Hybrid",,,,,Yes,Rs ~50 Cr,FY24 (Mar),Estimate,"AI-driven intelligence, OSINT"
+513,InstaSafe Technologies,Indian Cyber Product / Startup,"Bengaluru, India",Bengaluru,Yes,,,,,Rs ~30 Cr,FY24,Estimate,"ZTNA, identity"
+514,K7 Computing,Indian Cyber Product / Startup,"Chennai, India","Chennai, Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~150 Cr,FY24 (Mar),Estimate,"Endpoint security, threat labs"
+515,Kratikal Tech,Indian Cyber Product / Startup,"Noida, India","Noida, Remote/Hybrid",,,,,Yes,Rs ~50 Cr,FY24 (Mar),Estimate,"Threatcop, VAPT, SOC services"
+516,Mfilterit,Indian Cyber Product / Startup,"Gurugram, India","Gurugram, Mumbai/Navi Mumbai",,,Yes,,,Rs ~50 Cr,FY24 (Mar),Estimate,Digital fraud & brand protection
+517,miniOrange Security Software,Indian Cyber Product / Startup,"Pune, India","Pune, Remote/Hybrid",,Yes,,,Yes,Rs ~100 Cr,FY24,Estimate,"IAM, SSO, PAM"
+518,Protectt.ai,Indian Cyber Product / Startup,"Gurugram, India","Gurugram, Mumbai/Navi Mumbai, Remote/Hybrid",,,Yes,,Yes,Rs ~30 Cr,FY24 (Mar),Estimate,"Mobile app protection, fraud"
+519,Quick Heal Technologies (Seqrite),Indian Cyber Product / Startup,"Pune, India","Pune, Mumbai/Navi Mumbai, Bengaluru",Yes,Yes,Yes,,,Rs 279.5 Cr,FY25 (Mar),Reported,"Seqrite XDR, threat research labs, SOC services"
+520,Scalefusion (ProMobi Technologies),Indian Cyber Product / Startup,"Pune, India",Pune,,Yes,,,,Rs ~150 Cr,FY24,Estimate,"UEM, endpoint security"
+521,Scrut Automation,Indian Cyber Product / Startup,"Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$8M ARR,FY24,Estimate,"GRC/compliance automation, risk monitoring"
+522,Seclore Technology,Indian Cyber Product / Startup,"Mumbai, India","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,Rs ~400 Cr,FY24,Estimate,Data-centric security
+523,SecPod Technologies,Indian Cyber Product / Startup,"Bengaluru, India",Bengaluru,Yes,,,,,Rs ~40 Cr,FY24,Estimate,Vulnerability & patch management (SanerNow)
+524,SecureThings.ai,Indian Cyber Product / Startup,"Pune, India",Pune,,Yes,,,,Rs ~15 Cr,FY24,Estimate,"Automotive cybersecurity, vehicle SOC"
+525,Sequretek,Indian Cyber Product / Startup,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Remote/Hybrid",Yes,,Yes,,Yes,Rs ~41 Cr,FY25 (Mar),Reported (Inc42/MCA),"Percept XDR/MDR SOC analysts, EDR"
+526,Signzy,Indian Cyber Product / Startup,"Bengaluru, India","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,Rs ~100 Cr,FY24 (Mar),Estimate,Digital identity & fraud risk
+527,Sprinto,Indian Cyber Product / Startup,"Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$20M ARR,FY25,Estimate,"Compliance automation, continuous control monitoring"
+528,TAC Security,Indian Cyber Product / Startup,"Mumbai, India (NSE SME listed)","Mumbai/Navi Mumbai, Remote/Hybrid",,,Yes,,Yes,Rs ~30 Cr (FY24); ~2.6x growth in FY25,FY24 (Mar),Reported,"Vulnerability management (ESOF), CRQ"
+529,Uniken,Indian Cyber Product / Startup,"Chatham, USA / Pune & Mumbai","Pune, Mumbai/Navi Mumbai",,Yes,Yes,,,Rs ~100 Cr,FY24,Estimate,Mobile app & identity security (REL-ID)
+530,Vehere,Indian Cyber Product / Startup,"Kolkata, India / San Francisco","Kolkata, Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~100 Cr,FY24 (Mar),Estimate,Network detection & response
+531,Acko General Insurance,Indian Enterprise - BFSI,"Bengaluru / Mumbai, India","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,"Rs ~2,500 Cr (GWP)",FY25 (Mar),Estimate,"Security engineering, SOC"
+532,Aditya Birla Capital,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~40,000 Cr (consolidated)",FY25 (Mar),Reported,Cyber security operations
+533,Axis Bank,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Hyderabad, Pune",Yes,Yes,Yes,Yes,,Rs ~1.5 lakh Cr (standalone total income),FY25 (Mar),Reported,"SOC, cyber defence, TI"
+534,Bajaj Allianz General Insurance (Bajaj General),Indian Enterprise - BFSI,"Pune, India",Pune,,Yes,,,,"Rs ~21,000 Cr (GWP)",FY25 (Mar),Estimate,"SOC, cyber security"
+535,Bajaj Allianz Life Insurance (Bajaj Life),Indian Enterprise - BFSI,"Pune, India",Pune,,Yes,,,,"Rs ~27,000 Cr (gross premium)",FY25 (Mar),Estimate,Cyber security
+536,Bajaj Finance,Indian Enterprise - BFSI,"Pune, India","Pune, Mumbai/Navi Mumbai",,Yes,Yes,,,"Rs ~69,700 Cr (consolidated)",FY25 (Mar),Reported,"SOC, cyber security, fraud"
+537,Bajaj Finserv,Indian Enterprise - BFSI,"Pune, India",Pune,,Yes,,,,Rs ~1.33 lakh Cr (consolidated),FY25 (Mar),Reported,Group information security
+538,Bank of Baroda,Indian Enterprise - BFSI,"Vadodara / Mumbai, India","Mumbai/Navi Mumbai, Vadodara",,,Yes,,,Rs ~1.4 lakh Cr (total income),FY25 (Mar),Reported,"SOC, cyber security"
+539,Bank of India,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~80,000 Cr (total income)",FY25 (Mar),Reported,"SOC, cyber security"
+540,BSE Ltd,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~3,200 Cr",FY25 (Mar),Reported,"SOC, cyber security"
+541,Canara Bank,Indian Enterprise - BFSI,"Bengaluru, India",Bengaluru,Yes,,,,,Rs ~1.4 lakh Cr (total income),FY25 (Mar),Reported,"SOC, cyber security"
+542,Central Bank of India,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~38,000 Cr (total income)",FY25 (Mar),Reported,"SOC, cyber security"
+543,Central Depository Services (CDSL),Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~1,200 Cr",FY25 (Mar),Reported,"SOC, cyber security"
+544,Go Digit General Insurance,Indian Enterprise - BFSI,"Bengaluru / Pune, India","Bengaluru, Pune",Yes,Yes,,,,"Rs ~10,000 Cr (GWP)",FY25 (Mar),Reported,Cyber security operations
+545,HDFC Bank,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Hyderabad, Pune",Yes,Yes,Yes,Yes,,Rs ~3.4 lakh Cr (standalone total income),FY25 (Mar),Reported,"Cyber Security Operations Centre, TI, fraud, IR"
+546,HDFC Life Insurance,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~71,000 Cr (gross premium)",FY25 (Mar),Reported,Cyber security operations
+547,ICICI Bank,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Hyderabad, Bengaluru",Yes,,Yes,Yes,,Rs ~1.9 lakh Cr (standalone total income),FY25 (Mar),Reported,"SOC, cyber fusion centre, TI"
+548,ICICI Lombard General Insurance,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~28,300 Cr (GDPI)",FY25 (Mar),Reported,"SOC, cyber security"
+549,ICICI Prudential Life Insurance,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~48,000 Cr (gross premium)",FY25 (Mar),Reported,Cyber security operations
+550,IDFC FIRST Bank,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~45,000 Cr (total income)",FY25 (Mar),Reported,"SOC, cyber security"
+551,IndusInd Bank,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,"Rs ~58,000 Cr (total income)",FY25 (Mar),Reported,"SOC, information security"
+552,Kotak Mahindra Bank,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~70,000 Cr (standalone total income)",FY25 (Mar),Reported,"Cyber security operations, SOC"
+553,L&T Finance,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~16,000 Cr",FY25 (Mar),Reported,Information security
+554,Life Insurance Corporation of India (LIC),Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Hyderabad",Yes,,Yes,Yes,,Rs ~8.8 lakh Cr (total income),FY25 (Mar),Reported,"SOC, cyber security"
+555,Mahindra & Mahindra Financial Services,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~18,000 Cr",FY25 (Mar),Reported,Information security
+556,Multi Commodity Exchange (MCX),Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~1,100 Cr",FY25 (Mar),Reported,"SOC, cyber security"
+557,National Payments Corporation of India (NPCI),Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Hyderabad, Chennai",,,Yes,Yes,,"Rs ~2,600 Cr",FY24 (Mar),Estimate,"Payment system SOC, fraud & risk monitoring"
+558,National Securities Depository (NSDL),Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~1,500 Cr",FY25 (Mar),Reported,"SOC, cyber security"
+559,National Stock Exchange (NSE),Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~19,000 Cr (total income)",FY25 (Mar),Reported,"Cyber SOC, market infrastructure security"
+560,Protean eGov Technologies,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,Rs ~880 Cr,FY25 (Mar),Reported,"Information security, SOC"
+561,RBL Bank,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~15,000 Cr (total income)",FY25 (Mar),Reported,Information security
+562,Reserve Bank Information Technology (ReBIT),Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Hyderabad",,,Yes,Yes,,N/A (RBI subsidiary),-,N/A,"Cyber security for RBI, regulated-entity audits, TI"
+563,SBI Life Insurance,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~84,000 Cr (gross premium)",FY25 (Mar),Reported,Cyber security operations
+564,Shriram Finance,Indian Enterprise - BFSI,"Mumbai / Chennai, India","Mumbai/Navi Mumbai, Chennai",,,Yes,,,"Rs ~41,000 Cr",FY25 (Mar),Reported,Information security
+565,State Bank of India,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Hyderabad, Bengaluru",Yes,,Yes,Yes,,Rs ~5.2 lakh Cr (standalone total income),FY25 (Mar),Reported,"SOC (Navi Mumbai), CERT, fraud monitoring"
+566,Tata AIG General Insurance,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~18,000 Cr (GWP)",FY25 (Mar),Estimate,Cyber security
+567,Tata Capital,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~28,000 Cr",FY25 (Mar),Reported,"SOC, cyber security"
+568,Union Bank of India,Indian Enterprise - BFSI,"Mumbai, India","Mumbai/Navi Mumbai, Hyderabad, Bengaluru",Yes,,Yes,Yes,,Rs ~1.25 lakh Cr (total income),FY25 (Mar),Reported,"SOC, cyber security"
+569,Yes Bank,Indian Enterprise - BFSI,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~36,000 Cr (total income)",FY25 (Mar),Reported,"SOC, cyber security"
+570,Adani Group (Adani Enterprises & Airports),Indian Enterprise - Conglomerate & Industrial,"Ahmedabad, India","Ahmedabad, Mumbai/Navi Mumbai",,,Yes,,,Rs ~1.0 lakh Cr (Adani Enterprises),FY25 (Mar),Reported,"Group cyber defence centre, OT security"
+571,Aditya Birla Group (Hindalco/UltraTech/Grasim),Indian Enterprise - Conglomerate & Industrial,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,~$65B (group),FY25 (Mar),Estimate,"Group cyber security, OT security"
+572,Asian Paints,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~34,000 Cr",FY25 (Mar),Reported,Information security
+573,Bajaj Auto,Indian Enterprise - Conglomerate & Industrial,"Pune, India",Pune,,Yes,,,,"Rs ~50,000 Cr",FY25 (Mar),Reported,Information security
+574,Bharat Petroleum (BPCL),Indian Enterprise - Conglomerate & Industrial,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,Rs ~5.0 lakh Cr,FY25 (Mar),Reported,OT/IT SOC
+575,Godrej Industries Group,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,~$5B (group),FY25 (Mar),Estimate,Cyber security
+576,Hindustan Petroleum (HPCL),Indian Enterprise - Conglomerate & Industrial,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,Rs ~4.6 lakh Cr,FY25 (Mar),Reported,OT/IT SOC
+577,JSW Steel,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,Rs ~1.68 lakh Cr,FY25 (Mar),Reported,OT/IT security
+578,Larsen & Toubro,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Chennai",Yes,,Yes,,,Rs ~2.56 lakh Cr,FY25 (Mar),Reported,"Cyber defence (L&T SOC), OT security"
+579,Mahindra & Mahindra,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,Rs ~1.59 lakh Cr (consolidated),FY25 (Mar),Reported,"Group cyber security, vehicle security"
+580,Reliance Industries,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Hyderabad",Yes,,Yes,Yes,,Rs ~10.7 lakh Cr (consolidated),FY25 (Mar),Reported,"Group cyber security, SOC, OT security"
+581,Tata Motors,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Bengaluru",Yes,Yes,Yes,,,Rs ~4.4 lakh Cr,FY25 (Mar),Reported,"Vehicle SOC, corporate SOC"
+582,Tata Power,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~65,000 Cr",FY25 (Mar),Reported,"OT/ICS SOC, grid security"
+583,Tata Steel,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India","Mumbai/Navi Mumbai, Kolkata",,,Yes,,,Rs ~2.18 lakh Cr,FY25 (Mar),Reported,OT/IT SOC
+584,Titan Company,Indian Enterprise - Conglomerate & Industrial,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~60,000 Cr",FY25 (Mar),Reported,Information security
+585,Vedanta,Indian Enterprise - Conglomerate & Industrial,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,Rs ~1.5 lakh Cr,FY25 (Mar),Reported,"Cyber security, OT"
+586,Angel One,Indian Enterprise - Fintech,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~5,200 Cr",FY25 (Mar),Reported,"SOC, cyber security"
+587,Cashfree Payments,Indian Enterprise - Fintech,"Bengaluru, India",Bengaluru,Yes,,,,,Rs 643 Cr,FY24 (Mar),Reported (Entrackr),Security operations
+588,CRED (Dreamplug Technologies),Indian Enterprise - Fintech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~2,470 Cr",FY24 (Mar),Reported,"Security engineering, SOC"
+589,Groww (Billionbrains Garage Ventures),Indian Enterprise - Fintech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~4,000 Cr",FY25 (Mar),Reported,"Security operations, detection engineering"
+590,Juspay Technologies,Indian Enterprise - Fintech,"Bengaluru, India",Bengaluru,Yes,,,,,Rs ~300 Cr,FY24 (Mar),Estimate,Payment security
+591,Navi Technologies,Indian Enterprise - Fintech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~2,000 Cr",FY24 (Mar),Estimate,Security engineering
+592,Paytm (One97 Communications),Indian Enterprise - Fintech,"Noida, India","Noida, Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,"Rs ~6,900 Cr",FY25 (Mar),Reported,"SOC, fraud & risk, AppSec"
+593,PayU India,Indian Enterprise - Fintech,"Gurugram, India","Gurugram, Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,"Rs ~3,800 Cr",FY24 (Mar),Estimate,"Security operations, fraud"
+594,Perfios Software Solutions,Indian Enterprise - Fintech,"Bengaluru, India","Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,Rs ~700 Cr,FY25 (Mar),Reported (Inc42),Information security
+595,PhonePe,Indian Enterprise - Fintech,"Bengaluru, India","Bengaluru, Pune",Yes,Yes,,,,"Rs ~7,100 Cr",FY25 (Mar),Reported,"Security operations, TI, fraud"
+596,Pine Labs,Indian Enterprise - Fintech,"Noida, India","Noida, Bengaluru, Mumbai/Navi Mumbai",Yes,,Yes,,,"Rs ~2,300 Cr",FY25 (Mar),Reported,"Information security, SOC"
+597,Razorpay,Indian Enterprise - Fintech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs 3,783 Cr (consolidated)",FY25 (Mar),Reported (Entrackr/MCA),"Security operations, detection & response"
+598,Upstox,Indian Enterprise - Fintech,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~1,000 Cr",FY24 (Mar),Estimate,Security engineering
+599,Zerodha,Indian Enterprise - Fintech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~8,300 Cr",FY24 (Mar),Reported,"Security operations, infra security"
+600,Zeta (Better World Technology),Indian Enterprise - Fintech,"Bengaluru, India","Bengaluru, Hyderabad",Yes,,,Yes,,~$250M,FY25,Estimate,"Payments security, SOC"
+601,BigBasket (Supermarket Grocery Supplies),Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~10,000 Cr",FY24 (Mar),Estimate,Information security
+602,Dream Sports (Dream11),Indian Enterprise - Internet & Consumer Tech,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~6,400 Cr",FY24 (Mar),Reported,Security operations
+603,Flipkart,Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~75,000 Cr (India entities)",FY24 (Mar),Estimate,"Security operations, detection, TI"
+604,Games24x7,Indian Enterprise - Internet & Consumer Tech,"Mumbai / Bengaluru, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~1,800 Cr",FY24 (Mar),Estimate,Security engineering
+605,MakeMyTrip,Indian Enterprise - Internet & Consumer Tech,"Gurugram, India","Gurugram, Bengaluru",Yes,,,,,$978M,FY25 (Mar),Reported,Information security
+606,Meesho,Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~9,400 Cr",FY25 (Mar),Reported,"Security engineering, fraud"
+607,Myntra,Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~5,100 Cr",FY24 (Mar),Reported,Security engineering
+608,Nykaa (FSN E-Commerce),Indian Enterprise - Internet & Consumer Tech,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~7,950 Cr",FY25 (Mar),Reported,Information security
+609,Ola (ANI Technologies),Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~2,000 Cr",FY24 (Mar),Estimate,Security engineering
+610,Ola Electric Mobility,Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~4,500 Cr",FY25 (Mar),Reported,Vehicle & corporate security
+611,ShareChat (Mohalla Tech),Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,Rs ~700 Cr,FY24 (Mar),Reported,"Trust & safety, security"
+612,Swiggy,Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~15,200 Cr",FY25 (Mar),Reported,"Security operations, SOC"
+613,Tata Digital (Tata Neu),Indian Enterprise - Internet & Consumer Tech,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~30,000 Cr (incl. subsidiaries)",FY24 (Mar),Estimate,Cyber security
+614,VerSe Innovation (Dailyhunt/Josh),Indian Enterprise - Internet & Consumer Tech,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~1,000 Cr",FY24 (Mar),Estimate,Security engineering
+615,Zepto (Kiranakart),Indian Enterprise - Internet & Consumer Tech,"Mumbai / Bengaluru, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,"Rs ~11,100 Cr",FY25 (Mar),Reported,Security engineering
+616,Bharat Electronics (BEL),Indian Enterprise - PSU & Government,"Bengaluru, India","Bengaluru, Hyderabad, Pune, Gurugram",Yes,Yes,,Yes,,"Rs ~23,000 Cr",FY25 (Mar),Reported,"Cyber security products, SOC, defence cyber"
+617,C-DAC (Centre for Development of Advanced Computing),Indian Enterprise - PSU & Government,"Pune, India","Pune, Bengaluru, Hyderabad, Mumbai/Navi Mumbai",Yes,Yes,Yes,Yes,,N/A (Govt R&D society),-,N/A,"Cyber forensics, CERT support, malware research"
+618,Electronics Corporation of India (ECIL),Indian Enterprise - PSU & Government,"Hyderabad, India",Hyderabad,,,,Yes,,"Rs ~2,500 Cr",FY24 (Mar),Estimate,Cyber security products & SOC services
+619,Hindustan Aeronautics (HAL),Indian Enterprise - PSU & Government,"Bengaluru, India","Bengaluru, Hyderabad",Yes,,,Yes,,"Rs ~30,900 Cr",FY25 (Mar),Reported,Information security
+620,Aurobindo Pharma,Indian Enterprise - Pharma & Healthcare,"Hyderabad, India",Hyderabad,,,,Yes,,"Rs ~31,700 Cr",FY25 (Mar),Reported,Information security
+621,Biocon,Indian Enterprise - Pharma & Healthcare,"Bengaluru, India",Bengaluru,Yes,,,,,"Rs ~15,000 Cr",FY25 (Mar),Reported,Information security
+622,Cipla,Indian Enterprise - Pharma & Healthcare,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~27,500 Cr",FY25 (Mar),Reported,Cyber security
+623,Divi's Laboratories,Indian Enterprise - Pharma & Healthcare,"Hyderabad, India",Hyderabad,,,,Yes,,"Rs ~9,400 Cr",FY25 (Mar),Reported,Information security
+624,Dr. Reddy's Laboratories,Indian Enterprise - Pharma & Healthcare,"Hyderabad, India",Hyderabad,,,,Yes,,"Rs ~32,500 Cr",FY25 (Mar),Reported,Cyber security operations
+625,Glenmark Pharmaceuticals,Indian Enterprise - Pharma & Healthcare,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~13,300 Cr",FY25 (Mar),Reported,Information security
+626,Lupin,Indian Enterprise - Pharma & Healthcare,"Mumbai, India","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,"Rs ~22,700 Cr",FY25 (Mar),Reported,Cyber security
+627,Sun Pharmaceutical Industries,Indian Enterprise - Pharma & Healthcare,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~52,000 Cr",FY25 (Mar),Reported,Cyber security operations
+628,Bharti Airtel,Indian Enterprise - Telecom & Tech,"New Delhi / Gurugram, India","Gurugram, Bengaluru, Pune",Yes,Yes,,,,Rs ~1.73 lakh Cr (consolidated),FY25 (Mar),Reported,"Cyber defence, SOC, Airtel Secure"
+629,Reliance Jio (Jio Platforms),Indian Enterprise - Telecom & Tech,"Navi Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Hyderabad, Pune",Yes,Yes,Yes,Yes,,Rs ~1.28 lakh Cr,FY25 (Mar),Reported,"Jio SOC, telco security, TI"
+630,Vodafone Idea,Indian Enterprise - Telecom & Tech,"Mumbai, India","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,"Rs ~43,500 Cr",FY25 (Mar),Reported,"SOC, cyber security"
+631,3i Infotech,MSSP / MDR / Cyber Services,"Navi Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Remote/Hybrid",Yes,,Yes,,Yes,Rs ~700 Cr,FY25,Reported,"NuRe Cyber SOC, MDR"
+632,Allied Digital Services,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Remote/Hybrid",,Yes,Yes,,Yes,Rs ~800 Cr,FY25,Reported,"SOC/NOC, managed security"
+633,Alvarez & Marsal,MSSP / MDR / Cyber Services,"New York, USA","Mumbai/Navi Mumbai, Bengaluru, Gurugram",Yes,,Yes,,,~$2.5B,CY2024,Estimate,"Cyber risk, DFIR"
+634,Ampcus Cyber,MSSP / MDR / Cyber Services,"Mumbai / Bengaluru, India","Mumbai/Navi Mumbai, Bengaluru, Remote/Hybrid",Yes,,Yes,,Yes,Rs ~50 Cr,FY24,Estimate,"MDR, VAPT, GRC"
+635,Aon (Cyber Solutions),MSSP / MDR / Cyber Services,"Dublin, Ireland","Gurugram, Noida, Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,$15.7B,CY2024,Reported,"Cyber risk, IR (India GCC InfoSec)"
+636,Atos / Eviden,MSSP / MDR / Cyber Services,"Bezons, France","Pune, Bengaluru, Mumbai/Navi Mumbai, Chennai",Yes,Yes,Yes,,,€9.6B,CY2024,Reported,"Global SOC (Pune), MDR, IR, PKI"
+637,Aujas Cybersecurity (NuSummit Cybersecurity),MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Mumbai/Navi Mumbai, Pune, Remote/Hybrid",Yes,Yes,Yes,,Yes,Rs 100-500 Cr band (MCA via Tofler),FY24 (Mar),MCA band,"SOC, IAM, VM, cyber defence services"
+638,BDO India,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Pune, Hyderabad",Yes,Yes,Yes,Yes,,"Rs ~1,000 Cr",FY24,Estimate,"Cyber assurance, SOC, DFIR"
+639,Black Box (Essar),MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Pune",Yes,Yes,Yes,,,"Rs ~6,000 Cr",FY25,Reported,"Managed security, SOC"
+640,BluSapphire Cyber Systems,MSSP / MDR / Cyber Services,"Hyderabad, India","Hyderabad, Remote/Hybrid",,,,Yes,Yes,Rs ~20 Cr,FY24,Estimate,"Unified detection & response, MDR"
+641,Briskinfosec,MSSP / MDR / Cyber Services,"Chennai, India","Chennai, Remote/Hybrid",,,,,Yes,Rs ~15 Cr,FY24 (Mar),Estimate,"VAPT, SOC"
+642,BT Security (BT Group),MSSP / MDR / Cyber Services,"London, UK","Bengaluru, Gurugram, Kolkata",Yes,,,,,£20.8B (BT Group),FY25 (Mar),Reported,"Global SOC, threat intel"
+643,Clover Infotech,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Bengaluru",Yes,Yes,Yes,,,Rs ~300 Cr,FY24,Estimate,"SOC, IAM, security services"
+644,Crossbow Labs,MSSP / MDR / Cyber Services,"Bengaluru, India",Bengaluru,Yes,,,,,Rs ~20 Cr,FY24 (Mar),Estimate,"PCI compliance, SOC, VAPT"
+645,CtrlS Datacenters,MSSP / MDR / Cyber Services,"Hyderabad, India","Hyderabad, Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,Yes,,"Rs ~1,500 Cr",FY24,Estimate,"SOC-as-a-service, cloud security"
+646,Cyber Security Works (Securin),MSSP / MDR / Cyber Services,"Chennai, India / USA","Chennai, Remote/Hybrid",,,,,Yes,~$30M,FY24,Estimate,"Vulnerability intelligence, ASM"
+647,Cyberops Infosec,MSSP / MDR / Cyber Services,"Jaipur, India","Other, Remote/Hybrid",,,,,Yes,Rs ~10 Cr,FY24 (Mar),Estimate,"SOC, VAPT"
+648,CyberProof (UST),MSSP / MDR / Cyber Services,"Aliso Viejo, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,Part of UST,CY2024,Estimate,"CDC/SOC, MDR, threat hunting"
+649,CyberSapiens United,MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~5 Cr,FY24 (Mar),Estimate,"VAPT, SOC"
+650,CyRAACS,MSSP / MDR / Cyber Services,"Bengaluru, India",Bengaluru,Yes,,,,,Rs ~30 Cr,FY24,Estimate,"GRC, vCISO, SOC advisory"
+651,DXC Technology,MSSP / MDR / Cyber Services,"Ashburn, USA","Bengaluru, Hyderabad, Chennai, Noida",Yes,,,Yes,,$12.9B,FY25 (Mar),Reported,"Security operations centre, MXDR"
+652,Dynacons Systems & Solutions,MSSP / MDR / Cyber Services,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,"Rs ~1,250 Cr",FY25 (Mar),Reported,IT infra & security services
+653,Embee Software,MSSP / MDR / Cyber Services,"Kolkata, India","Kolkata, Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,Rs ~700 Cr,FY24 (Mar),Estimate,"Microsoft security services, SOC"
+654,Entersoft Security,MSSP / MDR / Cyber Services,"Hyderabad, India / Sydney","Hyderabad, Remote/Hybrid",,,,Yes,Yes,Rs ~20 Cr,FY24 (Mar),Estimate,"AppSec, blockchain security"
+655,ESDS Software Solution,MSSP / MDR / Cyber Services,"Nashik, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,Rs ~300 Cr,FY24,Estimate,"SOC-as-a-service, cloud security"
+656,eSec Forte Technologies,MSSP / MDR / Cyber Services,"Gurugram, India","Gurugram, Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,Rs ~60 Cr,FY24 (Mar),Estimate,"SOC, DFIR, VAPT"
+657,Eventus TechSol,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Remote/Hybrid",,,Yes,,Yes,Rs ~60 Cr,FY24,Estimate,"24x7 SOC (CyberGuard360), MDR, IR"
+658,FTI Consulting,MSSP / MDR / Cyber Services,"Washington DC, USA","Mumbai/Navi Mumbai, Gurugram",,,Yes,,,$3.70B,CY2024,Reported,"Cyber IR, forensics"
+659,Galaxy Office Automation,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Bengaluru",Yes,Yes,Yes,,,Rs ~600 Cr,FY24 (Mar),Estimate,"Security integration, SOC"
+660,Grant Thornton Bharat,MSSP / MDR / Cyber Services,"New Delhi, India","Mumbai/Navi Mumbai, Bengaluru, Pune, Hyderabad, Gurugram",Yes,Yes,Yes,Yes,,"Rs ~2,500 Cr (Global $7.5B)",FY24,Estimate,"Cyber consulting, SOC advisory"
+661,Hackersera,MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~5 Cr,FY24 (Mar),Estimate,"VAPT, SOC"
+662,Infopercept Consulting,MSSP / MDR / Cyber Services,"Ahmedabad, India","Ahmedabad, Mumbai/Navi Mumbai, Remote/Hybrid",,,Yes,,Yes,Rs ~60 Cr,FY24,Estimate,"Invinsense XDR/MDR, threat hunting"
+663,Inspira Enterprise,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Hyderabad, Pune",Yes,Yes,Yes,Yes,,> Rs 500 Cr (MCA band),FY23 (Mar),MCA band,"Cyber defence centre, SOC, IAM, OT security"
+664,Intrucept,MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~10 Cr,FY24 (Mar),Estimate,"SOC, VAPT, GRC"
+665,Ishan Technologies,MSSP / MDR / Cyber Services,"Ahmedabad, India","Ahmedabad, Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,Rs ~400 Cr,FY24 (Mar),Estimate,"Managed security, SOC"
+666,iValue InfoSolutions,MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Mumbai/Navi Mumbai, Hyderabad, Pune",Yes,Yes,Yes,Yes,,Rs ~900 Cr,FY25,Reported,"Security integration, managed security"
+667,Kroll,MSSP / MDR / Cyber Services,"New York, USA","Mumbai/Navi Mumbai, Delhi, Remote/Hybrid",,,Yes,,Yes,~$1.5B,CY2024,Estimate,"Cyber IR, DFIR, MDR"
+668,Kyndryl,MSSP / MDR / Cyber Services,"New York, USA","Bengaluru, Pune, Noida",Yes,Yes,,,,$15.1B,FY25 (Mar),Reported,"Security & resiliency ops, SOC"
+669,"LevelBlue (incl. Trustwave, Aon Stroz Friedberg)",MSSP / MDR / Cyber Services,"Dallas, USA","Bengaluru, Pune, Remote/Hybrid",Yes,Yes,,,Yes,~$1B,CY2025,Estimate,"MDR SOC, IR, SpiderLabs TI"
+670,Lumen Technologies (Black Lotus Labs),MSSP / MDR / Cyber Services,"Monroe, USA",Bengaluru,Yes,,,,,$13.1B,CY2024,Reported,"Black Lotus Labs TI, SOC"
+671,Microland,MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Pune, Remote/Hybrid",Yes,Yes,,,Yes,"Rs ~1,300 Cr",FY24,Estimate,"SOC/MDR, network security operations"
+672,MitKat Advisory,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Remote/Hybrid",Yes,,Yes,,Yes,Rs ~40 Cr,FY24,Estimate,"Risk & threat intelligence, cyber advisory"
+673,Netenrich,MSSP / MDR / Cyber Services,"San Jose, USA / Hyderabad & Bengaluru","Hyderabad, Bengaluru, Remote/Hybrid",Yes,,,Yes,Yes,~$80M,CY2024,Estimate,"Resolution Intelligence SOC, MDR, TI"
+674,Network Intelligence (Transilience AI),MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Remote/Hybrid",Yes,,Yes,,Yes,Rs 100-500 Cr band (exact undisclosed),FY24 (Mar),Estimate,"SOC/MDR, ADR, IR, threat hunting, VM"
+675,NSEIT,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru, Remote/Hybrid",Yes,,Yes,,Yes,Rs ~500 Cr,FY24,Estimate,"Cybersecurity services, SOC, IAM"
+676,NTT DATA (incl. Netmagic),MSSP / MDR / Cyber Services,"Tokyo, Japan","Bengaluru, Pune, Mumbai/Navi Mumbai, Hyderabad, Chennai, Noida",Yes,Yes,Yes,Yes,,~$29B (JPY 4.37T),FY25 (Mar),Reported,"Global SOC, MDR, cloud security"
+677,Optiv Security,MSSP / MDR / Cyber Services,"Denver, USA","Bengaluru, Remote/Hybrid",Yes,,,,Yes,~$2.5B,CY2024,Estimate,"MXDR, threat management, IAM"
+678,Orange Cyberdefense,MSSP / MDR / Cyber Services,"Paris, France","Mumbai/Navi Mumbai, Gurugram",,,Yes,,,€40.3B (Orange),CY2024,Reported,"CyberSOC, CERT, MDR"
+679,Orient Technologies,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Pune",,Yes,Yes,,,Rs ~800 Cr,FY25 (Mar),Reported,Managed security services
+680,Paladion (part of Atos/Eviden),MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Mumbai/Navi Mumbai, Pune",Yes,Yes,Yes,,,Part of Atos,CY2024,Reported,"MDR SOC, AI-driven threat hunting"
+681,Payatu Security Consulting,MSSP / MDR / Cyber Services,"Pune, India","Pune, Remote/Hybrid",,Yes,,,Yes,Rs ~30 Cr,FY24,Estimate,"IoT security, DFIR, red/blue team exercises"
+682,Peneto Labs,MSSP / MDR / Cyber Services,"Chennai, India","Chennai, Remote/Hybrid",,,,,Yes,Rs ~5 Cr,FY24 (Mar),Estimate,"VAPT, managed security"
+683,Primeinfoserv,MSSP / MDR / Cyber Services,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,Rs ~50 Cr,FY24,Estimate,"SOC/MSS, compliance"
+684,Protiviti (Robert Half),MSSP / MDR / Cyber Services,"Menlo Park, USA","Bengaluru, Mumbai/Navi Mumbai, Gurugram, Hyderabad",Yes,,Yes,Yes,,~$2.0B,CY2024,Estimate,"Security ops, IR, GRC"
+685,QRC Assurance and Solutions,MSSP / MDR / Cyber Services,"Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,Rs ~20 Cr,FY24,Estimate,"SOC, VAPT, compliance"
+686,Sattrix Information Security,MSSP / MDR / Cyber Services,"Ahmedabad, India","Ahmedabad, Mumbai/Navi Mumbai, Remote/Hybrid",,,Yes,,Yes,Rs ~80 Cr,FY24,Estimate,"SOC/MDR, SIEM integration"
+687,SecureLayer7,MSSP / MDR / Cyber Services,"Pune, India","Pune, Remote/Hybrid",,Yes,,,Yes,Rs ~20 Cr,FY24,Estimate,"Security assessments, BugDazz VM"
+688,Sify Technologies,MSSP / MDR / Cyber Services,"Chennai, India","Mumbai/Navi Mumbai, Bengaluru, Hyderabad, Chennai, Remote/Hybrid",Yes,,Yes,Yes,Yes,"Rs ~4,000 Cr",FY25,Reported,"MSS SOC, CloudInfinit security ops"
+689,SISA Information Security,MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Mumbai/Navi Mumbai, Remote/Hybrid",Yes,,Yes,,Yes,~$16.5M (Rs ~140 Cr),FY24 (Mar),Estimate (aggregator),"MDR (ProACT), DFIR, payment forensics"
+690,Tata Communications (Cyber Security),MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Pune, Chennai, Bengaluru",Yes,Yes,Yes,,,"Rs 23,238 Cr",FY25,Reported,"Global SOC, MDR, DDoS, threat intel"
+691,Threatsys Technologies,MSSP / MDR / Cyber Services,"Bhubaneswar, India","Other, Remote/Hybrid",,,,,Yes,Rs ~10 Cr,FY24 (Mar),Estimate,"SOC, VAPT"
+692,Tsaaro Consulting,MSSP / MDR / Cyber Services,"Bengaluru, India","Bengaluru, Pune",Yes,Yes,,,,Rs ~10 Cr,FY24 (Mar),Estimate,"Privacy & data protection, GRC"
+693,Unisys,MSSP / MDR / Cyber Services,"Blue Bell, USA",Bengaluru,Yes,,,,,$2.0B,CY2024,Reported,"SOC, Stealth, cyber recovery"
+694,Valuementor Consulting,MSSP / MDR / Cyber Services,"Kochi / Bengaluru, India","Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~40 Cr,FY24,Estimate,"SOC, VAPT, compliance"
+695,Varutra Consulting,MSSP / MDR / Cyber Services,"Pune, India","Pune, Mumbai/Navi Mumbai",,Yes,Yes,,,Rs ~20 Cr,FY24,Estimate,"SOC, VAPT, GRC"
+696,Verizon Business Security,MSSP / MDR / Cyber Services,"New York, USA","Hyderabad, Chennai, Bengaluru",Yes,,,Yes,,$134.8B (Verizon),CY2024,Reported,"Managed SOC, DBIR research, IR"
+697,Wattlecorp Cybersecurity Labs,MSSP / MDR / Cyber Services,"Kozhikode, India","Other, Bengaluru, Remote/Hybrid",Yes,,,,Yes,Rs ~10 Cr,FY24 (Mar),Estimate,"VAPT, SOC"
+698,Wysetek Systems Technologists,MSSP / MDR / Cyber Services,"Mumbai, India","Mumbai/Navi Mumbai, Bengaluru",Yes,,Yes,,,Rs ~150 Cr,FY24,Estimate,"SOC, network security services"
+699,Yotta Infrastructure,MSSP / MDR / Cyber Services,"Navi Mumbai, India",Mumbai/Navi Mumbai,,,Yes,,,Rs ~600 Cr,FY24,Estimate,"SOC services, cloud security"

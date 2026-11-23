@@ -1,0 +1,118 @@
+# Company|Category|Global HQ|India locations|Annual revenue|Period|Basis|Blue-team functions hired in India
+Palo Alto Networks|Cybersecurity Product Vendor|Santa Clara, USA|B,M,G,H|$9.22B|FY25 (Jul)|Reported|SOC engineering, Unit 42 IR/TI, XSIAM, Cortex XDR support
+CrowdStrike|Cybersecurity Product Vendor|Austin, USA|P,B,R|$3.95B|FY25 (Jan)|Reported|Falcon OverWatch threat hunting, MDR, IR, TI
+Fortinet|Cybersecurity Product Vendor|Sunnyvale, USA|B,M,G,C|$5.96B|CY2024|Reported|FortiGuard Labs TI, SOC-as-a-service, TAC
+Cisco Systems (incl. Splunk, Talos)|Cybersecurity Product Vendor|San Jose, USA|B,P,G,M|$56.7B|FY25 (Jul)|Reported|Talos TI, Splunk SIEM/SOAR engineering, CSIRT, XDR
+Check Point Software|Cybersecurity Product Vendor|Tel Aviv, Israel|B,M,G|$2.57B|CY2024|Reported|Incident response, MDR, ThreatCloud TI
+Zscaler|Cybersecurity Product Vendor|San Jose, USA|B,M,R|$2.67B|FY25 (Jul)|Reported|ThreatLabz TI, cloud security ops, CSIRT
+Okta|Cybersecurity Product Vendor|San Francisco, USA|B|$2.61B|FY25 (Jan)|Reported|Detection & response, IAM security, CSIRT
+SentinelOne|Cybersecurity Product Vendor|Mountain View, USA|B,R|$821M|FY25 (Jan)|Reported|Vigilance MDR, WatchTower threat hunting, IR
+Cloudflare|Cybersecurity Product Vendor|San Francisco, USA|B,R|$1.67B|CY2024|Reported|Security operations, detection engineering
+Rapid7|Cybersecurity Product Vendor|Boston, USA|P,R|$844M|CY2024|Reported|MDR SOC analysts (Pune SOC), IR, VM
+Tenable|Cybersecurity Product Vendor|Columbia, USA|M,B,R|$900M|CY2024|Reported|Vulnerability research, exposure management
+Qualys|Cybersecurity Product Vendor|Foster City, USA|P|$608M|CY2024|Reported|VM/VMDR, threat research unit, SOC
+CyberArk|Cybersecurity Product Vendor|Newton, USA / Petah Tikva, Israel|B,H,M|$1.00B|CY2024|Reported|PAM/identity security ops, Labs research
+Trellix|Cybersecurity Product Vendor|Milpitas/Plano, USA|B|~$1.0B|CY2024|Estimate|XDR, Advanced Research Center TI, SOC tooling
+Skyhigh Security|Cybersecurity Product Vendor|San Jose, USA|B|~$300M|CY2024|Estimate|SSE/CASB, DLP operations
+McAfee|Cybersecurity Product Vendor|San Jose, USA|B|~$2.0B|CY2024|Estimate|Threat research, malware analysis
+Gen Digital (Norton/Avast)|Cybersecurity Product Vendor|Tempe, USA|P,C,B|$3.94B|FY25 (Mar)|Reported|Threat labs, malware analysis, fraud ops
+Trend Micro|Cybersecurity Product Vendor|Tokyo, Japan|B,M,G|~$1.8B (JPY 272B)|CY2024|Reported|Vision One XDR, MDR, TI research
+Sophos (incl. Secureworks)|Cybersecurity Product Vendor|Abingdon, UK|B,A,R|~$1.4B|FY25|Estimate|MDR SOC, X-Ops TI, IR (Taegis)
+Securonix|Cybersecurity Product Vendor|Plano, USA|P,B|~$150M|CY2024|Estimate|Next-gen SIEM, UEBA, threat research
+Exabeam (incl. LogRhythm)|Cybersecurity Product Vendor|Foster City, USA|B,R|~$400M|CY2024|Estimate|SIEM/UEBA engineering, content/detections
+Forcepoint|Cybersecurity Product Vendor|Austin, USA|B,M|~$700M|CY2024|Estimate|DLP, data security ops
+Thales (incl. Imperva)|Cybersecurity Product Vendor|Paris, France|B,N,G|€20.6B|CY2024|Reported|Cyber defence centre, CERT, data security
+Proofpoint|Cybersecurity Product Vendor|Sunnyvale, USA|B,P|~$2.0B|CY2024|Estimate|Email threat research, CSIRT
+Mimecast|Cybersecurity Product Vendor|London, UK|B|~$700M|CY2024|Estimate|Email security ops, threat intel
+Darktrace|Cybersecurity Product Vendor|Cambridge, UK|M,B,R|~$700M|FY24 (Jun)|Reported|SOC analysts, cyber AI analyst, IR
+Netskope|Cybersecurity Product Vendor|Santa Clara, USA|B,P|~$600M ARR|CY2024|Estimate|Netskope Threat Labs, SSE ops
+Illumio|Cybersecurity Product Vendor|Sunnyvale, USA|B|~$300M|CY2024|Estimate|Segmentation, breach containment
+Varonis|Cybersecurity Product Vendor|New York, USA|R,B|$551M|CY2024|Reported|MDDR, IR team, data security
+Akamai Technologies|Cybersecurity Product Vendor|Cambridge, USA|B,M,H|$3.99B|CY2024|Reported|SOC Command Center (Bengaluru), threat research
+F5|Cybersecurity Product Vendor|Seattle, USA|H,B|$2.82B|FY24 (Sep)|Reported|SIRT, app security, Distributed Cloud SOC
+Broadcom (Symantec Enterprise)|Cybersecurity Product Vendor|Palo Alto, USA|B,P,C,H|$51.6B|FY24 (Oct)|Reported|Symantec threat hunter team, endpoint security
+OpenText (Cybersecurity)|Cybersecurity Product Vendor|Waterloo, Canada|B,H|$5.77B|FY24 (Jun)|Reported|ArcSight SIEM, forensics (EnCase), MxDR
+Ivanti|Cybersecurity Product Vendor|South Jordan, USA|B|~$900M|CY2024|Estimate|VM, endpoint security, PSIRT
+SailPoint|Cybersecurity Product Vendor|Austin, USA|P,B|~$860M|FY25 (Jan)|Reported|Identity security operations
+Ping Identity (incl. ForgeRock)|Cybersecurity Product Vendor|Denver, USA|B|~$600M|CY2024|Estimate|IAM, identity threat protection
+Saviynt|Cybersecurity Product Vendor|El Segundo, USA|B,P,H|~$200M|CY2024|Estimate|Identity governance, SOC integration
+BeyondTrust|Cybersecurity Product Vendor|Atlanta, USA|B|~$400M|CY2024|Estimate|PAM, Phantom Labs research
+Delinea|Cybersecurity Product Vendor|Redwood City, USA|B|~$350M|CY2024|Estimate|PAM, identity threat detection
+Quest Software|Cybersecurity Product Vendor|Aliso Viejo, USA|B,H|~$900M|CY2024|Estimate|AD security, ITDR
+Barracuda Networks|Cybersecurity Product Vendor|Campbell, USA|B|~$500M|CY2024|Estimate|XDR MSSP SOC, email TI
+Sonicwall|Cybersecurity Product Vendor|Milpitas, USA|B|~$300M|CY2024|Estimate|Capture Labs TI, MDR
+WatchGuard Technologies|Cybersecurity Product Vendor|Seattle, USA|B|~$350M|CY2024|Estimate|MDR, threat lab
+ESET|Cybersecurity Product Vendor|Bratislava, Slovakia|B,M|~€800M|CY2024|Estimate|Threat research, MDR
+Kaspersky|Cybersecurity Product Vendor|Moscow, Russia|M,D|~$700M|CY2024|Estimate|GReAT TI, MDR
+Bitdefender|Cybersecurity Product Vendor|Bucharest, Romania|B,R|~$500M|CY2024|Estimate|MDR, threat research
+Acronis|Cybersecurity Product Vendor|Schaffhausen, Switzerland|B|~$500M|CY2024|Estimate|Cyber protect operations centre
+Arctic Wolf|Cybersecurity Product Vendor|Eden Prairie, USA|B,R|~$800M ARR|CY2024|Estimate|Concierge SOC, MDR, IR
+Expel|Cybersecurity Product Vendor|Herndon, USA|R|~$150M|CY2024|Estimate|MDR SOC analysts
+ReliaQuest|Cybersecurity Product Vendor|Tampa, USA|B,R|~$500M|CY2024|Estimate|GreyMatter SecOps, detection engineering
+Elastic|Cybersecurity Product Vendor|San Francisco, USA / Amsterdam|B,R|$1.48B|FY25 (Apr)|Reported|Elastic Security SIEM, threat research
+Datadog|Cybersecurity Product Vendor|New York, USA|B,R|$2.68B|CY2024|Reported|Cloud SIEM, security research
+Wiz|Cybersecurity Product Vendor|New York, USA (Google)|B,R|~$750M ARR|CY2024|Estimate|Cloud security, threat research
+Orca Security|Cybersecurity Product Vendor|Tel Aviv, Israel|B,R|~$150M|CY2024|Estimate|Cloud security research
+Aqua Security|Cybersecurity Product Vendor|Ramat Gan, Israel|B,H,R|~$100M|CY2024|Estimate|Cloud native security research
+Sysdig|Cybersecurity Product Vendor|San Francisco, USA|B,R|~$200M|CY2024|Estimate|Cloud detection & response, TRT
+Snyk|Cybersecurity Product Vendor|Boston, USA / London|H,B,R|~$300M ARR|CY2024|Estimate|AppSec, vulnerability research
+Veracode|Cybersecurity Product Vendor|Burlington, USA|B|~$150M|CY2024|Estimate|AppSec
+Checkmarx|Cybersecurity Product Vendor|Atlanta, USA / Tel Aviv|P,B|~$250M|CY2024|Estimate|AppSec research
+Synopsys/Black Duck Software|Cybersecurity Product Vendor|Burlington, USA|B,H|~$500M|CY2024|Estimate|AppSec, SCA, pen testing
+Recorded Future (Mastercard)|Cybersecurity Product Vendor|Boston, USA|B,R|~$350M|CY2024|Estimate|Threat intelligence analysts (Insikt)
+Mandiant (Google Cloud Security)|Cybersecurity Product Vendor|Reston, USA|B,H,R|Part of Google Cloud ($43.2B)|CY2024|Reported|IR, TI, Mandiant consulting
+ZeroFox|Cybersecurity Product Vendor|Baltimore, USA|B,R|~$230M|FY24|Reported|External threat intel, takedowns
+Cyware|Cybersecurity Product Vendor|New York, USA|B,M,R|~$40M|CY2024|Estimate|Threat intel platform, SOAR (large Bengaluru R&D)
+Anomali|Cybersecurity Product Vendor|Redwood City, USA|B|~$60M|CY2024|Estimate|Threat intel platform, SIEM
+ThreatConnect|Cybersecurity Product Vendor|Arlington, USA|R|~$50M|CY2024|Estimate|TI platform
+Swimlane|Cybersecurity Product Vendor|Louisville, USA|R,B|~$50M|CY2024|Estimate|SOAR automation
+Tines|Cybersecurity Product Vendor|Dublin, Ireland|R|~$50M|CY2024|Estimate|Security automation
+Abnormal Security|Cybersecurity Product Vendor|San Francisco, USA|B,R|~$200M ARR|CY2024|Estimate|Email threat detection
+Tanium|Cybersecurity Product Vendor|Kirkland, USA|B,P|~$700M|CY2024|Estimate|Endpoint management/security, IR
+Cybereason|Cybersecurity Product Vendor|Boston, USA|R,B|~$150M|CY2024|Estimate|MDR, IR, EDR
+Vectra AI|Cybersecurity Product Vendor|San Jose, USA|B,R|~$200M|CY2024|Estimate|NDR, MDR
+ExtraHop|Cybersecurity Product Vendor|Seattle, USA|B|~$200M|CY2024|Estimate|NDR
+Gigamon|Cybersecurity Product Vendor|Santa Clara, USA|C,B|~$400M|CY2024|Estimate|Network visibility
+NetScout (incl. Arbor)|Cybersecurity Product Vendor|Westford, USA|B|$823M|FY25 (Mar)|Reported|DDoS ops, ATLAS threat intel
+Radware|Cybersecurity Product Vendor|Tel Aviv, Israel|B,M|$275M|CY2024|Reported|DDoS SOC, ERT
+Imprivata|Cybersecurity Product Vendor|Lexington, USA|B|~$250M|CY2024|Estimate|Healthcare IAM
+Entrust|Cybersecurity Product Vendor|Minneapolis, USA|B,M|~$900M|CY2024|Estimate|PKI, identity
+DigiCert|Cybersecurity Product Vendor|Lehi, USA|B|~$700M|CY2024|Estimate|PKI, trust ops
+Sectigo|Cybersecurity Product Vendor|Roseland, USA|C,R|~$200M|CY2024|Estimate|PKI
+Keyfactor|Cybersecurity Product Vendor|Cleveland, USA|R|~$200M|CY2024|Estimate|PKI
+Netwrix|Cybersecurity Product Vendor|Frisco, USA|R|~$200M|CY2024|Estimate|Data security, ITDR
+Cohesity (incl. Veritas)|Cybersecurity Product Vendor|San Jose, USA|B,P|~$1.5B|FY25|Estimate|Cyber resilience, CERT
+Rubrik|Cybersecurity Product Vendor|Palo Alto, USA|B|$887M|FY25 (Jan)|Reported|Zero Labs, ransomware recovery, IR
+Commvault|Cybersecurity Product Vendor|Tinton Falls, USA|H,B|$996M|FY25 (Mar)|Reported|Cyber resilience, threat detection
+Veeam Software|Cybersecurity Product Vendor|Seattle, USA|B|~$1.7B ARR|CY2024|Estimate|Ransomware recovery, IR
+Druva|Cybersecurity Product Vendor|Sunnyvale, USA / Pune|P|~$250M|CY2024|Estimate|Data resilience, security ops
+Claroty|Cybersecurity Product Vendor|New York, USA|B,R|~$200M|CY2024|Estimate|OT security, Team82 research
+Nozomi Networks (Mitsubishi Electric)|Cybersecurity Product Vendor|San Francisco, USA|B,R|~$100M|CY2024|Estimate|OT/IoT threat detection
+Dragos|Cybersecurity Product Vendor|Hanover, USA|R|~$100M|CY2024|Estimate|OT threat intel, IR
+Armis (ServiceNow)|Cybersecurity Product Vendor|San Francisco, USA|B,R|~$300M ARR|CY2024|Estimate|Asset intelligence, early warning TI
+Forescout|Cybersecurity Product Vendor|San Jose, USA|B|~$350M|CY2024|Estimate|Vedere Labs, NAC
+Infoblox|Cybersecurity Product Vendor|Santa Clara, USA|B|~$700M|CY2024|Estimate|DNS threat intel
+Menlo Security|Cybersecurity Product Vendor|Mountain View, USA|B,R|~$100M|CY2024|Estimate|Browser security
+Cato Networks|Cybersecurity Product Vendor|Tel Aviv, Israel|B,M|~$250M ARR|CY2024|Estimate|SASE SOC, MDR
+Versa Networks|Cybersecurity Product Vendor|San Jose, USA|B,C|~$200M|CY2024|Estimate|SASE security ops
+Juniper Networks (HPE)|Cybersecurity Product Vendor|Sunnyvale, USA|B,H|$5.07B|CY2024|Reported|SIRT, threat labs
+Arista Networks|Cybersecurity Product Vendor|Santa Clara, USA|B,P|$7.0B|CY2024|Reported|NDR (Awake), security ops
+Sumo Logic|Cybersecurity Product Vendor|Redwood City, USA|B,N|~$300M|CY2024|Estimate|Cloud SIEM
+Securden|Cybersecurity Product Vendor|Newark, USA / Chennai|C,R|~$15M|CY2024|Estimate|PAM
+LastPass|Cybersecurity Product Vendor|Boston, USA|R|~$350M|CY2024|Estimate|Security ops
+1Password|Cybersecurity Product Vendor|Toronto, Canada|R|~$300M|CY2024|Estimate|Detection & response
+Kiteworks|Cybersecurity Product Vendor|San Mateo, USA|B|~$100M|CY2024|Estimate|Data security
+Seclore|Cybersecurity Product Vendor|Mumbai, India / Milpitas, USA|M,P,B|~$50M (Rs ~400 Cr)|FY24|Estimate|Data-centric security, DRM
+Zimperium|Cybersecurity Product Vendor|Dallas, USA|B,R|~$80M|CY2024|Estimate|Mobile threat defense
+Lookout|Cybersecurity Product Vendor|Boston, USA|B,R|~$150M|CY2024|Estimate|Mobile threat intel, SSE
+Jamf|Cybersecurity Product Vendor|Minneapolis, USA|B,R|$627M|CY2024|Reported|Jamf Threat Labs, endpoint security
+Huntress|Cybersecurity Product Vendor|Ellicott City, USA|R|~$200M ARR|CY2024|Estimate|SOC analysts, MDR
+Blackpoint Cyber|Cybersecurity Product Vendor|Ellicott City, USA|R|~$50M|CY2024|Estimate|MDR SOC
+Deepwatch|Cybersecurity Product Vendor|Tampa, USA|R,B|~$100M|CY2024|Estimate|MDR SOC
+eSentire|Cybersecurity Product Vendor|Waterloo, Canada|R,B|~$200M|CY2024|Estimate|MDR, TRU threat research
+Critical Start|Cybersecurity Product Vendor|Plano, USA|R|~$100M|CY2024|Estimate|MDR
+Cyble|Cybersecurity Product Vendor|Atlanta, USA / Bengaluru|B,R|~$25M|FY24|Estimate|Threat intel, dark web monitoring
+CloudSEK|Cybersecurity Product Vendor|Bengaluru, India|B,R|Rs ~74 Cr|FY25 (Mar)|Reported (Inc42/MCA)|Digital risk & threat intel (XVigil), BeVigil
+Safe Security|Cybersecurity Product Vendor|Palo Alto, USA / Delhi|D,B,R|~$30M|FY24|Estimate|Cyber risk quantification
+Appknox|Cybersecurity Product Vendor|Bengaluru, India / Singapore|B|~$5M|FY24|Estimate|Mobile AppSec
+AccuKnox|Cybersecurity Product Vendor|Cupertino, USA / Bengaluru|B,R|~$5M|FY24|Estimate|CNAPP, runtime security

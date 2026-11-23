@@ -1,0 +1,45 @@
+# IT services & consulting firms with SOC / cyber defence practices in India
+Tata Consultancy Services (TCS)|IT Services / Consulting|Mumbai, India|M,P,B,H,C,K,N,G|$30.2B|FY25 (Mar)|Reported|Cyber Defense Suite, global SOC, MDR, IAM, TI
+Infosys|IT Services / Consulting|Bengaluru, India|B,P,H,C,M|$19.3B|FY25 (Mar)|Reported|Cyber Defense Centres (Bengaluru, Pune), MDR, IAM
+HCLTech|IT Services / Consulting|Noida, India|N,B,C,H,P,M|$13.8B|FY25 (Mar)|Reported|Cyber Security Fusion Centres, MDR, SOC
+Wipro (CyberTransform)|IT Services / Consulting|Bengaluru, India|B,P,H,C,K,N|$10.5B|FY25 (Mar)|Reported|Cyber Defense Centres, MDR, threat intel
+Tech Mahindra|IT Services / Consulting|Pune, India|P,H,B,M,N,C|$6.26B|FY25 (Mar)|Reported|Cyber Security Operations Centre, MSS
+LTIMindtree|IT Services / Consulting|Mumbai, India|M,P,B,H,C|$4.49B|FY25 (Mar)|Reported|Cyber Defense Resiliency Centre, SOC
+L&T Technology Services|IT Services / Consulting|Vadodara, India|B,P,M,C|$1.2B|FY25 (Mar)|Reported|OT/ICS & product security, SOC
+Mphasis|IT Services / Consulting|Bengaluru, India|B,P,C,M|$1.7B|FY25 (Mar)|Reported|Cyber defence, SOC, IAM
+Persistent Systems|IT Services / Consulting|Pune, India|P,B,H,N|$1.41B|FY25 (Mar)|Reported|Security operations, cloud security, IAM
+Coforge|IT Services / Consulting|Noida, India|N,B,P,H,M|$1.2B|FY25 (Mar)|Reported|Cyber security services, SOC
+Hexaware Technologies|IT Services / Consulting|Navi Mumbai, India|M,P,C,B|$1.4B|CY2024|Reported|Cyber security services, SOC
+Cyient|IT Services / Consulting|Hyderabad, India|H,B|$870M|FY25 (Mar)|Reported|OT/product security, infosec
+Zensar Technologies|IT Services / Consulting|Pune, India|P,H,B|$620M|FY25 (Mar)|Reported|Cyber security services, SOC
+Birlasoft|IT Services / Consulting|Pune / Noida, India|P,N,B|$640M|FY25 (Mar)|Reported|Cyber security services
+KPIT Technologies|IT Services / Consulting|Pune, India|P,B|$680M|FY25 (Mar)|Reported|Automotive cybersecurity, vehicle SOC
+Sonata Software|IT Services / Consulting|Bengaluru, India|B,H,P|Rs ~10,700 Cr|FY25 (Mar)|Reported|Managed security services
+Mastek|IT Services / Consulting|Mumbai, India|M,P,A,N|$400M|FY25 (Mar)|Reported|Cyber security services
+Happiest Minds Technologies|IT Services / Consulting|Bengaluru, India|B,P,H,N|$240M|FY25 (Mar)|Reported|SOC/MSS, IAM, GRC
+Tata Elxsi|IT Services / Consulting|Bengaluru, India|B,P,C|$420M|FY25 (Mar)|Reported|Automotive & medical device security
+Tata Technologies|IT Services / Consulting|Pune, India|P,B,C|Rs 5,170 Cr|FY25 (Mar)|Reported|Automotive product security
+UST|IT Services / Consulting|Aliso Viejo, USA|B,H,P,C|~$2.2B|CY2024|Estimate|CyberProof SOC, MDR
+Virtusa|IT Services / Consulting|Southborough, USA|H,C,B|~$1.5B|CY2024|Estimate|Cybersecurity services, SOC
+Cognizant|IT Services / Consulting|Teaneck, USA|C,B,P,H,K,M|$19.7B|CY2024|Reported|Cyber Defense Centres, MDR
+Accenture (Accenture Security)|IT Services / Consulting|Dublin, Ireland|B,M,P,H,C,G|$69.7B|FY25 (Aug)|Reported|Cyber Fusion Centres, MXDR, IR, TI
+Capgemini|IT Services / Consulting|Paris, France|M,P,B,H,C,N|€22.1B|CY2024|Reported|Cyber Defense Centres (Mumbai/Bengaluru), SOC
+Deloitte|IT Services / Consulting|London, UK|H,B,M,P,G|$67.2B|FY24 (May)|Reported|Cyber Intelligence Centres, MDR, IR, TI
+PwC|IT Services / Consulting|London, UK|B,K,M,H,G|$55.4B|FY24 (Jun)|Reported|Cyber defence, threat intel, IR
+EY (Ernst & Young)|IT Services / Consulting|London, UK|B,M,H,P,K|$51.2B|FY24 (Jun)|Reported|Cyber Security Operations Centre, MDR
+KPMG|IT Services / Consulting|Amstelveen, Netherlands|B,M,P,H,G|$38.4B|FY24 (Sep)|Reported|Cyber response, SOC, TI
+IBM (Consulting, Security & X-Force)|IT Services / Consulting|Armonk, USA|B,P,H,K,M|$62.8B (IBM)|CY2024|Reported|X-Force IR, Managed SOC
+EPAM Systems|IT Services / Consulting|Newtown, USA|B,H,P,C|$4.73B|CY2024|Reported|Cyber security services
+GlobalLogic (Hitachi)|IT Services / Consulting|San Jose, USA|B,N,H|~$2.0B|FY25|Estimate|Product & cyber security engineering
+Genpact|IT Services / Consulting|New York, USA / Gurugram|G,B,H,K|$4.77B|CY2024|Reported|Cybersecurity services, internal SOC
+WNS|IT Services / Consulting|Mumbai, India|M,P,B,G|$1.3B|FY25 (Mar)|Reported|Information security, SOC
+EXL Service|IT Services / Consulting|New York, USA / Noida|N,P,B|$1.84B|CY2024|Reported|InfoSec operations
+Synechron|IT Services / Consulting|New York, USA / Pune|P,B,H,C|~$1.0B|CY2024|Estimate|Cybersecurity for BFSI
+Globant|IT Services / Consulting|Luxembourg|P,B,H,C|$2.42B|CY2024|Reported|Cybersecurity studio
+CitiusTech|IT Services / Consulting|Mumbai, India|M,P,B,H|~$400M|FY24|Estimate|Healthcare cybersecurity
+Infogain|IT Services / Consulting|Los Gatos, USA|N,P,B|~$500M|CY2024|Estimate|Cybersecurity services
+ThoughtWorks|IT Services / Consulting|Chicago, USA|P,B,C,G,H|~$1.0B|CY2024|Estimate|InfoSec, security engineering
+Concentrix|IT Services / Consulting|Newark, USA|B,H,G|$9.6B|FY24 (Nov)|Reported|Enterprise security ops, trust & safety
+Fujitsu|IT Services / Consulting|Tokyo, Japan|P,B,N,C|~$24B (JPY 3.55T)|FY25 (Mar)|Reported|Global SOC, cyber services
+NEC Corporation India|IT Services / Consulting|Tokyo, Japan|B,C,N|~$22B (JPY 3.42T)|FY25 (Mar)|Reported|Cyber security services, biometrics
+Red Hat (IBM)|IT Services / Consulting|Raleigh, USA|P,B|~$6.5B|CY2024|Estimate|Product security, incident response (Pune)

@@ -1,0 +1,100 @@
+# Indian enterprises with in-house SOC / CISO / cyber defence teams (banks, market infra, insurers, fintech, internet, telecom, conglomerates, pharma, PSUs)
+HDFC Bank|Indian Enterprise - BFSI|Mumbai, India|M,B,H,P|Rs ~3.4 lakh Cr (standalone total income)|FY25 (Mar)|Reported|Cyber Security Operations Centre, TI, fraud, IR
+ICICI Bank|Indian Enterprise - BFSI|Mumbai, India|M,H,B|Rs ~1.9 lakh Cr (standalone total income)|FY25 (Mar)|Reported|SOC, cyber fusion centre, TI
+State Bank of India|Indian Enterprise - BFSI|Mumbai, India|M,H,B|Rs ~5.2 lakh Cr (standalone total income)|FY25 (Mar)|Reported|SOC (Navi Mumbai), CERT, fraud monitoring
+Axis Bank|Indian Enterprise - BFSI|Mumbai, India|M,B,H,P|Rs ~1.5 lakh Cr (standalone total income)|FY25 (Mar)|Reported|SOC, cyber defence, TI
+Kotak Mahindra Bank|Indian Enterprise - BFSI|Mumbai, India|M,B|Rs ~70,000 Cr (standalone total income)|FY25 (Mar)|Reported|Cyber security operations, SOC
+IndusInd Bank|Indian Enterprise - BFSI|Mumbai, India|M,P|Rs ~58,000 Cr (total income)|FY25 (Mar)|Reported|SOC, information security
+Yes Bank|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~36,000 Cr (total income)|FY25 (Mar)|Reported|SOC, cyber security
+IDFC FIRST Bank|Indian Enterprise - BFSI|Mumbai, India|M,B|Rs ~45,000 Cr (total income)|FY25 (Mar)|Reported|SOC, cyber security
+RBL Bank|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~15,000 Cr (total income)|FY25 (Mar)|Reported|Information security
+Bank of Baroda|Indian Enterprise - BFSI|Vadodara / Mumbai, India|M,V|Rs ~1.4 lakh Cr (total income)|FY25 (Mar)|Reported|SOC, cyber security
+Union Bank of India|Indian Enterprise - BFSI|Mumbai, India|M,H,B|Rs ~1.25 lakh Cr (total income)|FY25 (Mar)|Reported|SOC, cyber security
+Bank of India|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~80,000 Cr (total income)|FY25 (Mar)|Reported|SOC, cyber security
+Canara Bank|Indian Enterprise - BFSI|Bengaluru, India|B|Rs ~1.4 lakh Cr (total income)|FY25 (Mar)|Reported|SOC, cyber security
+Central Bank of India|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~38,000 Cr (total income)|FY25 (Mar)|Reported|SOC, cyber security
+Reserve Bank Information Technology (ReBIT)|Indian Enterprise - BFSI|Mumbai, India|M,H|N/A (RBI subsidiary)|-|N/A|Cyber security for RBI, regulated-entity audits, TI
+National Payments Corporation of India (NPCI)|Indian Enterprise - BFSI|Mumbai, India|M,H,C|Rs ~2,600 Cr|FY24 (Mar)|Estimate|Payment system SOC, fraud & risk monitoring
+National Stock Exchange (NSE)|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~19,000 Cr (total income)|FY25 (Mar)|Reported|Cyber SOC, market infrastructure security
+BSE Ltd|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~3,200 Cr|FY25 (Mar)|Reported|SOC, cyber security
+Central Depository Services (CDSL)|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~1,200 Cr|FY25 (Mar)|Reported|SOC, cyber security
+National Securities Depository (NSDL)|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~1,500 Cr|FY25 (Mar)|Reported|SOC, cyber security
+Multi Commodity Exchange (MCX)|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~1,100 Cr|FY25 (Mar)|Reported|SOC, cyber security
+Protean eGov Technologies|Indian Enterprise - BFSI|Mumbai, India|M,P|Rs ~880 Cr|FY25 (Mar)|Reported|Information security, SOC
+Life Insurance Corporation of India (LIC)|Indian Enterprise - BFSI|Mumbai, India|M,B,H|Rs ~8.8 lakh Cr (total income)|FY25 (Mar)|Reported|SOC, cyber security
+HDFC Life Insurance|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~71,000 Cr (gross premium)|FY25 (Mar)|Reported|Cyber security operations
+SBI Life Insurance|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~84,000 Cr (gross premium)|FY25 (Mar)|Reported|Cyber security operations
+ICICI Prudential Life Insurance|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~48,000 Cr (gross premium)|FY25 (Mar)|Reported|Cyber security operations
+ICICI Lombard General Insurance|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~28,300 Cr (GDPI)|FY25 (Mar)|Reported|SOC, cyber security
+Bajaj Finance|Indian Enterprise - BFSI|Pune, India|P,M|Rs ~69,700 Cr (consolidated)|FY25 (Mar)|Reported|SOC, cyber security, fraud
+Bajaj Finserv|Indian Enterprise - BFSI|Pune, India|P|Rs ~1.33 lakh Cr (consolidated)|FY25 (Mar)|Reported|Group information security
+Bajaj Allianz General Insurance (Bajaj General)|Indian Enterprise - BFSI|Pune, India|P|Rs ~21,000 Cr (GWP)|FY25 (Mar)|Estimate|SOC, cyber security
+Bajaj Allianz Life Insurance (Bajaj Life)|Indian Enterprise - BFSI|Pune, India|P|Rs ~27,000 Cr (gross premium)|FY25 (Mar)|Estimate|Cyber security
+Tata AIG General Insurance|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~18,000 Cr (GWP)|FY25 (Mar)|Estimate|Cyber security
+Go Digit General Insurance|Indian Enterprise - BFSI|Bengaluru / Pune, India|B,P|Rs ~10,000 Cr (GWP)|FY25 (Mar)|Reported|Cyber security operations
+Acko General Insurance|Indian Enterprise - BFSI|Bengaluru / Mumbai, India|B,M|Rs ~2,500 Cr (GWP)|FY25 (Mar)|Estimate|Security engineering, SOC
+Aditya Birla Capital|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~40,000 Cr (consolidated)|FY25 (Mar)|Reported|Cyber security operations
+Tata Capital|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~28,000 Cr|FY25 (Mar)|Reported|SOC, cyber security
+Mahindra & Mahindra Financial Services|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~18,000 Cr|FY25 (Mar)|Reported|Information security
+L&T Finance|Indian Enterprise - BFSI|Mumbai, India|M|Rs ~16,000 Cr|FY25 (Mar)|Reported|Information security
+Shriram Finance|Indian Enterprise - BFSI|Mumbai / Chennai, India|M,C|Rs ~41,000 Cr|FY25 (Mar)|Reported|Information security
+Zerodha|Indian Enterprise - Fintech|Bengaluru, India|B|Rs ~8,300 Cr|FY24 (Mar)|Reported|Security operations, infra security
+Groww (Billionbrains Garage Ventures)|Indian Enterprise - Fintech|Bengaluru, India|B|Rs ~4,000 Cr|FY25 (Mar)|Reported|Security operations, detection engineering
+Angel One|Indian Enterprise - Fintech|Mumbai, India|M,B|Rs ~5,200 Cr|FY25 (Mar)|Reported|SOC, cyber security
+Upstox|Indian Enterprise - Fintech|Mumbai, India|M|Rs ~1,000 Cr|FY24 (Mar)|Estimate|Security engineering
+Paytm (One97 Communications)|Indian Enterprise - Fintech|Noida, India|N,B,M|Rs ~6,900 Cr|FY25 (Mar)|Reported|SOC, fraud & risk, AppSec
+PhonePe|Indian Enterprise - Fintech|Bengaluru, India|B,P|Rs ~7,100 Cr|FY25 (Mar)|Reported|Security operations, TI, fraud
+Razorpay|Indian Enterprise - Fintech|Bengaluru, India|B|Rs 3,783 Cr (consolidated)|FY25 (Mar)|Reported (Entrackr/MCA)|Security operations, detection & response
+CRED (Dreamplug Technologies)|Indian Enterprise - Fintech|Bengaluru, India|B|Rs ~2,470 Cr|FY24 (Mar)|Reported|Security engineering, SOC
+Pine Labs|Indian Enterprise - Fintech|Noida, India|N,B,M|Rs ~2,300 Cr|FY25 (Mar)|Reported|Information security, SOC
+Juspay Technologies|Indian Enterprise - Fintech|Bengaluru, India|B|Rs ~300 Cr|FY24 (Mar)|Estimate|Payment security
+Cashfree Payments|Indian Enterprise - Fintech|Bengaluru, India|B|Rs 643 Cr|FY24 (Mar)|Reported (Entrackr)|Security operations
+PayU India|Indian Enterprise - Fintech|Gurugram, India|G,B,M|Rs ~3,800 Cr|FY24 (Mar)|Estimate|Security operations, fraud
+Navi Technologies|Indian Enterprise - Fintech|Bengaluru, India|B|Rs ~2,000 Cr|FY24 (Mar)|Estimate|Security engineering
+Perfios Software Solutions|Indian Enterprise - Fintech|Bengaluru, India|B,M|Rs ~700 Cr|FY25 (Mar)|Reported (Inc42)|Information security
+Reliance Jio (Jio Platforms)|Indian Enterprise - Telecom & Tech|Navi Mumbai, India|M,B,H,P|Rs ~1.28 lakh Cr|FY25 (Mar)|Reported|Jio SOC, telco security, TI
+Bharti Airtel|Indian Enterprise - Telecom & Tech|New Delhi / Gurugram, India|G,B,P|Rs ~1.73 lakh Cr (consolidated)|FY25 (Mar)|Reported|Cyber defence, SOC, Airtel Secure
+Vodafone Idea|Indian Enterprise - Telecom & Tech|Mumbai, India|M,P|Rs ~43,500 Cr|FY25 (Mar)|Reported|SOC, cyber security
+Flipkart|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~75,000 Cr (India entities)|FY24 (Mar)|Estimate|Security operations, detection, TI
+Myntra|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~5,100 Cr|FY24 (Mar)|Reported|Security engineering
+Swiggy|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~15,200 Cr|FY25 (Mar)|Reported|Security operations, SOC
+Meesho|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~9,400 Cr|FY25 (Mar)|Reported|Security engineering, fraud
+Zepto (Kiranakart)|Indian Enterprise - Internet & Consumer Tech|Mumbai / Bengaluru, India|M,B|Rs ~11,100 Cr|FY25 (Mar)|Reported|Security engineering
+BigBasket (Supermarket Grocery Supplies)|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~10,000 Cr|FY24 (Mar)|Estimate|Information security
+Tata Digital (Tata Neu)|Indian Enterprise - Internet & Consumer Tech|Mumbai, India|M,B|Rs ~30,000 Cr (incl. subsidiaries)|FY24 (Mar)|Estimate|Cyber security
+Nykaa (FSN E-Commerce)|Indian Enterprise - Internet & Consumer Tech|Mumbai, India|M|Rs ~7,950 Cr|FY25 (Mar)|Reported|Information security
+Dream Sports (Dream11)|Indian Enterprise - Internet & Consumer Tech|Mumbai, India|M|Rs ~6,400 Cr|FY24 (Mar)|Reported|Security operations
+Games24x7|Indian Enterprise - Internet & Consumer Tech|Mumbai / Bengaluru, India|M,B|Rs ~1,800 Cr|FY24 (Mar)|Estimate|Security engineering
+Ola (ANI Technologies)|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~2,000 Cr|FY24 (Mar)|Estimate|Security engineering
+Ola Electric Mobility|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~4,500 Cr|FY25 (Mar)|Reported|Vehicle & corporate security
+MakeMyTrip|Indian Enterprise - Internet & Consumer Tech|Gurugram, India|G,B|$978M|FY25 (Mar)|Reported|Information security
+ShareChat (Mohalla Tech)|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~700 Cr|FY24 (Mar)|Reported|Trust & safety, security
+VerSe Innovation (Dailyhunt/Josh)|Indian Enterprise - Internet & Consumer Tech|Bengaluru, India|B|Rs ~1,000 Cr|FY24 (Mar)|Estimate|Security engineering
+Reliance Industries|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M,B,H|Rs ~10.7 lakh Cr (consolidated)|FY25 (Mar)|Reported|Group cyber security, SOC, OT security
+Tata Steel|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M,K|Rs ~2.18 lakh Cr|FY25 (Mar)|Reported|OT/IT SOC
+Tata Motors|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M,P,B|Rs ~4.4 lakh Cr|FY25 (Mar)|Reported|Vehicle SOC, corporate SOC
+Tata Power|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M|Rs ~65,000 Cr|FY25 (Mar)|Reported|OT/ICS SOC, grid security
+Titan Company|Indian Enterprise - Conglomerate & Industrial|Bengaluru, India|B|Rs ~60,000 Cr|FY25 (Mar)|Reported|Information security
+Mahindra & Mahindra|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M,P|Rs ~1.59 lakh Cr (consolidated)|FY25 (Mar)|Reported|Group cyber security, vehicle security
+Larsen & Toubro|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M,B,C|Rs ~2.56 lakh Cr|FY25 (Mar)|Reported|Cyber defence (L&T SOC), OT security
+Adani Group (Adani Enterprises & Airports)|Indian Enterprise - Conglomerate & Industrial|Ahmedabad, India|A,M|Rs ~1.0 lakh Cr (Adani Enterprises)|FY25 (Mar)|Reported|Group cyber defence centre, OT security
+Aditya Birla Group (Hindalco/UltraTech/Grasim)|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M|~$65B (group)|FY25 (Mar)|Estimate|Group cyber security, OT security
+Godrej Industries Group|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M|~$5B (group)|FY25 (Mar)|Estimate|Cyber security
+JSW Steel|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M,B|Rs ~1.68 lakh Cr|FY25 (Mar)|Reported|OT/IT security
+Vedanta|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M|Rs ~1.5 lakh Cr|FY25 (Mar)|Reported|Cyber security, OT
+Bajaj Auto|Indian Enterprise - Conglomerate & Industrial|Pune, India|P|Rs ~50,000 Cr|FY25 (Mar)|Reported|Information security
+Bharat Petroleum (BPCL)|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M|Rs ~5.0 lakh Cr|FY25 (Mar)|Reported|OT/IT SOC
+Hindustan Petroleum (HPCL)|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M|Rs ~4.6 lakh Cr|FY25 (Mar)|Reported|OT/IT SOC
+Asian Paints|Indian Enterprise - Conglomerate & Industrial|Mumbai, India|M|Rs ~34,000 Cr|FY25 (Mar)|Reported|Information security
+Sun Pharmaceutical Industries|Indian Enterprise - Pharma & Healthcare|Mumbai, India|M|Rs ~52,000 Cr|FY25 (Mar)|Reported|Cyber security operations
+Cipla|Indian Enterprise - Pharma & Healthcare|Mumbai, India|M|Rs ~27,500 Cr|FY25 (Mar)|Reported|Cyber security
+Lupin|Indian Enterprise - Pharma & Healthcare|Mumbai, India|M,P|Rs ~22,700 Cr|FY25 (Mar)|Reported|Cyber security
+Glenmark Pharmaceuticals|Indian Enterprise - Pharma & Healthcare|Mumbai, India|M|Rs ~13,300 Cr|FY25 (Mar)|Reported|Information security
+Dr. Reddy's Laboratories|Indian Enterprise - Pharma & Healthcare|Hyderabad, India|H|Rs ~32,500 Cr|FY25 (Mar)|Reported|Cyber security operations
+Aurobindo Pharma|Indian Enterprise - Pharma & Healthcare|Hyderabad, India|H|Rs ~31,700 Cr|FY25 (Mar)|Reported|Information security
+Divi's Laboratories|Indian Enterprise - Pharma & Healthcare|Hyderabad, India|H|Rs ~9,400 Cr|FY25 (Mar)|Reported|Information security
+Biocon|Indian Enterprise - Pharma & Healthcare|Bengaluru, India|B|Rs ~15,000 Cr|FY25 (Mar)|Reported|Information security
+Bharat Electronics (BEL)|Indian Enterprise - PSU & Government|Bengaluru, India|B,H,P,G|Rs ~23,000 Cr|FY25 (Mar)|Reported|Cyber security products, SOC, defence cyber
+Hindustan Aeronautics (HAL)|Indian Enterprise - PSU & Government|Bengaluru, India|B,H|Rs ~30,900 Cr|FY25 (Mar)|Reported|Information security
+Electronics Corporation of India (ECIL)|Indian Enterprise - PSU & Government|Hyderabad, India|H|Rs ~2,500 Cr|FY24 (Mar)|Estimate|Cyber security products & SOC services
+C-DAC (Centre for Development of Advanced Computing)|Indian Enterprise - PSU & Government|Pune, India|P,B,H,M|N/A (Govt R&D society)|-|N/A|Cyber forensics, CERT support, malware research

@@ -1,0 +1,74 @@
+# Indian-origin cybersecurity product companies, MSSPs/MDR providers and data-centre SOC providers
+Quick Heal Technologies (Seqrite)|Indian Cyber Product / Startup|Pune, India|P,M,B|Rs 279.5 Cr|FY25 (Mar)|Reported|Seqrite XDR, threat research labs, SOC services
+eScan (MicroWorld Technologies)|Indian Cyber Product / Startup|Mumbai, India|M,R|Rs ~100 Cr|FY24|Estimate|Endpoint security, malware research
+Sequretek|Indian Cyber Product / Startup|Mumbai, India|M,B,R|Rs ~41 Cr|FY25 (Mar)|Reported (Inc42/MCA)|Percept XDR/MDR SOC analysts, EDR
+ARCON|Indian Cyber Product / Startup|Mumbai, India|M,P|Rs ~150 Cr|FY24|Estimate|PAM, identity threat analytics
+Seclore Technology|Indian Cyber Product / Startup|Mumbai, India|M,P|Rs ~400 Cr|FY24|Estimate|Data-centric security
+Network Intelligence (Transilience AI)|MSSP / MDR / Cyber Services|Mumbai, India|M,B,R|Rs 100-500 Cr band (exact undisclosed)|FY24 (Mar)|Estimate|SOC/MDR, ADR, IR, threat hunting, VM
+Aujas Cybersecurity (NuSummit Cybersecurity)|MSSP / MDR / Cyber Services|Bengaluru, India|B,M,P,R|Rs 100-500 Cr band (MCA via Tofler)|FY24 (Mar)|MCA band|SOC, IAM, VM, cyber defence services
+SISA Information Security|MSSP / MDR / Cyber Services|Bengaluru, India|B,M,R|~$16.5M (Rs ~140 Cr)|FY24 (Mar)|Estimate (aggregator)|MDR (ProACT), DFIR, payment forensics
+Paladion (part of Atos/Eviden)|MSSP / MDR / Cyber Services|Bengaluru, India|B,M,P|Part of Atos|CY2024|Reported|MDR SOC, AI-driven threat hunting
+InstaSafe Technologies|Indian Cyber Product / Startup|Bengaluru, India|B|Rs ~30 Cr|FY24|Estimate|ZTNA, identity
+CYFIRMA|Indian Cyber Product / Startup|Singapore / Bengaluru, India|B,R|~$10M|FY24|Estimate|External threat landscape management, TI
+Scrut Automation|Indian Cyber Product / Startup|Bengaluru, India|B,R|~$8M ARR|FY24|Estimate|GRC/compliance automation, risk monitoring
+Sprinto|Indian Cyber Product / Startup|Bengaluru, India|B,R|~$20M ARR|FY25|Estimate|Compliance automation, continuous control monitoring
+Akto|Indian Cyber Product / Startup|San Francisco, USA / Bengaluru|B,R|~$5M|FY24|Estimate|API security testing & monitoring
+Block Armour|Indian Cyber Product / Startup|Mumbai, India|M|Rs ~10 Cr|FY24|Estimate|Zero-trust, OT security
+Indusface|Indian Cyber Product / Startup|Vadodara / Bengaluru, India|B,R|Rs ~100 Cr|FY24|Estimate|WAAP, managed WAF SOC
+SecPod Technologies|Indian Cyber Product / Startup|Bengaluru, India|B|Rs ~40 Cr|FY24|Estimate|Vulnerability & patch management (SanerNow)
+CyRAACS|MSSP / MDR / Cyber Services|Bengaluru, India|B|Rs ~30 Cr|FY24|Estimate|GRC, vCISO, SOC advisory
+Valuementor Consulting|MSSP / MDR / Cyber Services|Kochi / Bengaluru, India|B,R|Rs ~40 Cr|FY24|Estimate|SOC, VAPT, compliance
+SecureLayer7|MSSP / MDR / Cyber Services|Pune, India|P,R|Rs ~20 Cr|FY24|Estimate|Security assessments, BugDazz VM
+Payatu Security Consulting|MSSP / MDR / Cyber Services|Pune, India|P,R|Rs ~30 Cr|FY24|Estimate|IoT security, DFIR, red/blue team exercises
+Varutra Consulting|MSSP / MDR / Cyber Services|Pune, India|P,M|Rs ~20 Cr|FY24|Estimate|SOC, VAPT, GRC
+Accops Systems|Indian Cyber Product / Startup|Pune, India|P,M|Rs ~100 Cr|FY24|Estimate|ZTNA, VDI, MFA
+miniOrange Security Software|Indian Cyber Product / Startup|Pune, India|P,R|Rs ~100 Cr|FY24|Estimate|IAM, SSO, PAM
+Scalefusion (ProMobi Technologies)|Indian Cyber Product / Startup|Pune, India|P|Rs ~150 Cr|FY24|Estimate|UEM, endpoint security
+Uniken|Indian Cyber Product / Startup|Chatham, USA / Pune & Mumbai|P,M|Rs ~100 Cr|FY24|Estimate|Mobile app & identity security (REL-ID)
+SecureThings.ai|Indian Cyber Product / Startup|Pune, India|P|Rs ~15 Cr|FY24|Estimate|Automotive cybersecurity, vehicle SOC
+Bureau (bureau.id)|Indian Cyber Product / Startup|San Francisco, USA / Bengaluru|B|~$10M|FY24|Estimate|Fraud & identity risk detection
+TAC Security|Indian Cyber Product / Startup|Mumbai, India (NSE SME listed)|M,R|Rs ~30 Cr (FY24); ~2.6x growth in FY25|FY24 (Mar)|Reported|Vulnerability management (ESOF), CRQ
+Cymmetri|Indian Cyber Product / Startup|Mumbai, India|M|Rs ~10 Cr|FY24|Estimate|Identity governance, access analytics
+BluSapphire Cyber Systems|MSSP / MDR / Cyber Services|Hyderabad, India|H,R|Rs ~20 Cr|FY24|Estimate|Unified detection & response, MDR
+Netenrich|MSSP / MDR / Cyber Services|San Jose, USA / Hyderabad & Bengaluru|H,B,R|~$80M|CY2024|Estimate|Resolution Intelligence SOC, MDR, TI
+Eventus TechSol|MSSP / MDR / Cyber Services|Mumbai, India|M,R|Rs ~60 Cr|FY24|Estimate|24x7 SOC (CyberGuard360), MDR, IR
+Inspira Enterprise|MSSP / MDR / Cyber Services|Mumbai, India|M,B,H,P|> Rs 500 Cr (MCA band)|FY23 (Mar)|MCA band|Cyber defence centre, SOC, IAM, OT security
+Wysetek Systems Technologists|MSSP / MDR / Cyber Services|Mumbai, India|M,B|Rs ~150 Cr|FY24|Estimate|SOC, network security services
+Primeinfoserv|MSSP / MDR / Cyber Services|Mumbai, India|M|Rs ~50 Cr|FY24|Estimate|SOC/MSS, compliance
+MitKat Advisory|MSSP / MDR / Cyber Services|Mumbai, India|M,B,R|Rs ~40 Cr|FY24|Estimate|Risk & threat intelligence, cyber advisory
+QRC Assurance and Solutions|MSSP / MDR / Cyber Services|Mumbai, India|M|Rs ~20 Cr|FY24|Estimate|SOC, VAPT, compliance
+Ampcus Cyber|MSSP / MDR / Cyber Services|Mumbai / Bengaluru, India|M,B,R|Rs ~50 Cr|FY24|Estimate|MDR, VAPT, GRC
+Infopercept Consulting|MSSP / MDR / Cyber Services|Ahmedabad, India|A,M,R|Rs ~60 Cr|FY24|Estimate|Invinsense XDR/MDR, threat hunting
+Sattrix Information Security|MSSP / MDR / Cyber Services|Ahmedabad, India|A,M,R|Rs ~80 Cr|FY24|Estimate|SOC/MDR, SIEM integration
+NSEIT|MSSP / MDR / Cyber Services|Mumbai, India|M,B,R|Rs ~500 Cr|FY24|Estimate|Cybersecurity services, SOC, IAM
+Clover Infotech|MSSP / MDR / Cyber Services|Mumbai, India|M,P,B|Rs ~300 Cr|FY24|Estimate|SOC, IAM, security services
+Microland|MSSP / MDR / Cyber Services|Bengaluru, India|B,P,R|Rs ~1,300 Cr|FY24|Estimate|SOC/MDR, network security operations
+Sify Technologies|MSSP / MDR / Cyber Services|Chennai, India|M,B,H,C,R|Rs ~4,000 Cr|FY25|Reported|MSS SOC, CloudInfinit security ops
+Tata Communications (Cyber Security)|MSSP / MDR / Cyber Services|Mumbai, India|M,P,C,B|Rs 23,238 Cr|FY25|Reported|Global SOC, MDR, DDoS, threat intel
+CtrlS Datacenters|MSSP / MDR / Cyber Services|Hyderabad, India|H,M,B|Rs ~1,500 Cr|FY24|Estimate|SOC-as-a-service, cloud security
+Yotta Infrastructure|MSSP / MDR / Cyber Services|Navi Mumbai, India|M|Rs ~600 Cr|FY24|Estimate|SOC services, cloud security
+ESDS Software Solution|MSSP / MDR / Cyber Services|Nashik, India|M,B|Rs ~300 Cr|FY24|Estimate|SOC-as-a-service, cloud security
+3i Infotech|MSSP / MDR / Cyber Services|Navi Mumbai, India|M,B,R|Rs ~700 Cr|FY25|Reported|NuRe Cyber SOC, MDR
+Black Box (Essar)|MSSP / MDR / Cyber Services|Mumbai, India|M,B,P|Rs ~6,000 Cr|FY25|Reported|Managed security, SOC
+Allied Digital Services|MSSP / MDR / Cyber Services|Mumbai, India|M,P,R|Rs ~800 Cr|FY25|Reported|SOC/NOC, managed security
+iValue InfoSolutions|MSSP / MDR / Cyber Services|Bengaluru, India|B,M,H,P|Rs ~900 Cr|FY25|Reported|Security integration, managed security
+Cyber Security Works (Securin)|MSSP / MDR / Cyber Services|Chennai, India / USA|C,R|~$30M|FY24|Estimate|Vulnerability intelligence, ASM
+CyberProof (UST)|MSSP / MDR / Cyber Services|Aliso Viejo, USA|B,R|Part of UST|CY2024|Estimate|CDC/SOC, MDR, threat hunting
+Atos / Eviden|MSSP / MDR / Cyber Services|Bezons, France|P,B,M,C|€9.6B|CY2024|Reported|Global SOC (Pune), MDR, IR, PKI
+NTT DATA (incl. Netmagic)|MSSP / MDR / Cyber Services|Tokyo, Japan|B,P,M,H,C,N|~$29B (JPY 4.37T)|FY25 (Mar)|Reported|Global SOC, MDR, cloud security
+Kyndryl|MSSP / MDR / Cyber Services|New York, USA|B,P,N|$15.1B|FY25 (Mar)|Reported|Security & resiliency ops, SOC
+DXC Technology|MSSP / MDR / Cyber Services|Ashburn, USA|B,H,C,N|$12.9B|FY25 (Mar)|Reported|Security operations centre, MXDR
+Unisys|MSSP / MDR / Cyber Services|Blue Bell, USA|B|$2.0B|CY2024|Reported|SOC, Stealth, cyber recovery
+Optiv Security|MSSP / MDR / Cyber Services|Denver, USA|B,R|~$2.5B|CY2024|Estimate|MXDR, threat management, IAM
+LevelBlue (incl. Trustwave, Aon Stroz Friedberg)|MSSP / MDR / Cyber Services|Dallas, USA|B,P,R|~$1B|CY2025|Estimate|MDR SOC, IR, SpiderLabs TI
+BT Security (BT Group)|MSSP / MDR / Cyber Services|London, UK|B,G,K|£20.8B (BT Group)|FY25 (Mar)|Reported|Global SOC, threat intel
+Orange Cyberdefense|MSSP / MDR / Cyber Services|Paris, France|M,G|€40.3B (Orange)|CY2024|Reported|CyberSOC, CERT, MDR
+Verizon Business Security|MSSP / MDR / Cyber Services|New York, USA|H,C,B|$134.8B (Verizon)|CY2024|Reported|Managed SOC, DBIR research, IR
+Lumen Technologies (Black Lotus Labs)|MSSP / MDR / Cyber Services|Monroe, USA|B|$13.1B|CY2024|Reported|Black Lotus Labs TI, SOC
+Kroll|MSSP / MDR / Cyber Services|New York, USA|M,D,R|~$1.5B|CY2024|Estimate|Cyber IR, DFIR, MDR
+FTI Consulting|MSSP / MDR / Cyber Services|Washington DC, USA|M,G|$3.70B|CY2024|Reported|Cyber IR, forensics
+Alvarez & Marsal|MSSP / MDR / Cyber Services|New York, USA|M,B,G|~$2.5B|CY2024|Estimate|Cyber risk, DFIR
+Protiviti (Robert Half)|MSSP / MDR / Cyber Services|Menlo Park, USA|B,M,G,H|~$2.0B|CY2024|Estimate|Security ops, IR, GRC
+Grant Thornton Bharat|MSSP / MDR / Cyber Services|New Delhi, India|M,B,P,H,G|Rs ~2,500 Cr (Global $7.5B)|FY24|Estimate|Cyber consulting, SOC advisory
+BDO India|MSSP / MDR / Cyber Services|Mumbai, India|M,B,P,H|Rs ~1,000 Cr|FY24|Estimate|Cyber assurance, SOC, DFIR
+Aon (Cyber Solutions)|MSSP / MDR / Cyber Services|Dublin, Ireland|G,N,M,B|$15.7B|CY2024|Reported|Cyber risk, IR (India GCC InfoSec)

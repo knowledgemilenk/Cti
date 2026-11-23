@@ -1,0 +1,57 @@
+# Global Capability Centres (GCCs) - Banking, Financial Services & Insurance
+JPMorgan Chase|GCC - BFSI|New York, USA|M,B,H|$180.6B|CY2024|Reported|Cybersecurity & Technology Controls, SOC, TI, IR, threat hunting
+Goldman Sachs|GCC - BFSI|New York, USA|B,H|$53.5B|CY2024|Reported|Technology risk, SOC, detection engineering, TI
+Morgan Stanley|GCC - BFSI|New York, USA|M,B|$61.8B|CY2024|Reported|Cyber fusion centre, SOC, IR
+Citigroup|GCC - BFSI|New York, USA|P,M,C,B|$81.1B|CY2024|Reported|CSIS/Cyber Security Fusion Centre (Pune), TI, IR
+Bank of America (Continuum India)|GCC - BFSI|Charlotte, USA|M,H,G,C|$101.9B|CY2024|Reported|Global Information Security, SOC, cyber threat defence
+Wells Fargo|GCC - BFSI|San Francisco, USA|H,B,C|$82.3B|CY2024|Reported|Cyber defence, SOC, IAM, TI
+Barclays|GCC - BFSI|London, UK|P,C,N|£26.8B|CY2024|Reported|Joint Operations Centre (Pune), CSIRT, TI
+HSBC|GCC - BFSI|London, UK|H,P,B,K|$65.9B|CY2024|Reported|Global Cyber Security Operations, SOC, TI, IR
+Deutsche Bank (DBOI)|GCC - BFSI|Frankfurt, Germany|P,B,M|€30.1B|CY2024|Reported|CSO / Cyber Intelligence & Response Centre, SOC
+UBS|GCC - BFSI|Zurich, Switzerland|P,M,H|~$48B|CY2024|Reported|Cyber defence, SOC, IAM
+Standard Chartered|GCC - BFSI|London, UK|B,C,M|$19.7B|CY2024|Reported|Cyber Defence Centre, TI, IR
+NatWest Group|GCC - BFSI|Edinburgh, UK|B,C,G|£14.7B|CY2024|Reported|Cyber security operations, IAM
+Lloyds Banking Group|GCC - BFSI|London, UK|H|£17.6B|CY2024|Reported|Cyber security engineering, SOC (Hyderabad tech centre)
+BNP Paribas (ISPL)|GCC - BFSI|Paris, France|M,C,B|€48.8B|CY2024|Reported|CERT, SOC, IT risk
+Société Générale (GSC)|GCC - BFSI|Paris, France|B,C|€26.8B|CY2024|Reported|CERT, SOC, cyber security ops
+Nomura|GCC - BFSI|Tokyo, Japan|M|~$12B (JPY 1.89T net rev)|FY25 (Mar)|Reported|Information security, SOC (Powai)
+MUFG Enterprise Solutions India|GCC - BFSI|Tokyo, Japan|B,M|~$32B (MUFG gross profit)|FY25 (Mar)|Estimate|Cyber security ops, SOC
+ANZ|GCC - BFSI|Melbourne, Australia|B|A$20.6B|FY24 (Sep)|Reported|Cyber security operations, TI
+National Australia Bank (NAB Innovation Centre India)|GCC - BFSI|Melbourne, Australia|B|A$20.8B|FY24 (Sep)|Reported|Cyber security, SOC
+Commonwealth Bank of Australia|GCC - BFSI|Sydney, Australia|B|A$27.2B|FY24 (Jun)|Reported|Cyber security engineering
+DBS Bank (DBS Tech India)|GCC - BFSI|Singapore|H,M|S$22.3B|CY2024|Reported|Cyber security ops, SOC
+State Street|GCC - BFSI|Boston, USA|B,H,P|$13.0B|CY2024|Reported|Global Cyber Security, SOC
+BNY|GCC - BFSI|New York, USA|P,C|$18.6B|CY2024|Reported|Information security, cyber fusion centre
+Northern Trust|GCC - BFSI|Chicago, USA|B,P|~$8.3B|CY2024|Reported|Information security, SOC
+Fidelity Investments|GCC - BFSI|Boston, USA|B,C|~$32.7B|CY2024|Estimate|Cyber defence, threat intel
+BlackRock|GCC - BFSI|New York, USA|M,G|$20.4B|CY2024|Reported|Cyber security, SOC
+Invesco|GCC - BFSI|Atlanta, USA|H|$6.07B|CY2024|Reported|Information security
+Franklin Templeton|GCC - BFSI|San Mateo, USA|H,M|$8.5B|FY24 (Sep)|Reported|Information security ops
+Principal Global Services|GCC - BFSI|Des Moines, USA|P|$16.1B|CY2024|Reported|Information security, SOC
+Ameriprise Financial|GCC - BFSI|Minneapolis, USA|H,N,G|$17.3B|CY2024|Reported|Cyber security operations
+Allianz Technology|GCC - BFSI|Munich, Germany|P|€179.8B (total business volume)|CY2024|Reported|Allianz CERT, SOC
+Swiss Re|GCC - BFSI|Zurich, Switzerland|B|~$49B|CY2024|Reported|Cyber security ops
+Chubb|GCC - BFSI|Zurich, Switzerland|H,B|$56.0B|CY2024|Reported|Cyber security, SOC
+Travelers|GCC - BFSI|New York, USA|B|$46.4B|CY2024|Reported|Information security, SOC
+The Hartford|GCC - BFSI|Hartford, USA|H|$26.5B|CY2024|Reported|Cyber security ops
+Zurich Insurance (Zurich India tech hub)|GCC - BFSI|Zurich, Switzerland|H|~$70B (gross written premiums & policy fees)|CY2024|Estimate|Cyber security ops
+Visa|GCC - BFSI|San Francisco, USA|B|$35.9B|FY24 (Sep)|Reported|Cyber fusion centre, payments fraud, TI
+Mastercard|GCC - BFSI|Purchase, USA|P,G,V|$28.2B|CY2024|Reported|Cyber security ops, fraud intel
+American Express|GCC - BFSI|New York, USA|G,B|$65.9B|CY2024|Reported|Cyber threat intel, SOC
+PayPal|GCC - BFSI|San Jose, USA|C,B,H|$31.8B|CY2024|Reported|Security operations, fraud & risk
+Fiserv|GCC - BFSI|Milwaukee, USA|P,N,B,C|$20.5B|CY2024|Reported|Cyber security operations, SOC
+FIS|GCC - BFSI|Jacksonville, USA|P,B,C|$10.1B|CY2024|Reported|Cyber fusion centre, SOC
+Broadridge Financial|GCC - BFSI|Lake Success, USA|H,B|$6.5B|FY24 (Jun)|Reported|Information security
+SS&C Technologies|GCC - BFSI|Windsor, USA|H,M|$5.9B|CY2024|Reported|Information security, SOC
+London Stock Exchange Group (LSEG)|GCC - BFSI|London, UK|B,H|£8.6B|CY2024|Reported|Cyber security ops
+S&P Global|GCC - BFSI|New York, USA|H,A,G|$14.2B|CY2024|Reported|Cyber security operations
+Moody's|GCC - BFSI|New York, USA|B,G|$7.1B|CY2024|Reported|Information security
+MSCI|GCC - BFSI|New York, USA|M,P|$2.86B|CY2024|Reported|Information security
+Morningstar|GCC - BFSI|Chicago, USA|M|$2.28B|CY2024|Reported|Information security
+Experian|GCC - BFSI|Dublin, Ireland|H,M|$7.5B|FY25 (Mar)|Reported|Cyber fusion centre, fraud
+TransUnion|GCC - BFSI|Chicago, USA|P,C,H|$4.18B|CY2024|Reported|Global security operations
+Nasdaq|GCC - BFSI|New York, USA|B,M|$7.4B (gross)|CY2024|Reported|Cyber security, surveillance
+Intercontinental Exchange (ICE)|GCC - BFSI|Atlanta, USA|H,P|$9.3B|CY2024|Reported|Information security
+Marsh McLennan|GCC - BFSI|New York, USA|M,P,G|$24.5B|CY2024|Reported|Cyber security ops
+Macquarie Group|GCC - BFSI|Sydney, Australia|G,M|A$16.9B (net op income)|FY25 (Mar)|Reported|Technology risk, cyber security
+Synchrony Financial|GCC - BFSI|Stamford, USA|H|~$22B (interest & other income)|CY2024|Estimate|Cyber security ops

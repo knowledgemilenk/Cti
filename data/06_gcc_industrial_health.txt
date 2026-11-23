@@ -1,0 +1,69 @@
+# GCCs - Industrial, Automotive, Aerospace, Energy, Pharma & Healthcare
+Shell (Shell India Markets)|GCC - Energy & Industrial|London, UK|B,C|$284.3B|CY2024|Reported|Cyber defence centre, OT security
+BP (Pune business & technology centre)|GCC - Energy & Industrial|London, UK|P|$189.2B|CY2024|Reported|Cyber security operations, OT security
+ExxonMobil|GCC - Energy & Industrial|Spring, USA|B|$339.2B|CY2024|Reported|Cyber security operations
+Chevron (ENGINE Bengaluru)|GCC - Energy & Industrial|Houston, USA|B|$193.4B|CY2024|Reported|Cyber security, OT security
+SLB (Schlumberger)|GCC - Energy & Industrial|Houston, USA|P|$36.3B|CY2024|Reported|Cyber security, product security
+Baker Hughes|GCC - Energy & Industrial|Houston, USA|B,P|$27.8B|CY2024|Reported|Cyber security, OT
+Halliburton|GCC - Energy & Industrial|Houston, USA|P|$22.9B|CY2024|Reported|Information security
+Siemens|GCC - Energy & Industrial|Munich, Germany|B,P,M|€75.9B|FY24 (Sep)|Reported|ProductCERT, CDC, OT/ICS security
+Honeywell|GCC - Energy & Industrial|Charlotte, USA|B,P,H|$38.5B|CY2024|Reported|OT cybersecurity (Cyber Insights), SOC
+ABB|GCC - Energy & Industrial|Zurich, Switzerland|B|$32.9B|CY2024|Reported|OT security, PSIRT
+Schneider Electric|GCC - Energy & Industrial|Rueil-Malmaison, France|B,M|€38.2B|CY2024|Reported|CPCERT, OT security, SOC
+Rockwell Automation|GCC - Energy & Industrial|Milwaukee, USA|P,B,N|$8.26B|FY24 (Sep)|Reported|OT/ICS managed security services
+Emerson|GCC - Energy & Industrial|St. Louis, USA|P|$17.5B|FY24 (Sep)|Reported|OT cybersecurity, PSIRT
+GE Aerospace (JFWTC)|GCC - Energy & Industrial|Cincinnati, USA|B|$38.7B|CY2024|Reported|Cyber security operations
+GE Vernova|GCC - Energy & Industrial|Cambridge, USA|B,H|$34.9B|CY2024|Reported|OT cybersecurity, grid security
+Bosch Global Software Technologies|GCC - Energy & Industrial|Gerlingen, Germany|B,H,P|€90.3B (Bosch Group)|CY2024|Reported|Cyber Defence Centre, PSIRT, OT security
+Continental|GCC - Energy & Industrial|Hanover, Germany|B|€39.7B|CY2024|Reported|Automotive cyber security
+ZF Group|GCC - Energy & Industrial|Friedrichshafen, Germany|H,C|€41.4B|CY2024|Reported|Automotive cyber security
+Mercedes-Benz R&D India|GCC - Energy & Industrial|Stuttgart, Germany|B|€145.6B|CY2024|Reported|Vehicle SOC, cyber security
+BMW TechWorks India|GCC - Energy & Industrial|Munich, Germany|P,B,C|€142.4B|CY2024|Reported|Automotive cyber security
+Volvo Group|GCC - Energy & Industrial|Gothenburg, Sweden|B|SEK 527B|CY2024|Reported|Cyber security ops
+Daimler Truck Innovation Center India|GCC - Energy & Industrial|Leinfelden-Echterdingen, Germany|B,C|€54.1B|CY2024|Reported|Vehicle cyber security
+General Motors Technical Center India|GCC - Energy & Industrial|Detroit, USA|B|$187.4B|CY2024|Reported|Cyber security, vehicle SOC
+Visteon|GCC - Energy & Industrial|Van Buren, USA|P,B,C|$3.87B|CY2024|Reported|Product cyber security
+Aptiv|GCC - Energy & Industrial|Dublin, Ireland|B|$19.7B|CY2024|Reported|Automotive cyber security
+Caterpillar|GCC - Energy & Industrial|Irving, USA|C,B,P|$64.8B|CY2024|Reported|Cyber security operations
+John Deere (Deere & Co.)|GCC - Energy & Industrial|Moline, USA|P|$51.7B|FY24 (Oct)|Reported|Product & corporate cyber security
+Cummins|GCC - Energy & Industrial|Columbus, USA|P|$34.1B|CY2024|Reported|Cyber security operations
+Eaton|GCC - Energy & Industrial|Dublin, Ireland|P|$24.9B|CY2024|Reported|Cybersecurity Center of Excellence, PSIRT
+Johnson Controls|GCC - Energy & Industrial|Cork, Ireland|P|$22.9B|FY24 (Sep)|Reported|Product security, OT
+Carrier Global|GCC - Energy & Industrial|Palm Beach Gardens, USA|H|$22.5B|CY2024|Reported|Product security
+Boeing India Engineering & Technology Center|GCC - Energy & Industrial|Arlington, USA|B,C|$66.5B|CY2024|Reported|Cyber security engineering
+Airbus India|GCC - Energy & Industrial|Leiden, Netherlands|B|€69.2B|CY2024|Reported|Cyber security operations
+RTX (Collins Aerospace, Pratt & Whitney)|GCC - Energy & Industrial|Arlington, USA|B,H|$80.7B|CY2024|Reported|Cyber security engineering
+Rolls-Royce|GCC - Energy & Industrial|London, UK|B|£17.8B|CY2024|Reported|Cyber security
+3M|GCC - Energy & Industrial|St. Paul, USA|B|$24.6B|CY2024|Reported|Information security
+DuPont|GCC - Energy & Industrial|Wilmington, USA|H|$12.4B|CY2024|Reported|Information security
+Corteva Agriscience|GCC - Energy & Industrial|Indianapolis, USA|H|$16.9B|CY2024|Reported|Cyber security operations
+BASF|GCC - Energy & Industrial|Ludwigshafen, Germany|M|€65.3B|CY2024|Reported|Cyber defence, OT security
+Hitachi (incl. Hitachi Vantara/Energy)|GCC - Energy & Industrial|Tokyo, Japan|H,B,P|~$64B (JPY 9.78T)|FY25 (Mar)|Reported|OT security, SOC
+Philips|GCC - Healthcare & Pharma|Amsterdam, Netherlands|B,P|€18.0B|CY2024|Reported|Product security, medical device security
+GE HealthCare|GCC - Healthcare & Pharma|Chicago, USA|B|$19.7B|CY2024|Reported|Product cyber security, SOC
+Siemens Healthineers|GCC - Healthcare & Pharma|Erlangen, Germany|B|€22.4B|FY24 (Sep)|Reported|Product security, cyber security ops
+Novartis (Hyderabad)|GCC - Healthcare & Pharma|Basel, Switzerland|H|$50.3B|CY2024|Reported|Cyber defence centre, SOC, TI
+Sanofi|GCC - Healthcare & Pharma|Paris, France|H|€41.1B|CY2024|Reported|Cyber security operations
+AstraZeneca|GCC - Healthcare & Pharma|Cambridge, UK|C,B|$54.1B|CY2024|Reported|Cyber security operations
+Pfizer|GCC - Healthcare & Pharma|New York, USA|M,C|$63.6B|CY2024|Reported|Cyber security
+Merck & Co (MSD)|GCC - Healthcare & Pharma|Rahway, USA|H|$64.2B|CY2024|Reported|Cyber security operations
+Eli Lilly|GCC - Healthcare & Pharma|Indianapolis, USA|H,B|$45.0B|CY2024|Reported|Cyber security operations
+Amgen (Amgen India)|GCC - Healthcare & Pharma|Thousand Oaks, USA|H|$33.4B|CY2024|Reported|Cyber security operations
+Bristol Myers Squibb|GCC - Healthcare & Pharma|Princeton, USA|H|$48.3B|CY2024|Reported|Cyber security
+Johnson & Johnson|GCC - Healthcare & Pharma|New Brunswick, USA|M,B|$88.8B|CY2024|Reported|Cyber security operations
+GSK|GCC - Healthcare & Pharma|London, UK|B|£31.4B|CY2024|Reported|Cyber security operations
+Takeda (Innovation Capability Center)|GCC - Healthcare & Pharma|Tokyo, Japan|B|~$30B (JPY 4.58T)|FY25 (Mar)|Reported|Cyber security
+Novo Nordisk Global Business Services|GCC - Healthcare & Pharma|Bagsværd, Denmark|B|DKK 290.4B|CY2024|Reported|Cyber security operations
+Bayer|GCC - Healthcare & Pharma|Leverkusen, Germany|M,B|€46.6B|CY2024|Reported|Cyber defence centre
+Abbott|GCC - Healthcare & Pharma|Abbott Park, USA|M|$42.0B|CY2024|Reported|Cyber security, product security
+Medtronic Engineering & Innovation Center|GCC - Healthcare & Pharma|Dublin, Ireland|H|$33.5B|FY25 (Apr)|Reported|Product security, cyber security
+UnitedHealth Group (Optum)|GCC - Healthcare & Pharma|Minnetonka, USA|H,B,G,N|$400.3B|CY2024|Reported|Cyber defence, SOC, TI, IR
+Elevance Health (Carelon Global Solutions)|GCC - Healthcare & Pharma|Indianapolis, USA|B,H,G|$177.0B|CY2024|Reported|Cyber security operations, SOC
+The Cigna Group (Evernorth)|GCC - Healthcare & Pharma|Bloomfield, USA|H|$247.1B|CY2024|Reported|Cyber security operations
+McKesson|GCC - Healthcare & Pharma|Irving, USA|B|$359.1B|FY25 (Mar)|Reported|Cyber security operations, SOC
+Cardinal Health|GCC - Healthcare & Pharma|Dublin (Ohio), USA|B|$226.8B|FY24 (Jun)|Reported|Information security
+Cencora|GCC - Healthcare & Pharma|Conshohocken, USA|P|$294.0B|FY24 (Sep)|Reported|Cyber security operations
+IQVIA|GCC - Healthcare & Pharma|Durham, USA|B,M|$15.4B|CY2024|Reported|Information security
+Thermo Fisher Scientific|GCC - Healthcare & Pharma|Waltham, USA|B,H|$42.9B|CY2024|Reported|Cyber security operations
+Danaher|GCC - Healthcare & Pharma|Washington DC, USA|B|$23.9B|CY2024|Reported|Cyber security
+Labcorp|GCC - Healthcare & Pharma|Burlington, USA|B,M|$13.0B|CY2024|Reported|Information security

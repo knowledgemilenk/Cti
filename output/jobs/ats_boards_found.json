@@ -1,0 +1,1010 @@
+[
+ {
+  "company": "Zscaler",
+  "platform": "greenhouse",
+  "slug": "zscaler",
+  "total_jobs": 386
+ },
+ {
+  "company": "Okta",
+  "platform": "greenhouse",
+  "slug": "okta",
+  "total_jobs": 373
+ },
+ {
+  "company": "Cloudflare",
+  "platform": "greenhouse",
+  "slug": "cloudflare",
+  "total_jobs": 503
+ },
+ {
+  "company": "McAfee",
+  "platform": "greenhouse",
+  "slug": "mcafee",
+  "total_jobs": 5
+ },
+ {
+  "company": "Gen Digital (Norton/Avast)",
+  "platform": "ashby",
+  "slug": "gen-digital",
+  "total_jobs": 93
+ },
+ {
+  "company": "Sophos (incl. Secureworks)",
+  "platform": "ashby",
+  "slug": "sophos",
+  "total_jobs": 64
+ },
+ {
+  "company": "Netskope",
+  "platform": "greenhouse",
+  "slug": "netskope",
+  "total_jobs": 122
+ },
+ {
+  "company": "Netskope",
+  "platform": "smartrecruiters",
+  "slug": "netskope",
+  "total_jobs": 2
+ },
+ {
+  "company": "Illumio",
+  "platform": "ashby",
+  "slug": "illumio",
+  "total_jobs": 74
+ },
+ {
+  "company": "Ping Identity (incl. ForgeRock)",
+  "platform": "greenhouse",
+  "slug": "pingidentity",
+  "total_jobs": 69
+ },
+ {
+  "company": "Saviynt",
+  "platform": "lever",
+  "slug": "saviynt",
+  "total_jobs": 59
+ },
+ {
+  "company": "BeyondTrust",
+  "platform": "greenhouse",
+  "slug": "beyondtrust",
+  "total_jobs": 41
+ },
+ {
+  "company": "Delinea",
+  "platform": "ashby",
+  "slug": "delinea",
+  "total_jobs": 77
+ },
+ {
+  "company": "Sonicwall",
+  "platform": "greenhouse",
+  "slug": "sonicwall",
+  "total_jobs": 41
+ },
+ {
+  "company": "WatchGuard Technologies",
+  "platform": "lever",
+  "slug": "watchguard",
+  "total_jobs": 30
+ },
+ {
+  "company": "Expel",
+  "platform": "greenhouse",
+  "slug": "expel",
+  "total_jobs": 4
+ },
+ {
+  "company": "Elastic",
+  "platform": "greenhouse",
+  "slug": "elastic",
+  "total_jobs": 379
+ },
+ {
+  "company": "Datadog",
+  "platform": "greenhouse",
+  "slug": "datadog",
+  "total_jobs": 387
+ },
+ {
+  "company": "Orca Security",
+  "platform": "greenhouse",
+  "slug": "orcasecurity",
+  "total_jobs": 13
+ },
+ {
+  "company": "Orca Security",
+  "platform": "ashby",
+  "slug": "orca",
+  "total_jobs": 1
+ },
+ {
+  "company": "Snyk",
+  "platform": "ashby",
+  "slug": "snyk",
+  "total_jobs": 39
+ },
+ {
+  "company": "Veracode",
+  "platform": "greenhouse",
+  "slug": "veracode",
+  "total_jobs": 10
+ },
+ {
+  "company": "Recorded Future (Mastercard)",
+  "platform": "greenhouse",
+  "slug": "recordedfuture",
+  "total_jobs": 57
+ },
+ {
+  "company": "Cyware",
+  "platform": "greenhouse",
+  "slug": "cyware",
+  "total_jobs": 4
+ },
+ {
+  "company": "Anomali",
+  "platform": "lever",
+  "slug": "anomali",
+  "total_jobs": 7
+ },
+ {
+  "company": "Tines",
+  "platform": "greenhouse",
+  "slug": "tines",
+  "total_jobs": 33
+ },
+ {
+  "company": "Abnormal Security",
+  "platform": "greenhouse",
+  "slug": "abnormalsecurity",
+  "total_jobs": 87
+ },
+ {
+  "company": "Tanium",
+  "platform": "greenhouse",
+  "slug": "tanium",
+  "total_jobs": 65
+ },
+ {
+  "company": "DigiCert",
+  "platform": "greenhouse",
+  "slug": "digicert",
+  "total_jobs": 50
+ },
+ {
+  "company": "Sectigo",
+  "platform": "smartrecruiters",
+  "slug": "sectigo",
+  "total_jobs": 7
+ },
+ {
+  "company": "Rubrik",
+  "platform": "greenhouse",
+  "slug": "rubrik",
+  "total_jobs": 219
+ },
+ {
+  "company": "Commvault",
+  "platform": "greenhouse",
+  "slug": "commvault",
+  "total_jobs": 59
+ },
+ {
+  "company": "Veeam Software",
+  "platform": "greenhouse",
+  "slug": "veeamsoftware",
+  "total_jobs": 198
+ },
+ {
+  "company": "Druva",
+  "platform": "greenhouse",
+  "slug": "druva",
+  "total_jobs": 26
+ },
+ {
+  "company": "Nozomi Networks (Mitsubishi Electric)",
+  "platform": "greenhouse",
+  "slug": "nozominetworks",
+  "total_jobs": 24
+ },
+ {
+  "company": "Dragos",
+  "platform": "greenhouse",
+  "slug": "dragos",
+  "total_jobs": 56
+ },
+ {
+  "company": "Menlo Security",
+  "platform": "ashby",
+  "slug": "menlosecurity",
+  "total_jobs": 24
+ },
+ {
+  "company": "Cato Networks",
+  "platform": "greenhouse",
+  "slug": "catonetworks",
+  "total_jobs": 122
+ },
+ {
+  "company": "Arista Networks",
+  "platform": "smartrecruiters",
+  "slug": "aristanetworks",
+  "total_jobs": 25
+ },
+ {
+  "company": "Sumo Logic",
+  "platform": "greenhouse",
+  "slug": "sumologic",
+  "total_jobs": 25
+ },
+ {
+  "company": "LastPass",
+  "platform": "greenhouse",
+  "slug": "lastpass",
+  "total_jobs": 11
+ },
+ {
+  "company": "1Password",
+  "platform": "ashby",
+  "slug": "1password",
+  "total_jobs": 80
+ },
+ {
+  "company": "Zimperium",
+  "platform": "lever",
+  "slug": "zimperium",
+  "total_jobs": 20
+ },
+ {
+  "company": "Jamf",
+  "platform": "greenhouse",
+  "slug": "jamf",
+  "total_jobs": 31
+ },
+ {
+  "company": "Huntress",
+  "platform": "greenhouse",
+  "slug": "huntress",
+  "total_jobs": 47
+ },
+ {
+  "company": "CloudSEK",
+  "platform": "greenhouse",
+  "slug": "cloudsek",
+  "total_jobs": 18
+ },
+ {
+  "company": "Safe Security",
+  "platform": "lever",
+  "slug": "safe",
+  "total_jobs": 21
+ },
+ {
+  "company": "Safe Security",
+  "platform": "ashby",
+  "slug": "safe",
+  "total_jobs": 24
+ },
+ {
+  "company": "Block Armour",
+  "platform": "greenhouse",
+  "slug": "block",
+  "total_jobs": 184
+ },
+ {
+  "company": "Bureau (bureau.id)",
+  "platform": "ashby",
+  "slug": "bureau",
+  "total_jobs": 17
+ },
+ {
+  "company": "Yotta Infrastructure",
+  "platform": "ashby",
+  "slug": "yotta",
+  "total_jobs": 4
+ },
+ {
+  "company": "Allied Digital Services",
+  "platform": "greenhouse",
+  "slug": "allied",
+  "total_jobs": 1
+ },
+ {
+  "company": "ThoughtWorks",
+  "platform": "greenhouse",
+  "slug": "thoughtworks",
+  "total_jobs": 31
+ },
+ {
+  "company": "ThoughtWorks",
+  "platform": "ashby",
+  "slug": "thoughtworks",
+  "total_jobs": 2
+ },
+ {
+  "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (GSC)",
+  "platform": "greenhouse",
+  "slug": "soci",
+  "total_jobs": 20
+ },
+ {
+  "company": "National Australia Bank (NAB Innovation Centre India)",
+  "platform": "greenhouse",
+  "slug": "national",
+  "total_jobs": 2
+ },
+ {
+  "company": "London Stock Exchange Group (LSEG)",
+  "platform": "greenhouse",
+  "slug": "london",
+  "total_jobs": 3
+ },
+ {
+  "company": "Experian",
+  "platform": "smartrecruiters",
+  "slug": "experian",
+  "total_jobs": 42
+ },
+ {
+  "company": "Nasdaq",
+  "platform": "greenhouse",
+  "slug": "nasdaq",
+  "total_jobs": 23
+ },
+ {
+  "company": "ServiceNow",
+  "platform": "smartrecruiters",
+  "slug": "servicenow",
+  "total_jobs": 85
+ },
+ {
+  "company": "Applied Materials",
+  "platform": "ashby",
+  "slug": "applied",
+  "total_jobs": 333
+ },
+ {
+  "company": "Western Digital",
+  "platform": "smartrecruiters",
+  "slug": "westerndigital",
+  "total_jobs": 2
+ },
+ {
+  "company": "HP Inc (Wolf Security)",
+  "platform": "greenhouse",
+  "slug": "hp",
+  "total_jobs": 26
+ },
+ {
+  "company": "Twilio",
+  "platform": "greenhouse",
+  "slug": "twilio",
+  "total_jobs": 109
+ },
+ {
+  "company": "InMobi",
+  "platform": "greenhouse",
+  "slug": "inmobi",
+  "total_jobs": 71
+ },
+ {
+  "company": "Freshworks",
+  "platform": "smartrecruiters",
+  "slug": "freshworks",
+  "total_jobs": 30
+ },
+ {
+  "company": "Extreme Networks",
+  "platform": "lever",
+  "slug": "extremenetworks",
+  "total_jobs": 71
+ },
+ {
+  "company": "Ribbon Communications",
+  "platform": "lever",
+  "slug": "ribbon",
+  "total_jobs": 3
+ },
+ {
+  "company": "LinkedIn (Microsoft)",
+  "platform": "lever",
+  "slug": "linkedin",
+  "total_jobs": 25
+ },
+ {
+  "company": "AB InBev (GCC India)",
+  "platform": "greenhouse",
+  "slug": "abinbev",
+  "total_jobs": 57
+ },
+ {
+  "company": "Archer Daniels Midland (ADM)",
+  "platform": "greenhouse",
+  "slug": "archer",
+  "total_jobs": 1
+ },
+ {
+  "company": "Continental",
+  "platform": "smartrecruiters",
+  "slug": "continental",
+  "total_jobs": 13
+ },
+ {
+  "company": "General Motors Technical Center India",
+  "platform": "greenhouse",
+  "slug": "general",
+  "total_jobs": 1
+ },
+ {
+  "company": "Eli Lilly",
+  "platform": "ashby",
+  "slug": "eli",
+  "total_jobs": 3
+ },
+ {
+  "company": "Novo Nordisk Global Business Services",
+  "platform": "ashby",
+  "slug": "novo",
+  "total_jobs": 2
+ },
+ {
+  "company": "Yes Bank",
+  "platform": "greenhouse",
+  "slug": "yes",
+  "total_jobs": 2
+ },
+ {
+  "company": "Reserve Bank Information Technology (ReBIT)",
+  "platform": "ashby",
+  "slug": "reserve",
+  "total_jobs": 1
+ },
+ {
+  "company": "National Payments Corporation of India (NPCI)",
+  "platform": "greenhouse",
+  "slug": "national",
+  "total_jobs": 2
+ },
+ {
+  "company": "National Stock Exchange (NSE)",
+  "platform": "greenhouse",
+  "slug": "national",
+  "total_jobs": 2
+ },
+ {
+  "company": "National Securities Depository (NSDL)",
+  "platform": "greenhouse",
+  "slug": "national",
+  "total_jobs": 2
+ },
+ {
+  "company": "Life Insurance Corporation of India (LIC)",
+  "platform": "lever",
+  "slug": "life",
+  "total_jobs": 48
+ },
+ {
+  "company": "Bajaj Allianz Life Insurance (Bajaj Life)",
+  "platform": "smartrecruiters",
+  "slug": "bajajallianzlifeinsurance",
+  "total_jobs": 1
+ },
+ {
+  "company": "Groww (Billionbrains Garage Ventures)",
+  "platform": "greenhouse",
+  "slug": "groww",
+  "total_jobs": 7
+ },
+ {
+  "company": "Upstox",
+  "platform": "smartrecruiters",
+  "slug": "upstox",
+  "total_jobs": 1
+ },
+ {
+  "company": "Paytm (One97 Communications)",
+  "platform": "lever",
+  "slug": "paytm",
+  "total_jobs": 189
+ },
+ {
+  "company": "CRED (Dreamplug Technologies)",
+  "platform": "lever",
+  "slug": "cred",
+  "total_jobs": 12
+ },
+ {
+  "company": "Pine Labs",
+  "platform": "greenhouse",
+  "slug": "pine",
+  "total_jobs": 1
+ },
+ {
+  "company": "Navi Technologies",
+  "platform": "ashby",
+  "slug": "navi",
+  "total_jobs": 2
+ },
+ {
+  "company": "Swiggy",
+  "platform": "smartrecruiters",
+  "slug": "swiggy",
+  "total_jobs": 149
+ },
+ {
+  "company": "Meesho",
+  "platform": "lever",
+  "slug": "meesho",
+  "total_jobs": 48
+ },
+ {
+  "company": "Ola Electric Mobility",
+  "platform": "smartrecruiters",
+  "slug": "olaelectricmobility",
+  "total_jobs": 1
+ },
+ {
+  "company": "VerSe Innovation (Dailyhunt/Josh)",
+  "platform": "greenhouse",
+  "slug": "verse",
+  "total_jobs": 7
+ },
+ {
+  "company": "Titan Company",
+  "platform": "ashby",
+  "slug": "titan",
+  "total_jobs": 7
+ },
+ {
+  "company": "Lincoln Financial",
+  "platform": "greenhouse",
+  "slug": "lincoln",
+  "total_jobs": 12
+ },
+ {
+  "company": "Charles Schwab",
+  "platform": "greenhouse",
+  "slug": "charles",
+  "total_jobs": 3
+ },
+ {
+  "company": "Capital Group",
+  "platform": "lever",
+  "slug": "capital",
+  "total_jobs": 40
+ },
+ {
+  "company": "Air Liquide",
+  "platform": "greenhouse",
+  "slug": "air",
+  "total_jobs": 34
+ },
+ {
+  "company": "Parker Hannifin",
+  "platform": "ashby",
+  "slug": "parker",
+  "total_jobs": 13
+ },
+ {
+  "company": "Applied Intuition",
+  "platform": "ashby",
+  "slug": "applied",
+  "total_jobs": 333
+ },
+ {
+  "company": "Renesas Electronics",
+  "platform": "smartrecruiters",
+  "slug": "renesaselectronics",
+  "total_jobs": 110
+ },
+ {
+  "company": "Analog Devices",
+  "platform": "ashby",
+  "slug": "analog",
+  "total_jobs": 26
+ },
+ {
+  "company": "Dropbox",
+  "platform": "greenhouse",
+  "slug": "dropbox",
+  "total_jobs": 47
+ },
+ {
+  "company": "MongoDB",
+  "platform": "greenhouse",
+  "slug": "mongodb",
+  "total_jobs": 418
+ },
+ {
+  "company": "Coinbase",
+  "platform": "greenhouse",
+  "slug": "coinbase",
+  "total_jobs": 251
+ },
+ {
+  "company": "Nucleus Software",
+  "platform": "greenhouse",
+  "slug": "nucleus",
+  "total_jobs": 23
+ },
+ {
+  "company": "Sutherland Global",
+  "platform": "smartrecruiters",
+  "slug": "sutherland",
+  "total_jobs": 52
+ },
+ {
+  "company": "Highradius",
+  "platform": "greenhouse",
+  "slug": "highradius",
+  "total_jobs": 64
+ },
+ {
+  "company": "Whatfix",
+  "platform": "smartrecruiters",
+  "slug": "whatfix",
+  "total_jobs": 1
+ },
+ {
+  "company": "Mindtickle",
+  "platform": "lever",
+  "slug": "mindtickle",
+  "total_jobs": 19
+ },
+ {
+  "company": "Mindtickle",
+  "platform": "smartrecruiters",
+  "slug": "mindtickle",
+  "total_jobs": 9
+ },
+ {
+  "company": "Zeta (Better World Technology)",
+  "platform": "lever",
+  "slug": "zeta",
+  "total_jobs": 33
+ },
+ {
+  "company": "Tekion",
+  "platform": "ashby",
+  "slug": "tekion",
+  "total_jobs": 90
+ },
+ {
+  "company": "Galaxy Office Automation",
+  "platform": "greenhouse",
+  "slug": "galaxy",
+  "total_jobs": 2
+ },
+ {
+  "company": "SecurityScorecard",
+  "platform": "greenhouse",
+  "slug": "securityscorecard",
+  "total_jobs": 10
+ },
+ {
+  "company": "Kaseya (incl. Datto)",
+  "platform": "greenhouse",
+  "slug": "kaseya",
+  "total_jobs": 94
+ },
+ {
+  "company": "ConnectWise",
+  "platform": "greenhouse",
+  "slug": "connectwise",
+  "total_jobs": 55
+ },
+ {
+  "company": "SolarWinds",
+  "platform": "greenhouse",
+  "slug": "solarwinds",
+  "total_jobs": 85
+ },
+ {
+  "company": "NinjaOne",
+  "platform": "greenhouse",
+  "slug": "ninjaone",
+  "total_jobs": 157
+ },
+ {
+  "company": "Salt Security",
+  "platform": "greenhouse",
+  "slug": "saltsecurity",
+  "total_jobs": 14
+ },
+ {
+  "company": "Opswat",
+  "platform": "greenhouse",
+  "slug": "opswat",
+  "total_jobs": 97
+ },
+ {
+  "company": "Cyberhaven",
+  "platform": "ashby",
+  "slug": "cyberhaven",
+  "total_jobs": 37
+ },
+ {
+  "company": "Databricks",
+  "platform": "greenhouse",
+  "slug": "databricks",
+  "total_jobs": 891
+ },
+ {
+  "company": "Snowflake",
+  "platform": "ashby",
+  "slug": "snowflake",
+  "total_jobs": 377
+ },
+ {
+  "company": "Stripe",
+  "platform": "greenhouse",
+  "slug": "stripe",
+  "total_jobs": 777
+ },
+ {
+  "company": "Toast",
+  "platform": "greenhouse",
+  "slug": "toast",
+  "total_jobs": 324
+ },
+ {
+  "company": "Coupa",
+  "platform": "lever",
+  "slug": "coupa",
+  "total_jobs": 41
+ },
+ {
+  "company": "Atlan",
+  "platform": "ashby",
+  "slug": "atlan",
+  "total_jobs": 7
+ },
+ {
+  "company": "Glance",
+  "platform": "greenhouse",
+  "slug": "glance",
+  "total_jobs": 24
+ },
+ {
+  "company": "Unacademy",
+  "platform": "smartrecruiters",
+  "slug": "unacademy",
+  "total_jobs": 3
+ },
+ {
+  "company": "Fi Money",
+  "platform": "lever",
+  "slug": "fi",
+  "total_jobs": 9
+ },
+ {
+  "company": "Slice",
+  "platform": "greenhouse",
+  "slug": "slice",
+  "total_jobs": 22
+ },
+ {
+  "company": "Cars24",
+  "platform": "smartrecruiters",
+  "slug": "cars24",
+  "total_jobs": 1
+ },
+ {
+  "company": "BoschGroup",
+  "platform": "smartrecruiters",
+  "slug": "boschgroup",
+  "total_jobs": 677
+ },
+ {
+  "company": "Ubisoft2",
+  "platform": "smartrecruiters",
+  "slug": "ubisoft2",
+  "total_jobs": 7
+ },
+ {
+  "company": "Grab",
+  "platform": "smartrecruiters",
+  "slug": "grab",
+  "total_jobs": 12
+ },
+ {
+  "company": "Agoda",
+  "platform": "greenhouse",
+  "slug": "agoda",
+  "total_jobs": 331
+ },
+ {
+  "company": "Binance",
+  "platform": "greenhouse",
+  "slug": "binance",
+  "total_jobs": 224
+ },
+ {
+  "company": "Binance",
+  "platform": "lever",
+  "slug": "binance",
+  "total_jobs": 4
+ },
+ {
+  "company": "Deliveroo",
+  "platform": "greenhouse",
+  "slug": "deliveroo",
+  "total_jobs": 188
+ },
+ {
+  "company": "Deliveroo",
+  "platform": "ashby",
+  "slug": "deliveroo",
+  "total_jobs": 13
+ },
+ {
+  "company": "Wise",
+  "platform": "greenhouse",
+  "slug": "wise",
+  "total_jobs": 18
+ },
+ {
+  "company": "Wise",
+  "platform": "smartrecruiters",
+  "slug": "wise",
+  "total_jobs": 33
+ },
+ {
+  "company": "Airwallex",
+  "platform": "ashby",
+  "slug": "airwallex",
+  "total_jobs": 498
+ },
+ {
+  "company": "GitLab",
+  "platform": "greenhouse",
+  "slug": "gitlab",
+  "total_jobs": 247
+ },
+ {
+  "company": "New Relic",
+  "platform": "greenhouse",
+  "slug": "newrelic",
+  "total_jobs": 43
+ },
+ {
+  "company": "PagerDuty",
+  "platform": "greenhouse",
+  "slug": "pagerduty",
+  "total_jobs": 48
+ },
+ {
+  "company": "Cribl",
+  "platform": "greenhouse",
+  "slug": "cribl",
+  "total_jobs": 84
+ },
+ {
+  "company": "Axonius",
+  "platform": "greenhouse",
+  "slug": "axonius",
+  "total_jobs": 20
+ },
+ {
+  "company": "Island",
+  "platform": "greenhouse",
+  "slug": "island",
+  "total_jobs": 19
+ },
+ {
+  "company": "Torq",
+  "platform": "greenhouse",
+  "slug": "torq",
+  "total_jobs": 30
+ },
+ {
+  "company": "Vanta",
+  "platform": "ashby",
+  "slug": "vanta",
+  "total_jobs": 69
+ },
+ {
+  "company": "Drata",
+  "platform": "ashby",
+  "slug": "drata",
+  "total_jobs": 24
+ },
+ {
+  "company": "Remote",
+  "platform": "greenhouse",
+  "slug": "remote",
+  "total_jobs": 2
+ },
+ {
+  "company": "Toptal",
+  "platform": "lever",
+  "slug": "toptal",
+  "total_jobs": 25
+ },
+ {
+  "company": "Turing",
+  "platform": "greenhouse",
+  "slug": "turing",
+  "total_jobs": 31
+ },
+ {
+  "company": "Mercor",
+  "platform": "ashby",
+  "slug": "mercor",
+  "total_jobs": 108
+ },
+ {
+  "company": "Sardine",
+  "platform": "ashby",
+  "slug": "sardine",
+  "total_jobs": 40
+ },
+ {
+  "company": "Persona",
+  "platform": "ashby",
+  "slug": "persona",
+  "total_jobs": 12
+ },
+ {
+  "company": "Socure",
+  "platform": "ashby",
+  "slug": "socure",
+  "total_jobs": 84
+ },
+ {
+  "company": "Socure",
+  "platform": "smartrecruiters",
+  "slug": "socure",
+  "total_jobs": 1
+ },
+ {
+  "company": "Elliptic",
+  "platform": "ashby",
+  "slug": "elliptic",
+  "total_jobs": 24
+ },
+ {
+  "company": "Recorded Future",
+  "platform": "greenhouse",
+  "slug": "recordedfuture",
+  "total_jobs": 57
+ },
+ {
+  "company": "Censys",
+  "platform": "greenhouse",
+  "slug": "censys",
+  "total_jobs": 25
+ },
+ {
+  "company": "Prophet Security",
+  "platform": "greenhouse",
+  "slug": "prophet",
+  "total_jobs": 15
+ },
+ {
+  "company": "Prophet Security",
+  "platform": "ashby",
+  "slug": "prophet-security",
+  "total_jobs": 9
+ },
+ {
+  "company": "Dropzone AI",
+  "platform": "greenhouse",
+  "slug": "dropzoneai",
+  "total_jobs": 10
+ },
+ {
+  "company": "D3 Security",
+  "platform": "greenhouse",
+  "slug": "d3",
+  "total_jobs": 7
+ },
+ {
+  "company": "Zeta",
+  "platform": "lever",
+  "slug": "zeta",
+  "total_jobs": 33
+ }
+]

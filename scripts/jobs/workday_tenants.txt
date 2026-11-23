@@ -1,0 +1,219 @@
+# company|workday tenant|wdN (optional)|site (optional)  -- site/wd are probed when blank
+NVIDIA|nvidia|wd5|NVIDIAExternalCareerSite
+Salesforce|salesforce|wd12|External_Career_Site
+CrowdStrike|crowdstrike|wd5|crowdstrikecareers
+Mastercard|mastercard|wd1|CorporateCareers
+Intel|intel|wd1|External
+Adobe|adobe|wd5|external_experienced
+Walmart Global Tech India|walmart|wd5|WalmartExternal
+Target in India|target|wd5|targetcareers
+Workday|workday|wd5|Workday
+Broadcom (Symantec Enterprise)|broadcom|wd1|External_Career
+Dell Technologies|dell|wd1|External
+HP Inc (Wolf Security)|hp|wd5|ExternalCareerSite
+State Street|statestreet|wd1|Global
+Morgan Stanley|ms|wd5|External
+Barclays|barclays|wd3|External_Career_Site_Barclays
+Deutsche Bank (DBOI)|db|wd3|DBWebsite
+PayPal|paypal|wd1|jobs
+Fiserv|fiserv|wd5|EXT
+Equifax|equifax|wd5|External
+TransUnion|transunion|wd5|TransUnion
+S&P Global|spgi|wd5|SPGI_Careers
+Akamai Technologies|akamai|wd1|akamai_careers
+Autodesk|autodesk|wd1|Ext
+Thomson Reuters|thomsonreuters|wd5|External_Career_Site
+Kyndryl|kyndryl|wd5|KyndrylProfessionalCareers
+SailPoint|sailpoint|wd1|SailPoint
+Red Hat (IBM)|redhat|wd5|jobs
+Shell (Shell India Markets)|shell|wd3|ShellCareers
+Philips|philips|wd3|jobs-and-careers
+GSK|gsk|wd5|GSKCareers
+Novartis (Hyderabad)|novartis|wd3|Novartis_Careers
+Pfizer|pfizer|wd1|PfizerCareers
+Medtronic Engineering & Innovation Center|medtronic|wd1|MedtronicCareers
+Elevance Health (Carelon Global Solutions)|elevancehealth|wd1|ANT
+McKesson|mckesson|wd3|External_Careers
+Thermo Fisher Scientific|thermofisher|wd5|ThermoFisherCareers
+Takeda (Innovation Capability Center)|takeda|wd3|External
+Motorola Solutions|motorolasolutions|wd5|Careers
+Marvell Technology|marvell|wd1|MarvellCareers
+Analog Devices|analogdevices|wd1|External
+Applied Materials|amat|wd1|External
+Cadence Design Systems|cadence|wd1|External_Careers
+Johnson Controls|jci|wd5|JCI
+Eaton|eaton|wd1|Eaton_Careers
+Caterpillar|cat|wd5|CaterpillarCareers
+Boeing India Engineering & Technology Center|boeing|wd1|EXTERNAL_CAREERS
+Citigroup|citi|wd5|2
+Nasdaq|nasdaq|wd1|Global_External_Site
+London Stock Exchange Group (LSEG)|lseg|wd3|Careers
+Northern Trust|ntrs|wd1|northerntrust
+Fidelity Investments|fmr|wd1|FidelityCareers
+BNY|bnymellon|wd5|
+FIS|fis|wd5|SearchJobs
+McAfee|mcafee|wd1|External
+GE Vernova|gevernova|wd5|Vernova_ExternalSite
+GE Aerospace (JFWTC)|geaerospace|wd5|GE_ExternalSite
+GE HealthCare|gehc|wd5|GEHC_ExternalSite
+Hewlett Packard Enterprise|hpe|wd5|Jobsathpe
+Rapid7|rapid7|wd1|
+Qualys|qualys|wd5|
+Tenable|tenable|wd1|
+Palo Alto Networks|paloaltonetworks|wd5|
+Zscaler|zscaler|wd5|
+Fortinet|fortinet|wd1|
+Check Point Software|checkpoint|wd3|
+Trellix|trellix|wd1|
+Sophos (incl. Secureworks)|sophos|wd3|
+Netskope|netskope|wd5|
+Proofpoint|proofpoint|wd5|
+Forcepoint|forcepoint|wd1|
+Imprivata|imprivata|wd1|
+Ivanti|ivanti|wd1|
+BeyondTrust|beyondtrust|wd1|
+Varonis|varonis|wd1|
+Optiv Security|optiv|wd1|
+Unisys|unisys|wd5|
+DXC Technology|dxctechnology|wd1|
+NTT DATA (incl. Netmagic)|nttdata|wd3|
+Gen Digital (Norton/Avast)|gen|wd1|
+Trend Micro|trendmicro|wd3|
+Mimecast|mimecast|wd5|
+OpenText (Cybersecurity)|opentext|wd3|
+Juniper Networks (HPE)|juniper|wd1|
+F5|ffive|wd5|
+NetApp|netapp|wd1|
+Nutanix|nutanix|wd1|
+Western Digital|wdc|wd1|
+Micron Technology|micron|wd1|
+AMD|amd|wd1|
+Synopsys|synopsys|wd1|
+Infineon Technologies|infineon|wd3|
+NXP Semiconductors|nxp|wd3|
+Texas Instruments|ti|wd1|
+Lam Research|lamresearch|wd1|
+Visa|visa|wd5|
+American Express|aexp|wd5|
+Wells Fargo|wf|wd1|
+Bank of America (Continuum India)|bankofamerica|wd1|
+HSBC|hsbc|wd3|
+UBS|ubs|wd3|
+Standard Chartered|scb|wd3|
+NatWest Group|natwest|wd3|
+Lloyds Banking Group|lbg|wd3|
+BlackRock|blackrock|wd1|
+Franklin Templeton|franklintempleton|wd5|
+Invesco|invesco|wd1|
+Principal Global Services|principal|wd5|
+Ameriprise Financial|ameriprise|wd5|
+Swiss Re|swissre|wd3|
+Chubb|chubb|wd1|
+Travelers|travelers|wd5|
+The Hartford|thehartford|wd5|
+Broadridge Financial|broadridge|wd5|
+SS&C Technologies|ssctech|wd1|
+Moody's|moodys|wd5|
+MSCI|msci|wd1|
+Morningstar|morningstar|wd5|
+Experian|experian|wd3|
+Marsh McLennan|mmc|wd1|
+Aon (Cyber Solutions)|aon|wd5|
+Nomura|nomura|wd3|
+ANZ|anz|wd3|
+Commonwealth Bank of Australia|cba|wd3|
+Allianz Technology|allianz|wd3|
+Global Payments|globalpayments|wd5|
+Lowe's India|lowes|wd5|
+Tesco Business Solutions / Tesco Technology|tesco|wd3|
+Kohl's Technology Centre|kohls|wd1|
+Lululemon|lululemon|wd3|
+Levi Strauss & Co.|levistrauss|wd5|
+Mondelez International|mdlz|wd3|
+Diageo|diageo|wd3|
+AB InBev (GCC India)|abinbev|wd3|
+Unilever (incl. Hindustan Unilever)|unilever|wd3|
+Cargill|cargill|wd5|
+A.P. Moller - Maersk|maersk|wd3|
+Marriott International|marriott|wd5|
+BP (Pune business & technology centre)|bp|wd3|
+Chevron (ENGINE Bengaluru)|chevron|wd5|
+Baker Hughes|bakerhughes|wd5|
+Honeywell|honeywell|wd5|
+Schneider Electric|schneiderelectric|wd3|
+Rockwell Automation|rockwellautomation|wd1|
+Emerson|emerson|wd5|
+Volvo Group|volvo|wd3|
+Mercedes-Benz R&D India|mercedesbenz|wd3|
+Visteon|visteon|wd5|
+Aptiv|aptiv|wd5|
+John Deere (Deere & Co.)|deere|wd5|
+Cummins|cummins|wd1|
+Airbus India|airbus|wd3|
+Rolls-Royce|rollsroyce|wd3|
+3M|3m|wd1|
+Siemens Healthineers|healthineers|wd3|
+AstraZeneca|astrazeneca|wd3|
+Merck & Co (MSD)|msd|wd5|
+Eli Lilly|lilly|wd5|
+Amgen (Amgen India)|amgen|wd1|
+Bristol Myers Squibb|bristolmyerssquibb|wd5|
+Johnson & Johnson|jnj|wd5|
+Novo Nordisk Global Business Services|novonordisk|wd3|
+Bayer|bayer|wd3|
+Abbott|abbott|wd5|
+Cardinal Health|cardinalhealth|wd1|
+Cencora|cencora|wd1|
+IQVIA|iqvia|wd1|
+Danaher|danaher|wd1|
+Labcorp|labcorp|wd1|
+Concentrix|concentrix|wd1|
+Genpact|genpact|wd5|
+EXL Service|exlservice|wd1|
+EPAM Systems|epam|wd3|
+Globant|globant|wd1|
+UST|ust|wd1|
+Virtusa|virtusa|wd1|
+Mphasis|mphasis|wd1|
+Hexaware Technologies|hexaware|wd3|
+Teradata|teradata|wd1|
+Informatica|informatica|wd1|
+DocuSign|docusign|wd1|
+Twilio|twilio|wd5|
+Zebra Technologies|zebra|wd1|
+Electronic Arts|ea|wd1|
+Wolters Kluwer|wk|wd3|
+Warner Bros. Discovery|warnerbros|wd5|
+Ericsson|ericsson|wd3|
+Nokia|nokia|wd3|
+Telstra|telstra|wd3|
+Harman International|harman|wd3|
+LinkedIn (Microsoft)|linkedin|wd1|
+Intuit|intuit|wd1|
+ServiceNow|servicenow|wd1|
+Cloudflare|cloudflare|wd1|
+Okta|okta|wd1|
+Gartner|gartner|wd5|
+Expedia Group|expedia|wd5|
+eBay|ebay|wd5|
+Uber|uber|wd1|
+Seagate Technology|seagate|wd1|
+Arm Holdings|arm|wd1|
+Avaya|avaya|wd1|
+Amdocs|amdocs|wd3|
+PTC|ptc|wd1|
+Dassault Systèmes|dassaultsystemes|wd3|
+Cohesity (incl. Veritas)|cohesity|wd5|
+Commvault|commvault|wd1|
+Veeam Software|veeam|wd3|
+Gigamon|gigamon|wd1|
+NetScout (incl. Arbor)|netscout|wd1|
+Infoblox|infoblox|wd1|
+Extreme Networks|extremenetworks|wd5|
+Ciena|ciena|wd5|
+Keysight Technologies|keysight|wd5|
+Edwards Lifesciences|edwards|wd5|
+GoDaddy|godaddy|wd1|
+Kroll|kroll|wd1|
+Control Risks|controlrisks|wd3|
+Cisco Systems (incl. Splunk, Talos)|cisco|wd5|

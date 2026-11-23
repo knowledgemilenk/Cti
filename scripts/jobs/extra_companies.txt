@@ -1,0 +1,123 @@
+# extra companies with India engineering/security teams (probed on public ATS boards)
+Databricks
+Snowflake
+Stripe
+Toast
+Gong
+Sprinklr
+Coupa
+Highspot
+Atlan
+Exotel
+Ather Energy
+Licious
+CoinDCX
+CoinSwitch
+Urban Company
+Glance
+Unacademy
+upGrad
+PhysicsWallah
+Lenskart
+Fi Money
+Open Financial
+Khatabook
+Udaan
+Delhivery
+Rapido
+Simpl
+OneCard
+Jupiter Money
+Slice
+Mobile Premier League
+Spinny
+Cars24
+Dunzo
+Sharechat
+Levo
+Equinix
+BoschGroup
+Visa
+ServiceNow
+Experian
+Ubisoft2
+Wipro
+Okta
+Rubrik
+Zscaler
+Netskope
+Arctic Wolf
+Gojek
+Grab
+Agoda
+Booking
+Coinbase
+Kraken
+Binance
+Deliveroo
+Wise
+Revolut
+Checkout
+Airwallex
+Canva
+Atlassian
+GitLab
+HashiCorp
+Elastic
+Datadog
+New Relic
+PagerDuty
+Sumo Logic
+Cribl
+Abnormal Security
+Axonius
+Island
+Cyera
+Torq
+Vanta
+Drata
+Snyk
+Wiz
+Huntress
+Expel
+Rippling
+Deel
+Remote
+Toptal
+Turing
+Mercor
+Unit21
+Sardine
+Persona
+Socure
+Chainalysis
+TRM Labs
+Elliptic
+Recorded Future
+Flashpoint
+Intel 471
+GreyNoise
+Censys
+Shodan
+Panther Labs
+Hunters
+Anvilogic
+SnapAttack
+Prophet Security
+Dropzone AI
+Torq
+Swimlane
+D3 Security
+Arista
+Cohesity
+Commvault
+Rubrik
+Druva
+Icertis
+Mindtickle
+Postman
+Hasura
+Chargebee
+Zeta
+M2P Fintech
+Juspay

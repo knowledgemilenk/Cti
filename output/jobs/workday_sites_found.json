@@ -1,0 +1,62 @@
+[
+ {
+  "company": "NVIDIA",
+  "host": "nvidia.wd5.myworkdayjobs.com",
+  "tenant": "nvidia",
+  "site": "NVIDIAExternalCareerSite"
+ },
+ {
+  "company": "Intel",
+  "host": "intel.wd1.myworkdayjobs.com",
+  "tenant": "intel",
+  "site": "External"
+ },
+ {
+  "company": "SailPoint",
+  "host": "sailpoint.wd1.myworkdayjobs.com",
+  "tenant": "sailpoint",
+  "site": "SailPoint"
+ },
+ {
+  "company": "Novartis (Hyderabad)",
+  "host": "novartis.wd3.myworkdayjobs.com",
+  "tenant": "novartis",
+  "site": "Novartis_Careers"
+ },
+ {
+  "company": "McKesson",
+  "host": "mckesson.wd3.myworkdayjobs.com",
+  "tenant": "mckesson",
+  "site": "External_Careers"
+ },
+ {
+  "company": "Marvell Technology",
+  "host": "marvell.wd1.myworkdayjobs.com",
+  "tenant": "marvell",
+  "site": "MarvellCareers"
+ },
+ {
+  "company": "Johnson Controls",
+  "host": "jci.wd5.myworkdayjobs.com",
+  "tenant": "jci",
+  "site": "JCI"
+ },
+ {
+  "company": "FIS",
+  "host": "fis.wd5.myworkdayjobs.com",
+  "tenant": "fis",
+  "site": "SearchJobs"
+ },
+ {
+  "company": "GE HealthCare",
+  "host": "gehc.wd5.myworkdayjobs.com",
+  "tenant": "gehc",
+  "site": "GEHC_ExternalSite"
+ },
+ {
+  "company": "Diageo",
+  "host": "diageo.wd3.myworkdayjobs.com",
+  "tenant": "diageo",
+  "site": "Diageo_Careers"
+ }
+]

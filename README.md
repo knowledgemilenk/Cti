@@ -30,3 +30,29 @@ Company · Category · Global HQ · India locations (all) · Yes/blank flags for
 - **India locations show where the company has offices or teams with security roles.** They don't promise an open blue-team job today. Check current openings on the company's careers page or LinkedIn before applying or prospecting.
 - For acquired companies, the list keeps the brand that still hires under its own name, with the parent shown in brackets. Examples: Paladion (Atos), CyberProof (UST), Mandiant (Google).
 - Data is current to late 2025. GCC launches and acquisitions move quickly, so re-verify anything you'll make decisions on.
+
+---
+
+# Live hiring scan: blue-team roles posted in the last 15 days (Pune, Mumbai, Bengaluru)
+
+`output/jobs/india_blue_team_hiring_last15days.xlsx` has three sheets:
+- **Companies hiring**: companies with at least one SOC, detection engineering, threat intel/research, incident response, SIEM/XDR or security analyst role in Pune, Mumbai or Bengaluru **with a verifiable posting date within the last 15 days**.
+- **All postings**: one row per posting, with its posting date and direct apply link.
+- **Excluded companies**: every other company in the 699-company list, with the reason it was excluded and contact channels to check it yourself.
+
+## Exclusion statuses
+| Status | Meaning |
+|---|---|
+| Checked - only older postings | Matching roles exist in these cities, but none were posted in the last 15 days (the latest date is given) |
+| Checked - roles in other cities only | Blue-team roles are open, but not in Pune, Mumbai or Bengaluru |
+| Checked - no blue-team roles | The job board was read, and nothing matches SOC, detection, threat or IR |
+| Checked - no recent match | The Workday career site was scanned with no match |
+| Checked - unconfirmed | Scanned with 0 matches, but the connection kept dropping (JPMorgan, Oracle, Amazon) |
+| Not verifiable automatically | The careers site has no public job API reachable from here. Hiring status is **unknown**, not "not hiring" |
+| Out of city scope | The dataset shows no Pune, Mumbai or Bengaluru office |
+
+## Contacts
+Each row has (1) the company's job board or apply link, (2) a LinkedIn people search for that company's recruiters and talent-acquisition staff in security, and (3) a LinkedIn Jobs search limited to the last 15 days. Individual HR names, emails and phone numbers are **not** collected. They aren't available from public job APIs, scraping LinkedIn breaks its terms, and guessed addresses would be wrong. Open the LinkedIn links while logged in to find and message the right recruiter.
+
+## Method
+`scripts/jobs/ats_scan.py` reads companies' public job-board APIs (Greenhouse, Lever, Ashby, SmartRecruiters). `scripts/jobs/enterprise_scan.py` reads public Workday career-site APIs, Oracle Recruiting Cloud (JPMorgan, Oracle) and amazon.jobs. `scripts/jobs/build_jobs.py` builds the report. Role and city matching is in `scripts/jobs/rolefilter.py`. Re-run all three scripts to refresh. The 15-day window is counted back from the run date.

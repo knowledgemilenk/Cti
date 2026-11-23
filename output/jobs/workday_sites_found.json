@@ -1,62 +1,50 @@
 [
  {
-  "company": "NVIDIA",
-  "host": "nvidia.wd5.myworkdayjobs.com",
-  "tenant": "nvidia",
-  "site": "NVIDIAExternalCareerSite"
- },
- {
-  "company": "Intel",
-  "host": "intel.wd1.myworkdayjobs.com",
-  "tenant": "intel",
+  "company": "Morgan Stanley",
+  "host": "ms.wd5.myworkdayjobs.com",
+  "tenant": "ms",
   "site": "External"
  },
  {
-  "company": "SailPoint",
-  "host": "sailpoint.wd1.myworkdayjobs.com",
-  "tenant": "sailpoint",
-  "site": "SailPoint"
+  "company": "GSK",
+  "host": "gsk.wd5.myworkdayjobs.com",
+  "tenant": "gsk",
+  "site": "GSKCareers"
  },
  {
-  "company": "Novartis (Hyderabad)",
-  "host": "novartis.wd3.myworkdayjobs.com",
-  "tenant": "novartis",
-  "site": "Novartis_Careers"
+  "company": "Fidelity Investments",
+  "host": "fmr.wd1.myworkdayjobs.com",
+  "tenant": "fmr",
+  "site": "FidelityCareers"
  },
  {
-  "company": "McKesson",
-  "host": "mckesson.wd3.myworkdayjobs.com",
-  "tenant": "mckesson",
-  "site": "External_Careers"
+  "company": "AstraZeneca",
+  "host": "astrazeneca.wd3.myworkdayjobs.com",
+  "tenant": "astrazeneca",
+  "site": "careers"
  },
  {
-  "company": "Marvell Technology",
-  "host": "marvell.wd1.myworkdayjobs.com",
-  "tenant": "marvell",
-  "site": "MarvellCareers"
+  "company": "Wolters Kluwer",
+  "host": "wk.wd3.myworkdayjobs.com",
+  "tenant": "wk",
+  "site": "External"
  },
  {
-  "company": "Johnson Controls",
-  "host": "jci.wd5.myworkdayjobs.com",
-  "tenant": "jci",
-  "site": "JCI"
+  "company": "Telstra",
+  "host": "telstra.wd3.myworkdayjobs.com",
+  "tenant": "telstra",
+  "site": "telstra_Careers"
  },
  {
-  "company": "FIS",
-  "host": "fis.wd5.myworkdayjobs.com",
-  "tenant": "fis",
-  "site": "SearchJobs"
+  "company": "Cohesity (incl. Veritas)",
+  "host": "cohesity.wd5.myworkdayjobs.com",
+  "tenant": "cohesity",
+  "site": "cohesity_Careers"
  },
  {
-  "company": "GE HealthCare",
-  "host": "gehc.wd5.myworkdayjobs.com",
-  "tenant": "gehc",
-  "site": "GEHC_ExternalSite"
- },
- {
-  "company": "Diageo",
-  "host": "diageo.wd3.myworkdayjobs.com",
-  "tenant": "diageo",
-  "site": "Diageo_Careers"
+  "company": "Ciena",
+  "host": "ciena.wd5.myworkdayjobs.com",
+  "tenant": "ciena",
+  "site": "careers"
  }
 ]

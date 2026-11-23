@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "company": "GSK",
+  "platform": "workday",
+  "title": "Senior Principal - AI ML and Cloud Security",
+  "role_type": "Security Engineering (adjacent)",
+  "city": "Bengaluru",
+  "location_raw": "Bengaluru Luxor North Tower; Hyderabad Wework Krishe Emerald",
+  "posted": "2026-11-23",
+  "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Principal---AI-ML-and-Cloud-Security_450136"
+ },
+ {
+  "company": "GSK",
+  "platform": "workday",
+  "title": "Principal - AI ML and Cloud Security",
+  "role_type": "Security Engineering (adjacent)",
+  "city": "Bengaluru",
+  "location_raw": "Bengaluru Luxor North Tower; Hyderabad Wework Krishe Emerald",
+  "posted": "2026-11-23",
+  "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal---AI-ML-and-Cloud-Security_450120"
+ },
+ {
+  "company": "Cohesity (incl. Veritas)",
+  "platform": "workday",
+  "title": "Staff Security Engineer",
+  "role_type": "Security Engineering (adjacent)",
+  "city": "Bengaluru, Pune",
+  "location_raw": "Pune - Panchshil - India (Office); Bangalore - India (Office)",
+  "posted": "2026-11-12",
+  "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Pune---Panchshil---India-Office/Staff-Security-Engineer_R04736"
+ }
+]

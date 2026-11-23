@@ -53,6 +53,11 @@ def req(url, body=None, timeout=25, tries=4):
                 time.sleep(20 * (k + 1))
                 continue
             raise
+        except (urllib.error.URLError, ConnectionError, TimeoutError):
+            if k < tries - 1:
+                time.sleep(3 * (k + 1))
+                continue
+            raise
 
 
 # --------------------------- Workday ---------------------------
@@ -216,10 +221,13 @@ def amazon_scan(days):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=15)
+    ap.add_argument("--sites", help="JSON list of known Workday sites (skips discovery)")
+    ap.add_argument("--out", default="raw_enterprise_jobs.json")
+    ap.add_argument("--no-oracle-amazon", action="store_true")
     a = ap.parse_args()
     os.makedirs(OUT, exist_ok=True)
-    lines = [l.strip() for l in open(WD_CANDIDATES) if l.strip() and not l.startswith("#")]
-    sites = []
+    lines = [] if a.sites else [l.strip() for l in open(WD_CANDIDATES) if l.strip() and not l.startswith("#")]
+    sites = json.load(open(a.sites)) if a.sites else []
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
         for i, s in enumerate(ex.map(wd_discover, lines), 1):
             if s:
@@ -227,12 +235,14 @@ def main():
             if i % 20 == 0:
                 print(f"  discovery {i}/{len(lines)} found={len(sites)}", flush=True)
     print(f"workday sites found: {len(sites)}/{len(lines)}", flush=True)
-    json.dump(sites, open(os.path.join(OUT, "workday_sites_found.json"), "w"), indent=1)
+    if not a.sites:
+        json.dump(sites, open(os.path.join(OUT, "workday_sites_found.json"), "w"), indent=1)
     hits = []
     with cf.ThreadPoolExecutor(max_workers=12) as ex:
         futs = [ex.submit(wd_scan, s, a.days) for s in sites]
-        futs += [ex.submit(oracle_scan, c, h, s, a.days) for c, h, s in ORACLE_SITES]
-        futs.append(ex.submit(amazon_scan, a.days))
+        if not a.no_oracle_amazon:
+            futs += [ex.submit(oracle_scan, c, h, s, a.days) for c, h, s in ORACLE_SITES]
+            futs.append(ex.submit(amazon_scan, a.days))
         for n, f in enumerate(cf.as_completed(futs), 1):
             if n % 10 == 0:
                 print(f"  scanned {n}/{len(futs)} hits={len(hits)}", flush=True)
@@ -240,7 +250,7 @@ def main():
                 hits += f.result()
             except Exception as e:  # keep going
                 print("scan error:", e, flush=True)
-    json.dump(hits, open(os.path.join(OUT, "raw_enterprise_jobs.json"), "w"), indent=1)
+    json.dump(hits, open(os.path.join(OUT, a.out), "w"), indent=1)
     print(f"hits={len(hits)} companies={len({h['company'] for h in hits})}")
 
 

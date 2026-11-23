@@ -45,11 +45,13 @@ def excluded_rows(meta, hiring):
     boards = {}
     for b in load_json("ats_boards_found.json"):
         boards.setdefault(b["company"], b)
-    wd = {s["company"]: s for s in load_json("workday_sites_found.json")}
-    sf, rf = os.path.join(OUT, "workday_sites_found.json"), os.path.join(OUT, "raw_enterprise_jobs.json")
-    enterprise_done = os.path.exists(sf) and os.path.exists(rf) and os.path.getmtime(rf) >= os.path.getmtime(sf)
-    if not enterprise_done:
-        wd = {}
+    wd = {}
+    for sites_file, raw_file in (("workday_sites_found.json", "raw_enterprise_jobs.json"),
+                                 ("workday_sites_run1.json", "raw_enterprise_jobs_run2.json")):
+        sf, rf = os.path.join(OUT, sites_file), os.path.join(OUT, raw_file)
+        if os.path.exists(sf) and os.path.exists(rf) and os.path.getmtime(rf) >= os.path.getmtime(sf):
+            wd.update({x["company"]: x for x in load_json(sites_file)})
+    enterprise_done = os.path.exists(os.path.join(OUT, "raw_enterprise_jobs_run2.json"))
     special = {"JPMorgan Chase": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
                "Oracle": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001",
                "Amazon (incl. AWS)": "https://www.amazon.jobs/en/search?country=IND"}
@@ -77,8 +79,13 @@ def excluded_rows(meta, hiring):
                 reason = f"{b['total_jobs']} open jobs on its {b['platform']} board; none are SOC/detection/threat/IR roles"
         elif w or (c in special and enterprise_done):
             board = special.get(c) or f"https://{w['host']}/{w['site']}"
-            status = "Checked - no recent match"
-            reason = "Career-site API checked; no SOC/detection/threat/IR role in Pune/Mumbai/Bengaluru posted in the last 15 days"
+            if c in special:
+                status = "Checked - unconfirmed"
+                reason = ("Career-site API scanned with 0 matches, but the connection was reset several times "
+                          "during the scan - treat as unverified and check via the links")
+            else:
+                status = "Checked - no recent match"
+                reason = "Career-site API checked; no SOC/detection/threat/IR role in Pune/Mumbai/Bengaluru posted in the last 15 days"
         else:
             board = ""
             status = "Not verifiable automatically"
@@ -131,7 +138,7 @@ def li_jobs(company, cities):
 
 def main():
     jobs = []
-    for p in ("raw_ats_jobs.json", "raw_enterprise_jobs.json"):
+    for p in ("raw_ats_jobs.json", "raw_enterprise_jobs.json", "raw_enterprise_jobs_run2.json"):
         fp = os.path.join(OUT, p)
         if os.path.exists(fp):
             jobs += json.load(open(fp))

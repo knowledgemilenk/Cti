@@ -155,10 +155,22 @@ def main():
     with cf.ThreadPoolExecutor(max_workers=24) as ex:
         for i, (name, found) in enumerate(ex.map(probe, names), 1):
             for plat, slug, jobs in found:
-                boards.append({"company": name, "platform": plat, "slug": slug, "total_jobs": len(jobs)})
+                st = {"company": name, "platform": plat, "slug": slug, "total_jobs": len(jobs),
+                      "blue_team_roles_any_city": 0, "blue_team_roles_target_cities": 0,
+                      "latest_target_city_post": None, "board_url": None}
+                boards.append(st)
                 for j in jobs:
                     city = match_city(j["location"])
                     role = classify_title(j["title"])
+                    if st["board_url"] is None and j.get("url"):
+                        st["board_url"] = j["url"]
+                    if role:
+                        st["blue_team_roles_any_city"] += 1
+                    if role and city:
+                        st["blue_team_roles_target_cities"] += 1
+                        d0 = (j["posted"] or "")[:10]
+                        if d0 and (st["latest_target_city_post"] is None or d0 > st["latest_target_city_post"]):
+                            st["latest_target_city_post"] = d0
                     if not city or not role or not j["posted"]:
                         continue
                     try:

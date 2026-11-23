@@ -63,10 +63,16 @@ WD_NUMS = ["wd1", "wd3", "wd5", "wd12", "wd10", "wd103"]
 
 
 def wd_try(host, tenant, site):
+    """Fast probe: no global throttle, short timeout; 404 on wrong site comes back in <0.5s."""
+    body = json.dumps({"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""}).encode()
+    r = urllib.request.Request(f"https://{host}/wday/cxs/{tenant}/{site}/jobs", data=body, headers=HDR, method="POST")
     try:
-        d = req(f"https://{host}/wday/cxs/{tenant}/{site}/jobs",
-                {"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""}, timeout=12)
-        return d.get("total", 0) > 0
+        with urllib.request.urlopen(r, timeout=6) as resp:
+            return json.loads(resp.read().decode("utf-8", "replace")).get("total", 0) > 0
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            time.sleep(10)
+        return False
     except Exception:
         return False
 
@@ -213,8 +219,13 @@ def main():
     a = ap.parse_args()
     os.makedirs(OUT, exist_ok=True)
     lines = [l.strip() for l in open(WD_CANDIDATES) if l.strip() and not l.startswith("#")]
-    with cf.ThreadPoolExecutor(max_workers=6) as ex:
-        sites = [s for s in ex.map(wd_discover, lines) if s]
+    sites = []
+    with cf.ThreadPoolExecutor(max_workers=8) as ex:
+        for i, s in enumerate(ex.map(wd_discover, lines), 1):
+            if s:
+                sites.append(s)
+            if i % 20 == 0:
+                print(f"  discovery {i}/{len(lines)} found={len(sites)}", flush=True)
     print(f"workday sites found: {len(sites)}/{len(lines)}", flush=True)
     json.dump(sites, open(os.path.join(OUT, "workday_sites_found.json"), "w"), indent=1)
     hits = []
@@ -222,7 +233,9 @@ def main():
         futs = [ex.submit(wd_scan, s, a.days) for s in sites]
         futs += [ex.submit(oracle_scan, c, h, s, a.days) for c, h, s in ORACLE_SITES]
         futs.append(ex.submit(amazon_scan, a.days))
-        for f in cf.as_completed(futs):
+        for n, f in enumerate(cf.as_completed(futs), 1):
+            if n % 10 == 0:
+                print(f"  scanned {n}/{len(futs)} hits={len(hits)}", flush=True)
             try:
                 hits += f.result()
             except Exception as e:  # keep going

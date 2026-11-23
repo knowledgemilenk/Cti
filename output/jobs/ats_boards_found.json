@@ -3,1008 +3,1690 @@
   "company": "Zscaler",
   "platform": "greenhouse",
   "slug": "zscaler",
-  "total_jobs": 386
+  "total_jobs": 387,
+  "blue_team_roles_any_city": 16,
+  "blue_team_roles_target_cities": 5,
+  "latest_target_city_post": "2026-11-19",
+  "board_url": "https://job-boards.greenhouse.io/zscaler/jobs/5280084007"
  },
  {
   "company": "Okta",
   "platform": "greenhouse",
   "slug": "okta",
-  "total_jobs": 373
+  "total_jobs": 374,
+  "blue_team_roles_any_city": 9,
+  "blue_team_roles_target_cities": 2,
+  "latest_target_city_post": "2026-11-02",
+  "board_url": "https://www.okta.com/company/careers/opportunity/8093704?gh_jid=8093704"
  },
  {
   "company": "Cloudflare",
   "platform": "greenhouse",
   "slug": "cloudflare",
-  "total_jobs": 503
+  "total_jobs": 503,
+  "blue_team_roles_any_city": 12,
+  "blue_team_roles_target_cities": 1,
+  "latest_target_city_post": "2026-08-13",
+  "board_url": "https://boards.greenhouse.io/cloudflare/jobs/7695702?gh_jid=7695702"
  },
  {
   "company": "McAfee",
   "platform": "greenhouse",
   "slug": "mcafee",
-  "total_jobs": 5
+  "total_jobs": 5,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/mcafee/jobs/5483311008"
  },
  {
   "company": "Gen Digital (Norton/Avast)",
   "platform": "ashby",
   "slug": "gen-digital",
-  "total_jobs": 93
+  "total_jobs": 93,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/gen-digital/05121cfb-c3ca-4d99-a52d-cac513228684"
  },
  {
   "company": "Sophos (incl. Secureworks)",
   "platform": "ashby",
   "slug": "sophos",
-  "total_jobs": 64
+  "total_jobs": 64,
+  "blue_team_roles_any_city": 16,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/sophos/b650d644-4363-4306-8bd8-8434f3d665db"
  },
  {
   "company": "Netskope",
   "platform": "greenhouse",
   "slug": "netskope",
-  "total_jobs": 122
+  "total_jobs": 122,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8078752"
  },
  {
   "company": "Netskope",
   "platform": "smartrecruiters",
   "slug": "netskope",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/netskope/743999696306568"
  },
  {
   "company": "Illumio",
   "platform": "ashby",
   "slug": "illumio",
-  "total_jobs": 74
+  "total_jobs": 74,
+  "blue_team_roles_any_city": 7,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/illumio/904f4622-39da-4008-bd0f-f23afb70f9f1"
  },
  {
   "company": "Ping Identity (incl. ForgeRock)",
   "platform": "greenhouse",
   "slug": "pingidentity",
-  "total_jobs": 69
+  "total_jobs": 69,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/pingidentity/jobs/8856828002"
  },
  {
   "company": "Saviynt",
   "platform": "lever",
   "slug": "saviynt",
-  "total_jobs": 59
+  "total_jobs": 59,
+  "blue_team_roles_any_city": 4,
+  "blue_team_roles_target_cities": 4,
+  "latest_target_city_post": "2026-11-19",
+  "board_url": "https://jobs.lever.co/saviynt/712e3e82-4cd7-43ad-92a9-89b53b8c47f0"
  },
  {
   "company": "BeyondTrust",
   "platform": "greenhouse",
   "slug": "beyondtrust",
-  "total_jobs": 41
+  "total_jobs": 40,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8026672"
  },
  {
   "company": "Delinea",
   "platform": "ashby",
   "slug": "delinea",
-  "total_jobs": 77
+  "total_jobs": 77,
+  "blue_team_roles_any_city": 4,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/delinea/a3fc207a-7b42-4f53-b599-092695fb959a"
  },
  {
   "company": "Sonicwall",
   "platform": "greenhouse",
   "slug": "sonicwall",
-  "total_jobs": 41
+  "total_jobs": 41,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 1,
+  "latest_target_city_post": "2026-11-18",
+  "board_url": "https://job-boards.greenhouse.io/sonicwall/jobs/8188239"
  },
  {
   "company": "WatchGuard Technologies",
   "platform": "lever",
   "slug": "watchguard",
-  "total_jobs": 30
+  "total_jobs": 30,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/watchguard/0e4b346a-3906-4b53-a4f8-ddd47acf8001"
  },
  {
   "company": "Expel",
   "platform": "greenhouse",
   "slug": "expel",
-  "total_jobs": 4
+  "total_jobs": 4,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://expel.com/about/career-listing/8628004002?gh_jid=8628004002"
  },
  {
   "company": "Elastic",
   "platform": "greenhouse",
   "slug": "elastic",
-  "total_jobs": 379
+  "total_jobs": 385,
+  "blue_team_roles_any_city": 5,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.elastic.co/jobs?gh_jid=8148720&gh_jid=8148720"
  },
  {
   "company": "Datadog",
   "platform": "greenhouse",
   "slug": "datadog",
-  "total_jobs": 387
+  "total_jobs": 387,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324"
  },
  {
   "company": "Orca Security",
   "platform": "greenhouse",
   "slug": "orcasecurity",
-  "total_jobs": 13
+  "total_jobs": 13,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://orca.security/about/careers/6263987004?gh_jid=6263987004"
  },
  {
   "company": "Orca Security",
   "platform": "ashby",
   "slug": "orca",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/orca/67824dda-de40-448e-ba76-87ed4e06d05f"
+ },
+ {
+  "company": "Sysdig",
+  "platform": "lever",
+  "slug": "sysdig",
+  "total_jobs": 35,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/sysdig/f9aed1a1-01d3-418f-bc00-0f30b4b423eb"
  },
  {
   "company": "Snyk",
   "platform": "ashby",
   "slug": "snyk",
-  "total_jobs": 39
+  "total_jobs": 39,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/Snyk/f4dd93ff-747e-4ded-aac9-f2931e1ee8b0"
  },
  {
   "company": "Veracode",
   "platform": "greenhouse",
   "slug": "veracode",
-  "total_jobs": 10
+  "total_jobs": 10,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.veracode.com/career/job?gh_jid=8817372002"
  },
  {
   "company": "Recorded Future (Mastercard)",
   "platform": "greenhouse",
   "slug": "recordedfuture",
-  "total_jobs": 57
+  "total_jobs": 57,
+  "blue_team_roles_any_city": 4,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8947963002"
  },
  {
   "company": "Cyware",
   "platform": "greenhouse",
   "slug": "cyware",
-  "total_jobs": 4
+  "total_jobs": 4,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://boards.greenhouse.io/cyware/jobs/8008513003?gh_jid=8008513003"
  },
  {
   "company": "Anomali",
   "platform": "lever",
   "slug": "anomali",
-  "total_jobs": 7
+  "total_jobs": 7,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/anomali/b49205e4-6073-4e4e-ac07-b3dac3644d19"
  },
  {
   "company": "Tines",
   "platform": "greenhouse",
   "slug": "tines",
-  "total_jobs": 33
+  "total_jobs": 33,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/tines/jobs/6226583004"
  },
  {
   "company": "Abnormal Security",
   "platform": "greenhouse",
   "slug": "abnormalsecurity",
-  "total_jobs": 87
+  "total_jobs": 86,
+  "blue_team_roles_any_city": 3,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://abnormal.ai/careers/jobs/8037209003?gh_jid=8037209003"
  },
  {
   "company": "Tanium",
   "platform": "greenhouse",
   "slug": "tanium",
-  "total_jobs": 65
+  "total_jobs": 65,
+  "blue_team_roles_any_city": 3,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/tanium/jobs/8232146"
  },
  {
   "company": "DigiCert",
   "platform": "greenhouse",
   "slug": "digicert",
-  "total_jobs": 50
+  "total_jobs": 50,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 1,
+  "latest_target_city_post": "2026-11-17",
+  "board_url": "https://www.digicert.com/careers/?gh_jid=8929207002"
  },
  {
   "company": "Sectigo",
   "platform": "smartrecruiters",
   "slug": "sectigo",
-  "total_jobs": 7
+  "total_jobs": 7,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/sectigo/3743990016791106"
  },
  {
   "company": "Rubrik",
   "platform": "greenhouse",
   "slug": "rubrik",
-  "total_jobs": 219
+  "total_jobs": 217,
+  "blue_team_roles_any_city": 5,
+  "blue_team_roles_target_cities": 2,
+  "latest_target_city_post": "2026-11-10",
+  "board_url": "https://www.rubrik.com/company/careers/departments/job.7820794?gh_jid=7820794"
  },
  {
   "company": "Commvault",
   "platform": "greenhouse",
   "slug": "commvault",
-  "total_jobs": 59
+  "total_jobs": 59,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/commvault/jobs/5458372008"
  },
  {
   "company": "Veeam Software",
   "platform": "greenhouse",
   "slug": "veeamsoftware",
-  "total_jobs": 198
+  "total_jobs": 198,
+  "blue_team_roles_any_city": 6,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5030957101"
  },
  {
   "company": "Druva",
   "platform": "greenhouse",
   "slug": "druva",
-  "total_jobs": 26
+  "total_jobs": 26,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.druva.com/why-druva/explore/careers/jobs/7727374002/?gh_jid=7727374002"
  },
  {
   "company": "Nozomi Networks (Mitsubishi Electric)",
   "platform": "greenhouse",
   "slug": "nozominetworks",
-  "total_jobs": 24
+  "total_jobs": 24,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/nozominetworks/jobs/4746657005"
  },
  {
   "company": "Dragos",
   "platform": "greenhouse",
   "slug": "dragos",
-  "total_jobs": 56
+  "total_jobs": 56,
+  "blue_team_roles_any_city": 8,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/dragos/jobs/5452162008"
  },
  {
   "company": "Menlo Security",
   "platform": "ashby",
   "slug": "menlosecurity",
-  "total_jobs": 24
+  "total_jobs": 24,
+  "blue_team_roles_any_city": 4,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/menlosecurity/4793f5c8-009a-418e-b33f-1c2ae892f070"
  },
  {
   "company": "Cato Networks",
   "platform": "greenhouse",
   "slug": "catonetworks",
-  "total_jobs": 122
+  "total_jobs": 122,
+  "blue_team_roles_any_city": 3,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.catonetworks.com/careers/careers-post/4951235101?gh_jid=4951235101"
  },
  {
   "company": "Arista Networks",
   "platform": "smartrecruiters",
   "slug": "aristanetworks",
-  "total_jobs": 25
+  "total_jobs": 25,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/aristanetworks/744000163144549"
  },
  {
   "company": "Sumo Logic",
   "platform": "greenhouse",
   "slug": "sumologic",
-  "total_jobs": 25
+  "total_jobs": 25,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/sumologic/jobs/8392471"
  },
  {
   "company": "LastPass",
   "platform": "greenhouse",
   "slug": "lastpass",
-  "total_jobs": 11
+  "total_jobs": 11,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/lastpass/jobs/4742379005"
  },
  {
   "company": "1Password",
   "platform": "ashby",
   "slug": "1password",
-  "total_jobs": 80
+  "total_jobs": 80,
+  "blue_team_roles_any_city": 3,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/1password/febe5d7f-25c9-4d77-a184-0f99e748fe7f"
  },
  {
   "company": "Zimperium",
   "platform": "lever",
   "slug": "zimperium",
-  "total_jobs": 20
+  "total_jobs": 20,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/zimperium/5b35759a-d445-4fcb-b255-d719330af055"
  },
  {
   "company": "Jamf",
   "platform": "greenhouse",
   "slug": "jamf",
-  "total_jobs": 31
+  "total_jobs": 31,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6233018004&gh_jid=6233018004"
  },
  {
   "company": "Huntress",
   "platform": "greenhouse",
   "slug": "huntress",
-  "total_jobs": 47
+  "total_jobs": 45,
+  "blue_team_roles_any_city": 13,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/huntress/jobs/8196004003"
  },
  {
   "company": "CloudSEK",
   "platform": "greenhouse",
   "slug": "cloudsek",
-  "total_jobs": 18
+  "total_jobs": 18,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/cloudsek/jobs/6127369004"
  },
  {
   "company": "Safe Security",
   "platform": "lever",
   "slug": "safe",
-  "total_jobs": 21
+  "total_jobs": 21,
+  "blue_team_roles_any_city": 3,
+  "blue_team_roles_target_cities": 1,
+  "latest_target_city_post": "2026-08-17",
+  "board_url": "https://jobs.lever.co/safe/8543068c-35f2-4115-bff6-6b6372d65e5d"
  },
  {
   "company": "Safe Security",
   "platform": "ashby",
   "slug": "safe",
-  "total_jobs": 24
+  "total_jobs": 24,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/safe/2f709f91-5d2f-432f-9f09-3ec1861e78cf"
  },
  {
   "company": "Block Armour",
   "platform": "greenhouse",
   "slug": "block",
-  "total_jobs": 184
+  "total_jobs": 184,
+  "blue_team_roles_any_city": 4,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "http://block.xyz/careers/jobs/5410307008?gh_jid=5410307008"
  },
  {
   "company": "Bureau (bureau.id)",
   "platform": "ashby",
   "slug": "bureau",
-  "total_jobs": 17
+  "total_jobs": 17,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/bureau/51277b78-eb75-467f-b758-88828f9a7a03"
  },
  {
   "company": "Yotta Infrastructure",
   "platform": "ashby",
   "slug": "yotta",
-  "total_jobs": 4
+  "total_jobs": 4,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/yotta/62d8f4db-a749-46f5-858a-a2e0ff168682"
  },
  {
   "company": "Allied Digital Services",
   "platform": "greenhouse",
   "slug": "allied",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://alliedmechanicalutah.com/careers?gh_jid=5481651008"
  },
  {
   "company": "ThoughtWorks",
   "platform": "greenhouse",
   "slug": "thoughtworks",
-  "total_jobs": 31
+  "total_jobs": 31,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.thoughtworks.com/careers/jobs/8166611?gh_jid=8166611"
  },
  {
   "company": "ThoughtWorks",
   "platform": "ashby",
   "slug": "thoughtworks",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/thoughtworks/438ef5d2-61e3-417e-80e2-320469b19008"
  },
  {
   "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (GSC)",
   "platform": "greenhouse",
   "slug": "soci",
-  "total_jobs": 20
+  "total_jobs": 20,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/soci/jobs/5383812004"
  },
  {
   "company": "National Australia Bank (NAB Innovation Centre India)",
   "platform": "greenhouse",
   "slug": "national",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/national/jobs/5304078007"
  },
  {
   "company": "London Stock Exchange Group (LSEG)",
   "platform": "greenhouse",
   "slug": "london",
-  "total_jobs": 3
+  "total_jobs": 3,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/london/jobs/5019478004"
  },
  {
   "company": "Experian",
   "platform": "smartrecruiters",
   "slug": "experian",
-  "total_jobs": 42
+  "total_jobs": 42,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/experian/744000163146204"
  },
  {
   "company": "Nasdaq",
   "platform": "greenhouse",
   "slug": "nasdaq",
-  "total_jobs": 23
+  "total_jobs": 23,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/nasdaq/jobs/4469824009"
  },
  {
   "company": "ServiceNow",
   "platform": "smartrecruiters",
   "slug": "servicenow",
-  "total_jobs": 85
+  "total_jobs": 83,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/servicenow/744000163209079"
  },
  {
   "company": "Applied Materials",
   "platform": "ashby",
   "slug": "applied",
-  "total_jobs": 333
+  "total_jobs": 333,
+  "blue_team_roles_any_city": 7,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/applied/b2258b1e-336f-4412-aafb-7e5f4e612c7e"
  },
  {
   "company": "Western Digital",
   "platform": "smartrecruiters",
   "slug": "westerndigital",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/westerndigital/744000163141219"
  },
  {
   "company": "HP Inc (Wolf Security)",
   "platform": "greenhouse",
   "slug": "hp",
-  "total_jobs": 26
+  "total_jobs": 26,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/hp/jobs/6228405004"
  },
  {
   "company": "Twilio",
   "platform": "greenhouse",
   "slug": "twilio",
-  "total_jobs": 109
+  "total_jobs": 109,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/twilio/jobs/8249615"
  },
  {
   "company": "InMobi",
   "platform": "greenhouse",
   "slug": "inmobi",
-  "total_jobs": 71
+  "total_jobs": 71,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/inmobi/jobs/7925318"
  },
  {
   "company": "Freshworks",
   "platform": "smartrecruiters",
   "slug": "freshworks",
-  "total_jobs": 30
+  "total_jobs": 30,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/freshworks/744000162469181"
  },
  {
   "company": "Extreme Networks",
   "platform": "lever",
   "slug": "extremenetworks",
-  "total_jobs": 71
+  "total_jobs": 71,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/extremenetworks/f99032c4-6048-484d-b93e-f8dfbb62aa19"
  },
  {
   "company": "Ribbon Communications",
   "platform": "lever",
   "slug": "ribbon",
-  "total_jobs": 3
+  "total_jobs": 3,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/ribbon/dc3b0c45-b341-4e68-8dcd-69ba00c3272f"
  },
  {
   "company": "LinkedIn (Microsoft)",
   "platform": "lever",
   "slug": "linkedin",
-  "total_jobs": 25
+  "total_jobs": 25,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/linkedin/5a4596c4-11c4-4852-821d-33dc3b529012"
  },
  {
   "company": "AB InBev (GCC India)",
   "platform": "greenhouse",
   "slug": "abinbev",
-  "total_jobs": 57
+  "total_jobs": 57,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/abinbev/jobs/8868234002"
  },
  {
   "company": "Archer Daniels Midland (ADM)",
   "platform": "greenhouse",
   "slug": "archer",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://boards.greenhouse.io/archer/jobs/4213164002?gh_jid=4213164002"
  },
  {
   "company": "Continental",
   "platform": "smartrecruiters",
   "slug": "continental",
-  "total_jobs": 13
+  "total_jobs": 13,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/continental/744000162662309"
  },
  {
   "company": "General Motors Technical Center India",
   "platform": "greenhouse",
   "slug": "general",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/general/jobs/7182645002"
  },
  {
   "company": "Eli Lilly",
   "platform": "ashby",
   "slug": "eli",
-  "total_jobs": 3
+  "total_jobs": 3,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/eli/e9cfe47e-513c-4386-8099-d0ec8c579a24"
  },
  {
   "company": "Novo Nordisk Global Business Services",
   "platform": "ashby",
   "slug": "novo",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/novo/482c2694-13cc-4c76-8d42-5c13c11f3830"
  },
  {
   "company": "Yes Bank",
   "platform": "greenhouse",
   "slug": "yes",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://cjyes.com/job-list/?gh_jid=5376812008"
  },
  {
   "company": "Reserve Bank Information Technology (ReBIT)",
   "platform": "ashby",
   "slug": "reserve",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/reserve/4b9ae8f2-5565-4008-b029-a34503ce4b14"
  },
  {
   "company": "National Payments Corporation of India (NPCI)",
   "platform": "greenhouse",
   "slug": "national",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/national/jobs/5304078007"
  },
  {
   "company": "National Stock Exchange (NSE)",
   "platform": "greenhouse",
   "slug": "national",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/national/jobs/5304078007"
  },
  {
   "company": "National Securities Depository (NSDL)",
   "platform": "greenhouse",
   "slug": "national",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/national/jobs/5304078007"
  },
  {
   "company": "Life Insurance Corporation of India (LIC)",
   "platform": "lever",
   "slug": "life",
-  "total_jobs": 48
+  "total_jobs": 48,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/life/962835d4-56cc-4ad9-a52d-39b3bd20838d"
  },
  {
   "company": "Bajaj Allianz Life Insurance (Bajaj Life)",
   "platform": "smartrecruiters",
   "slug": "bajajallianzlifeinsurance",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/bajajallianzlifeinsurance/743999796212760"
  },
  {
   "company": "Groww (Billionbrains Garage Ventures)",
   "platform": "greenhouse",
   "slug": "groww",
-  "total_jobs": 7
+  "total_jobs": 7,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4970739101"
  },
  {
   "company": "Upstox",
   "platform": "smartrecruiters",
   "slug": "upstox",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/upstox/743999736664046"
  },
  {
   "company": "Paytm (One97 Communications)",
   "platform": "lever",
   "slug": "paytm",
-  "total_jobs": 189
+  "total_jobs": 189,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/paytm/552abb0b-e76d-4902-aedb-ca2290536744"
  },
  {
   "company": "CRED (Dreamplug Technologies)",
   "platform": "lever",
   "slug": "cred",
-  "total_jobs": 12
+  "total_jobs": 12,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/cred/aa98a938-af3a-45f5-851d-966b2b5bad33"
  },
  {
   "company": "Pine Labs",
   "platform": "greenhouse",
   "slug": "pine",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/pine/jobs/5013740008"
  },
  {
   "company": "Navi Technologies",
   "platform": "ashby",
   "slug": "navi",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/navi/cc6d60fb-bff3-42bf-90ac-7c00f4cee87c"
  },
  {
   "company": "Swiggy",
   "platform": "smartrecruiters",
   "slug": "swiggy",
-  "total_jobs": 149
+  "total_jobs": 149,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/swiggy/6000000001599618"
  },
  {
   "company": "Meesho",
   "platform": "lever",
   "slug": "meesho",
-  "total_jobs": 48
+  "total_jobs": 48,
+  "blue_team_roles_any_city": 3,
+  "blue_team_roles_target_cities": 3,
+  "latest_target_city_post": "2026-11-02",
+  "board_url": "https://jobs.lever.co/meesho/7d9af9b5-c1c7-48ec-bbb5-9b25e49f6596"
  },
  {
   "company": "Ola Electric Mobility",
   "platform": "smartrecruiters",
   "slug": "olaelectricmobility",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/olaelectricmobility/743999733145894"
  },
  {
   "company": "VerSe Innovation (Dailyhunt/Josh)",
   "platform": "greenhouse",
   "slug": "verse",
-  "total_jobs": 7
+  "total_jobs": 7,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/verse/jobs/5465897008"
  },
  {
   "company": "Titan Company",
   "platform": "ashby",
   "slug": "titan",
-  "total_jobs": 7
+  "total_jobs": 7,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/titan/ac6de55c-055f-4e43-b9dc-2e8eeec6489d"
  },
  {
   "company": "Lincoln Financial",
   "platform": "greenhouse",
   "slug": "lincoln",
-  "total_jobs": 12
+  "total_jobs": 12,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/lincoln/jobs/5185771007"
  },
  {
   "company": "Charles Schwab",
   "platform": "greenhouse",
   "slug": "charles",
-  "total_jobs": 3
+  "total_jobs": 3,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.eu.greenhouse.io/charles/jobs/4982651101"
  },
  {
   "company": "Capital Group",
   "platform": "lever",
   "slug": "capital",
-  "total_jobs": 40
+  "total_jobs": 39,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/capital/7c3b22e2-7931-4e43-b47a-033d9492f167"
  },
  {
   "company": "Air Liquide",
   "platform": "greenhouse",
   "slug": "air",
-  "total_jobs": 34
+  "total_jobs": 34,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/air/jobs/4087693009"
  },
  {
   "company": "Parker Hannifin",
   "platform": "ashby",
   "slug": "parker",
-  "total_jobs": 13
+  "total_jobs": 13,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/parker/bebf55d0-79a0-4a01-8d4d-0d264fd0caed"
  },
  {
   "company": "Applied Intuition",
   "platform": "ashby",
   "slug": "applied",
-  "total_jobs": 333
+  "total_jobs": 333,
+  "blue_team_roles_any_city": 7,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/applied/b2258b1e-336f-4412-aafb-7e5f4e612c7e"
  },
  {
   "company": "Renesas Electronics",
   "platform": "smartrecruiters",
   "slug": "renesaselectronics",
-  "total_jobs": 110
+  "total_jobs": 110,
+  "blue_team_roles_any_city": 3,
+  "blue_team_roles_target_cities": 2,
+  "latest_target_city_post": "2026-10-28",
+  "board_url": "https://jobs.smartrecruiters.com/renesaselectronics/744000163146488"
  },
  {
   "company": "Analog Devices",
   "platform": "ashby",
   "slug": "analog",
-  "total_jobs": 26
+  "total_jobs": 26,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/analog/1cba892a-e30d-4813-ad47-05dcf0c08da4"
  },
  {
   "company": "Dropbox",
   "platform": "greenhouse",
   "slug": "dropbox",
-  "total_jobs": 47
+  "total_jobs": 47,
+  "blue_team_roles_any_city": 6,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.dropbox.com/listing/8393442?gh_jid=8393442"
  },
  {
   "company": "MongoDB",
   "platform": "greenhouse",
   "slug": "mongodb",
-  "total_jobs": 418
+  "total_jobs": 417,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.mongodb.com/careers/job/?gh_jid=8346138"
  },
  {
   "company": "Coinbase",
   "platform": "greenhouse",
   "slug": "coinbase",
-  "total_jobs": 251
+  "total_jobs": 251,
+  "blue_team_roles_any_city": 6,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363"
  },
  {
   "company": "Nucleus Software",
   "platform": "greenhouse",
   "slug": "nucleus",
-  "total_jobs": 23
+  "total_jobs": 23,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/nucleus/jobs/7962995"
  },
  {
   "company": "Sutherland Global",
   "platform": "smartrecruiters",
   "slug": "sutherland",
-  "total_jobs": 52
+  "total_jobs": 52,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/sutherland/744000162477999"
  },
  {
   "company": "Highradius",
   "platform": "greenhouse",
   "slug": "highradius",
-  "total_jobs": 64
+  "total_jobs": 64,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.highradius.com/about/careers-list/?gh_jid=6542907003"
  },
  {
   "company": "Whatfix",
   "platform": "smartrecruiters",
   "slug": "whatfix",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/whatfix/743999738934973"
  },
  {
   "company": "Mindtickle",
   "platform": "lever",
   "slug": "mindtickle",
-  "total_jobs": 19
+  "total_jobs": 19,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/mindtickle/864ac315-d7c5-4cd5-ab44-0e33d08f48f1"
  },
  {
   "company": "Mindtickle",
   "platform": "smartrecruiters",
   "slug": "mindtickle",
-  "total_jobs": 9
+  "total_jobs": 9,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/mindtickle/743999657721340"
  },
  {
   "company": "Zeta (Better World Technology)",
   "platform": "lever",
   "slug": "zeta",
-  "total_jobs": 33
+  "total_jobs": 33,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/zeta/892ad297-ed0e-4f9c-98b8-fd30358a5517"
  },
  {
   "company": "Tekion",
   "platform": "ashby",
   "slug": "tekion",
-  "total_jobs": 90
+  "total_jobs": 89,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 2,
+  "latest_target_city_post": "2026-06-24",
+  "board_url": "https://jobs.ashbyhq.com/Tekion/e7d565d0-ef7a-4f2a-91b6-d03ed7ea9c60"
  },
  {
   "company": "Galaxy Office Automation",
   "platform": "greenhouse",
   "slug": "galaxy",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/galaxy/jobs/5479746008"
  },
  {
   "company": "SecurityScorecard",
   "platform": "greenhouse",
   "slug": "securityscorecard",
-  "total_jobs": 10
+  "total_jobs": 10,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8167848"
  },
  {
   "company": "Kaseya (incl. Datto)",
   "platform": "greenhouse",
   "slug": "kaseya",
-  "total_jobs": 94
+  "total_jobs": 94,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.kaseya.com/careers/jobs/id/6261188004/?gh_jid=6261188004"
  },
  {
   "company": "ConnectWise",
   "platform": "greenhouse",
   "slug": "connectwise",
-  "total_jobs": 55
+  "total_jobs": 55,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 1,
+  "latest_target_city_post": "2026-11-11",
+  "board_url": "https://job-boards.greenhouse.io/connectwise/jobs/4749568005"
  },
  {
   "company": "SolarWinds",
   "platform": "greenhouse",
   "slug": "solarwinds",
-  "total_jobs": 85
+  "total_jobs": 85,
+  "blue_team_roles_any_city": 3,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.solarwinds.com/job-detail/?gh_jid=4757154005&gh_jid=4757154005"
  },
  {
   "company": "NinjaOne",
   "platform": "greenhouse",
   "slug": "ninjaone",
-  "total_jobs": 157
+  "total_jobs": 157,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/ninjaone/jobs/4483196009"
  },
  {
   "company": "Salt Security",
   "platform": "greenhouse",
   "slug": "saltsecurity",
-  "total_jobs": 14
+  "total_jobs": 14,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://salt.security/job-board?gh_jid=5256614007"
  },
  {
   "company": "Opswat",
   "platform": "greenhouse",
   "slug": "opswat",
-  "total_jobs": 97
+  "total_jobs": 97,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.opswat.com/jobs/4625435005?gh_jid=4625435005"
  },
  {
   "company": "Cyberhaven",
   "platform": "ashby",
   "slug": "cyberhaven",
-  "total_jobs": 37
+  "total_jobs": 37,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/Cyberhaven/23c6f735-13a2-4c4e-a8dc-a95ffd95f57e"
  },
  {
   "company": "Databricks",
   "platform": "greenhouse",
   "slug": "databricks",
-  "total_jobs": 891
+  "total_jobs": 891,
+  "blue_team_roles_any_city": 5,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8805655002"
  },
  {
   "company": "Snowflake",
   "platform": "ashby",
   "slug": "snowflake",
-  "total_jobs": 377
+  "total_jobs": 376,
+  "blue_team_roles_any_city": 9,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/snowflake/57131f28-cdf8-4776-aa87-8f9339e494ab"
  },
  {
   "company": "Stripe",
   "platform": "greenhouse",
   "slug": "stripe",
-  "total_jobs": 777
+  "total_jobs": 777,
+  "blue_team_roles_any_city": 18,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://stripe.com/jobs/search?gh_jid=8172510"
  },
  {
   "company": "Toast",
   "platform": "greenhouse",
   "slug": "toast",
-  "total_jobs": 324
+  "total_jobs": 324,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 1,
+  "latest_target_city_post": "2026-10-29",
+  "board_url": "https://careers.toasttab.com/jobs?gh_jid=8031372"
  },
  {
   "company": "Coupa",
   "platform": "lever",
   "slug": "coupa",
-  "total_jobs": 41
+  "total_jobs": 41,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 1,
+  "latest_target_city_post": "2026-10-09",
+  "board_url": "https://jobs.lever.co/coupa/d17fb20e-152c-4583-9add-c8bc779f658d"
  },
  {
   "company": "Atlan",
   "platform": "ashby",
   "slug": "atlan",
-  "total_jobs": 7
+  "total_jobs": 7,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/atlan/c6bb032c-6ac8-4b59-915c-d59b6f3a86f8"
  },
  {
   "company": "Glance",
   "platform": "greenhouse",
   "slug": "glance",
-  "total_jobs": 24
+  "total_jobs": 24,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/glance/jobs/7528890"
  },
  {
   "company": "Unacademy",
   "platform": "smartrecruiters",
   "slug": "unacademy",
-  "total_jobs": 3
+  "total_jobs": 3,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/unacademy/743999710953763"
  },
  {
   "company": "Fi Money",
   "platform": "lever",
   "slug": "fi",
-  "total_jobs": 9
+  "total_jobs": 9,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/fi/3023da51-fe37-4ca6-8552-491e5b2a6bc8"
  },
  {
   "company": "Slice",
   "platform": "greenhouse",
   "slug": "slice",
-  "total_jobs": 22
+  "total_jobs": 22,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://slice.careers/careers-listing?gh_jid=7966180"
  },
  {
   "company": "Cars24",
   "platform": "smartrecruiters",
   "slug": "cars24",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/cars24/743999664899164"
  },
  {
   "company": "BoschGroup",
   "platform": "smartrecruiters",
   "slug": "boschgroup",
-  "total_jobs": 677
+  "total_jobs": 679,
+  "blue_team_roles_any_city": 4,
+  "blue_team_roles_target_cities": 4,
+  "latest_target_city_post": "2026-10-08",
+  "board_url": "https://jobs.smartrecruiters.com/boschgroup/744000163227699"
  },
  {
   "company": "Ubisoft2",
   "platform": "smartrecruiters",
   "slug": "ubisoft2",
-  "total_jobs": 7
+  "total_jobs": 7,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/ubisoft2/744000162496479"
  },
  {
   "company": "Grab",
   "platform": "smartrecruiters",
   "slug": "grab",
-  "total_jobs": 12
+  "total_jobs": 12,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/grab/744000163090489"
  },
  {
   "company": "Agoda",
   "platform": "greenhouse",
   "slug": "agoda",
-  "total_jobs": 331
+  "total_jobs": 331,
+  "blue_team_roles_any_city": 7,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/agoda/jobs/8184766"
  },
  {
   "company": "Binance",
   "platform": "greenhouse",
   "slug": "binance",
-  "total_jobs": 224
+  "total_jobs": 224,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002667101"
  },
  {
   "company": "Binance",
   "platform": "lever",
   "slug": "binance",
-  "total_jobs": 4
+  "total_jobs": 4,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/binance/7c5d03b5-ce74-45b7-b38d-c46adce58047"
  },
  {
   "company": "Deliveroo",
   "platform": "greenhouse",
   "slug": "deliveroo",
-  "total_jobs": 188
+  "total_jobs": 189,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206649"
  },
  {
   "company": "Deliveroo",
   "platform": "ashby",
   "slug": "deliveroo",
-  "total_jobs": 13
+  "total_jobs": 13,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/deliveroo/078ada7c-a498-4002-b5d7-3998570f904e"
  },
  {
   "company": "Wise",
   "platform": "greenhouse",
   "slug": "wise",
-  "total_jobs": 18
+  "total_jobs": 18,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/wise/jobs/6228363004"
  },
  {
   "company": "Wise",
   "platform": "smartrecruiters",
   "slug": "wise",
-  "total_jobs": 33
+  "total_jobs": 33,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/wise/744000162958109"
  },
  {
   "company": "Airwallex",
   "platform": "ashby",
   "slug": "airwallex",
-  "total_jobs": 498
+  "total_jobs": 497,
+  "blue_team_roles_any_city": 9,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/airwallex/46586b3a-ab75-4f41-b51a-5cf34a7d598b"
  },
  {
   "company": "GitLab",
   "platform": "greenhouse",
   "slug": "gitlab",
-  "total_jobs": 247
+  "total_jobs": 246,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002"
  },
  {
   "company": "New Relic",
   "platform": "greenhouse",
   "slug": "newrelic",
-  "total_jobs": 43
+  "total_jobs": 43,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/newrelic/jobs/5121001008"
  },
  {
   "company": "PagerDuty",
   "platform": "greenhouse",
   "slug": "pagerduty",
-  "total_jobs": 48
+  "total_jobs": 48,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/pagerduty/jobs/6186821004"
  },
  {
   "company": "Cribl",
   "platform": "greenhouse",
   "slug": "cribl",
-  "total_jobs": 84
+  "total_jobs": 84,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://cribl.io/job-detail/?gh_jid=6250219004"
  },
  {
   "company": "Axonius",
   "platform": "greenhouse",
   "slug": "axonius",
-  "total_jobs": 20
+  "total_jobs": 20,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=7792094003"
  },
  {
   "company": "Island",
   "platform": "greenhouse",
   "slug": "island",
-  "total_jobs": 19
+  "total_jobs": 19,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/island/jobs/4412445009"
  },
  {
   "company": "Torq",
   "platform": "greenhouse",
   "slug": "torq",
-  "total_jobs": 30
+  "total_jobs": 30,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/torq/jobs/6262275004"
  },
  {
   "company": "Vanta",
   "platform": "ashby",
   "slug": "vanta",
-  "total_jobs": 69
+  "total_jobs": 69,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/vanta/7e8b02ec-cf23-41de-87c7-3910459f34a2"
  },
  {
   "company": "Drata",
   "platform": "ashby",
   "slug": "drata",
-  "total_jobs": 24
+  "total_jobs": 24,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/drata/452756bd-2f92-47aa-8459-cb8f29f02b08"
  },
  {
   "company": "Remote",
   "platform": "greenhouse",
   "slug": "remote",
-  "total_jobs": 2
+  "total_jobs": 2,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/remote/jobs/4622190"
  },
  {
   "company": "Toptal",
   "platform": "lever",
   "slug": "toptal",
-  "total_jobs": 25
+  "total_jobs": 25,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/toptal/02143500-11da-42a2-97f0-aa84e9b5449b"
  },
  {
   "company": "Turing",
   "platform": "greenhouse",
   "slug": "turing",
-  "total_jobs": 31
+  "total_jobs": 31,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/turing/jobs/6128357004"
  },
  {
   "company": "Mercor",
   "platform": "ashby",
   "slug": "mercor",
-  "total_jobs": 108
+  "total_jobs": 108,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/mercor/426a1c6b-e285-4b88-9f94-9048b1d6dc8c"
  },
  {
   "company": "Sardine",
   "platform": "ashby",
   "slug": "sardine",
-  "total_jobs": 40
+  "total_jobs": 40,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/sardine/f7c8747e-c21b-4a22-81ba-a4b46bd861dd"
  },
  {
   "company": "Persona",
   "platform": "ashby",
   "slug": "persona",
-  "total_jobs": 12
+  "total_jobs": 12,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/persona/8c7918f2-cc3e-4bd6-8dd6-0f57d2ffb670"
  },
  {
   "company": "Socure",
   "platform": "ashby",
   "slug": "socure",
-  "total_jobs": 84
+  "total_jobs": 84,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/socure/a8cf0ad6-f50f-47bc-942c-e460993436c9"
  },
  {
   "company": "Socure",
   "platform": "smartrecruiters",
   "slug": "socure",
-  "total_jobs": 1
+  "total_jobs": 1,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.smartrecruiters.com/socure/743999736710031"
  },
  {
   "company": "Elliptic",
   "platform": "ashby",
   "slug": "elliptic",
-  "total_jobs": 24
+  "total_jobs": 24,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/elliptic/113fcaed-88c7-4a72-b7f7-4561a9f983b3"
  },
  {
   "company": "Recorded Future",
   "platform": "greenhouse",
   "slug": "recordedfuture",
-  "total_jobs": 57
+  "total_jobs": 57,
+  "blue_team_roles_any_city": 4,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8947963002"
  },
  {
   "company": "Censys",
   "platform": "greenhouse",
   "slug": "censys",
-  "total_jobs": 25
+  "total_jobs": 25,
+  "blue_team_roles_any_city": 2,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/censys/jobs/8756637002"
  },
  {
   "company": "Prophet Security",
   "platform": "greenhouse",
   "slug": "prophet",
-  "total_jobs": 15
+  "total_jobs": 15,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/prophet/jobs/4745104005"
  },
  {
   "company": "Prophet Security",
   "platform": "ashby",
   "slug": "prophet-security",
-  "total_jobs": 9
+  "total_jobs": 9,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.ashbyhq.com/prophet-security/021da6e5-4e31-4f51-ad1a-d8127b4260d8"
  },
  {
   "company": "Dropzone AI",
   "platform": "greenhouse",
   "slug": "dropzoneai",
-  "total_jobs": 10
+  "total_jobs": 10,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/dropzoneai/jobs/4454152009"
  },
  {
   "company": "D3 Security",
   "platform": "greenhouse",
   "slug": "d3",
-  "total_jobs": 7
+  "total_jobs": 7,
+  "blue_team_roles_any_city": 0,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://job-boards.greenhouse.io/d3/jobs/5411039008"
  },
  {
   "company": "Zeta",
   "platform": "lever",
   "slug": "zeta",
-  "total_jobs": 33
+  "total_jobs": 33,
+  "blue_team_roles_any_city": 1,
+  "blue_team_roles_target_cities": 0,
+  "latest_target_city_post": null,
+  "board_url": "https://jobs.lever.co/zeta/892ad297-ed0e-4f9c-98b8-fd30358a5517"
  }
 ]

@@ -16,7 +16,7 @@ ADJ = [
 EXCLUDE = re.compile(
     r"sales|account (executive|manager)|business development|presales|pre-sales|marketing|recruit|"
     r"physical security|security guard|social security|securities|customer success|partner|"
-    r"\bintern\b|legal counsel|paralegal|payroll|finance|accountant", re.I)
+    r"\bintern\b|legal counsel|paralegal|payroll|finance|accountant|test engineer|quality assurance|\bqa\b", re.I)
 
 CITY = [
     (r"bengaluru|bangalore|blr\b|whitefield|electronic city|manyata", "Bengaluru"),

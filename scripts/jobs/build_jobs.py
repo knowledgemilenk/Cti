@@ -8,6 +8,10 @@ import re
 import urllib.parse
 from collections import defaultdict
 
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from rolefilter import classify_title  # noqa: E402
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill
 from openpyxl.utils import get_column_letter
@@ -16,14 +20,79 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 OUT = os.path.join(ROOT, "output", "jobs")
 
 
+CITY = {"B": "Bengaluru", "P": "Pune", "M": "Mumbai"}
+
+
 def master():
     m = {}
     for p in glob.glob(os.path.join(ROOT, "data", "*.txt")):
         for line in open(p, encoding="utf-8"):
             f = line.strip().split("|")
-            if len(f) == 8 and not line.startswith("#"):
-                m[f[0]] = {"category": f[1], "hq": f[2], "revenue": f"{f[4]} ({f[5]})"}
+            if len(f) == 8 and not line.startswith("#") and f[3] not in ("", "-") and not f[0].endswith("?"):
+                codes = [c.strip() for c in f[3].split(",")]
+                m[f[0]] = {"category": f[1], "hq": f[2], "revenue": f"{f[4]} ({f[5]})",
+                           "target_cities": ", ".join(CITY[c] for c in codes if c in CITY)}
     return m
+
+
+def load_json(name):
+    fp = os.path.join(OUT, name)
+    return json.load(open(fp)) if os.path.exists(fp) else []
+
+
+def excluded_rows(meta, hiring):
+    """Every company from the master list that is not in the hiring list, with the reason."""
+    boards = {}
+    for b in load_json("ats_boards_found.json"):
+        boards.setdefault(b["company"], b)
+    wd = {s["company"]: s for s in load_json("workday_sites_found.json")}
+    sf, rf = os.path.join(OUT, "workday_sites_found.json"), os.path.join(OUT, "raw_enterprise_jobs.json")
+    enterprise_done = os.path.exists(sf) and os.path.exists(rf) and os.path.getmtime(rf) >= os.path.getmtime(sf)
+    if not enterprise_done:
+        wd = {}
+    special = {"JPMorgan Chase": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+               "Oracle": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001",
+               "Amazon (incl. AWS)": "https://www.amazon.jobs/en/search?country=IND"}
+    rows = []
+    for c, md in sorted(meta.items(), key=lambda kv: kv[0].lower()):
+        if c in hiring:
+            continue
+        b, w = boards.get(c), wd.get(c)
+        if not md["target_cities"]:
+            reason = "No Pune/Mumbai/Bengaluru office in the master dataset (Hyderabad/other cities only)"
+            status, board = "Out of city scope", ""
+        elif b:
+            board = board_url(b["platform"], b.get("board_url") or "")
+            if b.get("blue_team_roles_target_cities"):
+                status = "Checked - only older postings"
+                reason = (f"{b['blue_team_roles_target_cities']} blue-team role(s) in Pune/Mumbai/Bengaluru on its "
+                          f"{b['platform']} board, but none posted in the last 15 days "
+                          f"(latest: {b.get('latest_target_city_post') or 'n/a'})")
+            elif b.get("blue_team_roles_any_city"):
+                status = "Checked - roles in other cities only"
+                reason = (f"{b['blue_team_roles_any_city']} blue-team role(s) open on its {b['platform']} board, "
+                          f"but none located in Pune/Mumbai/Bengaluru")
+            else:
+                status = "Checked - no blue-team roles"
+                reason = f"{b['total_jobs']} open jobs on its {b['platform']} board; none are SOC/detection/threat/IR roles"
+        elif w or (c in special and enterprise_done):
+            board = special.get(c) or f"https://{w['host']}/{w['site']}"
+            status = "Checked - no recent match"
+            reason = "Career-site API checked; no SOC/detection/threat/IR role in Pune/Mumbai/Bengaluru posted in the last 15 days"
+        else:
+            board = ""
+            status = "Not verifiable automatically"
+            reason = ("Careers site has no public job API reachable from here (custom site, Phenom, SuccessFactors, "
+                      "Taleo, iCIMS, Eightfold, etc.) - hiring status unknown; verify via the LinkedIn Jobs link")
+        rows.append({
+            "Company": c, "Category": md["category"], "Global HQ": md["hq"], "Annual revenue": md["revenue"],
+            "Offices in Pune/Mumbai/Bengaluru (dataset)": md["target_cities"],
+            "Exclusion status": status, "Reason excluded": reason,
+            "Careers / job board": board,
+            "Find their recruiters (LinkedIn people search)": li_people(c),
+            "Verify on LinkedIn Jobs (last 15 days)": li_jobs(c, md["target_cities"]),
+        })
+    return rows
 
 
 def board_url(platform, url):
@@ -68,6 +137,9 @@ def main():
             jobs += json.load(open(fp))
     seen, uniq = set(), []
     for j in jobs:
+        j["role_type"] = classify_title(j["title"])
+        if not j["role_type"]:
+            continue
         k = (j["company"], j["title"].strip().lower(), j["city"])
         if k in seen:
             continue
@@ -99,8 +171,10 @@ def main():
                  "City": j["city"], "Location (as posted)": j["location_raw"], "Posted on": j["posted"],
                  "Source": j["platform"], "Job link": j["url"]} for j in uniq]
 
+    excl = excluded_rows(meta, set(by))
     os.makedirs(OUT, exist_ok=True)
-    for name, rows in (("hiring_companies.csv", comp_rows), ("hiring_jobs.csv", job_rows)):
+    for name, rows in (("hiring_companies.csv", comp_rows), ("hiring_jobs.csv", job_rows),
+                       ("excluded_companies.csv", excl)):
         if rows:
             with open(os.path.join(OUT, name), "w", newline="", encoding="utf-8") as fh:
                 w = csv.DictWriter(fh, fieldnames=list(rows[0]))
@@ -110,7 +184,8 @@ def main():
     wb = Workbook()
     fill, font = PatternFill("solid", fgColor="1F3864"), Font(bold=True, color="FFFFFF")
     for title, rows, widths in (("Companies hiring", comp_rows, [34, 26, 26, 26, 24, 12, 40, 12, 70, 45, 45, 45]),
-                                ("All postings", job_rows, [30, 60, 30, 16, 40, 12, 14, 70])):
+                                ("All postings", job_rows, [30, 60, 30, 16, 40, 12, 14, 70]),
+                                ("Excluded companies", excl, [34, 26, 26, 26, 26, 28, 80, 45, 45, 45])):
         ws = wb.active if title == "Companies hiring" else wb.create_sheet(title)
         ws.title = title
         if not rows:
@@ -125,7 +200,10 @@ def main():
         ws.freeze_panes = "B2"
         ws.auto_filter.ref = ws.dimensions
     wb.save(os.path.join(OUT, "india_blue_team_hiring_last15days.xlsx"))
-    print(f"companies={len(comp_rows)} postings={len(job_rows)}")
+    from collections import Counter
+    print(f"companies={len(comp_rows)} postings={len(job_rows)} excluded={len(excl)}")
+    for k, v in Counter(r["Exclusion status"] for r in excl).most_common():
+        print(f"  excluded: {v:4d}  {k}")
     for r in comp_rows:
         print(f"  {r['Open blue-team roles (posted last 15 days)']:3d}  {r['Company']}  [{r['Cities hiring (Pune/Mumbai/Bengaluru)']}]")
 
